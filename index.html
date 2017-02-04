@@ -11,6 +11,8 @@
 	line-height: 120%;
 }
 
+a {text-decoration: none; }
+
 
 
 </style>
@@ -72,25 +74,43 @@
 <blockquote>
 <font size=3>
 
-<P><font color="red"><b>I am on the job market looking for faculty and research lab positions. Please contact me if you have an opening :) </b></font></P>
+<!--<P>You can find my academic CV <a href="papers/peter_cv.pdf">here</a>. </P>
+<P>You can find my resume <a href="papers/Peter_Chen_Resume.pdf">here</a>. </P>-->
 
-<P>
-I completed my PhD degree in Computer Science at <a href="http://www.queensu.ca">Queen's University</a> in the <a href="http://sail.cs.queensu.ca/">Software Analysis and Intelligence Lab (SAIL)</a> in September 2016, supervised by an amazing supervisor <a href="http://research.cs.queensu.ca/~ahmed/home/">Ahmed E. Hassan</a>. I am currently working in the Performance Engineering department at <a href="http://ca.blackberry.com/">BlackBerry</a>. I obtained my Bachelor's degree in Computer Science at the <a href="http://www.ubc.ca">University of British Columbia</a>, and MSc from Queen's University.
-</P>
+<P><font color="red"><b>I am on the job market looking for faculty and research lab positions. You can find my CV and resume here: </b>
+<br>
+<br>
+<a href="papers/peter_cv.pdf"><b>CV</b></a>
+<br>
+<a href="papers/Peter_Chen_Resume.pdf"><b>resume</b></a>
 
-<P>
-My current research focus is on improving the performance of large-scale database-centric software systems. I am particularly interested in applying Program Analysis and Data Mining techniques to help improve system performance. The bug detection tools that I designed and developed are deployed in production systems. The tools are able to detect different types of performance problems. For example, in one of the use cases, the tool helped improve memory usage on the database server by over 70%. The tools are now in the process of patent application (see my <a href="papers/peter_icse2014.pdf">ICSE 2014</a> and <a href="papers/peter_icse2014.pdf">ICSE-SEIP 2016</a> paper).
-</P>
-
-<P>
-
-I also have research experiences and interests in many areas of Software Engineering and Data Mining, including, but not limited to, text analysis, mining software repositories, and empirical software engineering.
-
+</font>
 
 </P>
 
-<P>You can find my academic CV <a href="papers/peter_cv.pdf">here</a>. </P>
-<P>You can find my resume <a href="papers/Peter_Chen_Resume.pdf">here</a>. </P>
+<P>
+I received my PhD in Computer Science from <a href="http://www.queensu.ca">Queen's University</a> in September 2016. I was a member of the <a href="http://sail.cs.queensu.ca/">Software Analysis and Intelligence Lab (SAIL)</a> and I was supervised by an amazing supervisor <a href="http://research.cs.queensu.ca/~ahmed/home/">Ahmed E. Hassan</a>. Before that, I received my MSc from Queen's University (under the same supervisor), and BSc in Computer Science from the <a href="http://www.ubc.ca">University of British Columbia</a>. During my PhD, I worked as an embedded researcher in the Performance Engineering department at <a href="http://ca.blackberry.com/">BlackBerry</a> from January 2013 to December 2016. 
+</P>
+
+<P>
+My research focus is on improving the performance of large-scale database-centric software systems. I am particularly interested in applying Program Analysis and Data Mining techniques to help developers improve system performance. I have developed bug detection tools for detecting database-related performance anti-patterns using both static (<a href="papers/peter_icse2014.pdf">ICSE 2014</a>) and dynamic analysis (<a href="papers/peter_tse2016.pdf">TSE 2016</a>). The tools that I developed are integrated into industrial practice and our experience reports are published at the premier conference in the Software Engineering community (<a href="papers/peter_icse_seip2016.pdf">ICSE-SEIP 2016</a> and ICSE-SEIP 2017).
+
+
+
+</P>
+
+<P>
+I am currently exploring how to help developers utilize different abstraction frameworks (e.g., database or big data abstraction frameworks). These abstraction frameworks bridge different programming paradigms by providing high-level APIs to developers. However, such abstraction can also lead to various Software Engineering challenges. In my recent <a href="papers/peter_fse2016.pdf">FSE 2016</a> paper, I propose a light-weight approach to optimize the configuration of application-level caches in database abstraction frameworks by leveraging runtime data. 
+</P>
+
+<P>
+
+I also have research experiences and interests in many areas of Software Engineering and Data Mining, including, but not limited to, text analysis (<a href="papers/peter_msr2012.pdf">MSR 2012</a>, <a href="papers/peter_jss2016.pdf">JSS 2016</a>, and <a href="papers/peter_emse_survey2015.pdf">EMSE 2016</a>), mining software repositories (<a href="papers/peter_msr2014.pdf">MSR 2014</a> and <a href="papers/tarek_apm_msr2016.pdf">MSR 2016-1</a>), and empirical software engineering (<a href="papers/peter_orm_msr2016.pdf">MSR 2016-2</a>).
+
+
+</P>
+
+
 
 
 </font>
@@ -125,9 +145,7 @@ I also have research experiences and interests in many areas of Software Enginee
 
 
 
-<li><p>
-<b>[JSS] Topic-based Software Defect Explanation</b> <small> (2014 Impact Factor: 1.485)</small><br><i><u>Tse-Hsun Chen</u></i>, Weiyi Shang, Meiyappan Nagappan, Ahmed E. Hassan, and Stephen W. Thomas</br>
-<br><a href="http://www.journals.elsevier.com/journal-of-systems-and-software/">Accepted in the Journal of Systems and Software, 2016</a> <a href="papers/peter_jss2016.pdf">Preprint</a>.</li>
+
 
 <li><p>
 <b>[TSE] Finding and Evaluating the Performance Impact of Redundant Data Access for Applications that are Developed Using Object-Relational Mapping Frameworks</b> <small> (2013 Impact Factor: 2.292)</small>
@@ -135,7 +153,7 @@ I also have research experiences and interests in many areas of Software Enginee
 <br><i><u>Tse-Hsun Chen</u></i>, Weiyi Shang, Zhen Ming Jiang, Ahmed E. Hassan, Mohamed Nasser, and Parminder Flora</br>
 
 </br>
-<img src="images/trophy.png"  style="width:35px;height:28px;"> <b><i>The paper was invited to ICSE 2017 as part of the Journal First initiative.</i></b>
+<img src="images/trophy.png"  style="width:35px;height:28px;"> <b>The paper was invited to ICSE 2017 as part of the Journal First initiative.</b>
 
 </br>
 <br><a href="https://www.computer.org/web/tse">Accepted in IEEE Transactions on Software Engineering, 2016</a> <a href="papers/peter_tse2016.pdf">Preprint</a>.</li>
@@ -147,9 +165,13 @@ I also have research experiences and interests in many areas of Software Enginee
 <b>[EMSE] A Survey on the Use of Topic Models when Mining Software Repositories</b> <small>(2014 Impact Factor: 2.161)</small>
 
 <br><i><u>Tse-Hsun Chen</u></i>, Stephen W. Thomas, and Ahmed E. Hassan</br>
-<br><a href="http://www.springer.com/computer/swe/journal/10664">Accepted in Empirical Software Engineering, 2015</a>  <a href="papers/peter_emse_survey2015.pdf">Preprint</a>.
+<br><a href="http://www.springer.com/computer/swe/journal/10664">Accepted in Empirical Software Engineering, 2016</a>  <a href="papers/peter_emse_survey2015.pdf">Preprint</a>.
 </li>
 
+
+<li><p>
+<b>[JSS] Topic-based Software Defect Explanation</b> <small> (2014 Impact Factor: 1.485)</small><br><i><u>Tse-Hsun Chen</u></i>, Weiyi Shang, Meiyappan Nagappan, Ahmed E. Hassan, and Stephen W. Thomas</br>
+<br><a href="http://www.journals.elsevier.com/journal-of-systems-and-software/">Accepted in the Journal of Systems and Software, 2016</a> <a href="papers/peter_jss2016.pdf">Preprint</a>.</li>
 
 </ul>
 
