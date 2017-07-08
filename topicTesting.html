@@ -7,7 +7,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Topic-based Defect Explanation</title>
+<title>Effect of Testing on Code Quality Using Topic Models</title>
 <style type="text/css">
 .abstract {
     font-family: Georgia, "Times New Roman", Times, serif;
@@ -49,36 +49,65 @@ hr {
 
 <body>
 
-<p><img src="http://sail.cs.queensu.ca/logo.jpg" /></p>
+<p><img src="images/concordia_logo.png" style="width:512px;height:128px;"/></p>
 <hr />
-<h1>Replication Data</h1>
-<h2>An Empirical Study on Topic Defect-Proneness and Testedness</h2>
+<h1>Data</h1>
+<h2>An Empirical Study on the Effect of Testing on Code Quality Using Topic Models: A Case Study on Software Development Systems</h2>
 <h3>Tse-Hsun Chen, Stephen W. Thomas, Hadi Hemmati, Meiyappan Nagappan, and Ahmed E. Hassan.<br/>
 </h3>
 <br />
 <h3>Abstract</h3>
 <p class="abstract"> 
 
-Testing is a practical approach for detecting defects prior to the release of a software system. Previous research in software testing has proposed many approaches to determine which files require additional testing resources. However, practitioners typically do not create tests at the file level; instead, they create tests for particular features (or conceptual concerns) of the system, which may span across many individual files. In this paper, we are the first to empirically investigate how conceptual concerns are tested in practice. To do so, we first use an advanced statical technique, called topic models, to approximate the conceptual concerns in the source code files as <i>topics</i>. We then propose measures of how well- tested and defect-prone a given topic is, allowing us to discover which topics are well-tested, which are defect-prone, and if there is any relationship between the two. We use our proposed approach to perform empirical case studies on the histories of Mylyn, Eclipse, and NetBeans. We find that (i) between 34% and 78% of topics are shared between source code and test files, indicating that we can indeed use topic models to study testing; (ii) when a topic is highly tested, it will have fewer defects, and when a topic is less tested, it may be either defect-prone or not defect-prone; (iii) we can, with relatively high precision and recall, predict which topics are not well tested and defect-prone; and (iv) our approach is better than traditional prediction-based testing approaches in terms of testing and code inspection effort. By using our approach, practitioners can better allocate testing efforts, focusing on those files that are associated with topics (i.e., features) that are not well tested, yet prone to defects.
+Previous research in defect prediction has proposed
+approaches to determine which files require additional testing
+resources. However, practitioners typically create tests at a
+higher-level of abstraction, which may span across many files.
+In this paper, we study software testing, especially test resource
+prioritization, from a different perspective. We use topic models
+to generate topics that provide a high-level view of a system,
+allowing developers to look at the test case coverage from a
+different angle. We propose measures of how well-tested and
+defect-prone a topic is, allowing us to discover which topics are
+well-tested and which are defect-prone. We conduct case studies
+on the histories of Mylyn, Eclipse, and NetBeans. We find that (i)
+34 to 78% of topics are shared between source code and test files,
+indicating that we can use topic models to study testing; (ii) well-tested
+topics are usually less defect-prone; defect-prone topics are
+usually under-tested; (iii) we can predict which topics are defect-prone
+but not well-tested with an average precision and recall
+of 75% and 77%, respectively; (iv) our approach complements
+traditional prediction-based approaches by saving testing and
+code inspection effort; and (v) our approach is not particularly
+sensitive to the parameters that we use.
+
 
 </p>
 
 <h3>BibTeX</h3>
 
-(Under submission)
+@ARTICLE{topicTesting, 
+	author={T. H. Chen and S. W. Thomas and H. Hemmati and M. Nagappan and A. E. Hassan}, 
+	journal={IEEE Transactions on Reliability}, 
+	title={An Empirical Study on the Effect of Testing on Code Quality Using Topic Models: A Case Study on Software Development Systems}, 
+	year={2017}, 
+	volume={PP}, 
+	number={99}, 
+	pages={1-19}, 
+}
 
 <h3> Supplementary Tables and Figures</h3>
 <ul>
 
-<li> <a href="data/numTopicsInEachClass.pdf">Number of topics in each class (LTHD, LTLD, HTLD, and HTHD)</a> </li>
-<li> <a href="data/sensitivityAnalysis.pdf">Sensitivity Analysis</a> </li>
-<li> <a href="data/thresholdStudy.pdf">Prediction Threshold Analysis</a> </li>
+<li> <a href="data/topicTesting/numTopicsInEachClass.pdf">Number of topics in each class (LTHD, LTLD, HTLD, and HTHD)</a> </li>
+<li> <a href="data/topicTesting/sensitivityAnalysis.pdf">Sensitivity Analysis</a> </li>
+<li> <a href="data/topicTesting/thresholdStudy.pdf">Prediction Threshold Analysis</a> </li>
 
 </ul>
 
 
 
-<h3>Data and Scripts</h3>
+<h3>Data</h3>
 <p>
 
 <ul>
@@ -87,7 +116,7 @@ Testing is a practical approach for detecting defects prior to the release of a 
 
 <ul>
 
-<li> <a href="data/topicInfo.tar.gz">Topic Information</a> (all systems) </li>
+<li> <a href="data/topicTesting/topicInfo.tar.gz">Topic Information</a> (all systems) </li>
 
 </ul>
 
@@ -95,13 +124,13 @@ Testing is a practical approach for detecting defects prior to the release of a 
 
 <ul>
 
-<li> <a href="data/manuallyVerifiedFiles.tar.gz">Manually classified file</a> (all systems) </li>
+<li> <a href="data/topicTesting/manuallyVerifiedFiles.tar.gz">Manually classified file</a> (all systems) </li>
 
 </ul>
 
 <ul>
 
-<li> <a href="data/bugdata.tar.gz">Defect data</a> (all systems) </li>
+<li> <a href="data/topicTesting/bugdata.tar.gz">Defect data</a> (all systems) </li>
 
 
 </ul>
