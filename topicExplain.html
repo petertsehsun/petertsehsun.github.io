@@ -1,0 +1,102 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Topic-based Defect Explanation</title>
+<style type="text/css">
+.abstract {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    line-height: 1.2em;
+    text-align: justify;
+    width: 800px;
+}
+.bibtex {
+    font-family: "Courier New", Courier, monospace;
+    width: 800px;
+    font-size: 12px;
+    line-height: 1.5em;
+    background-color: #EEE;
+}
+body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 14px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+hr {
+    width: 800px;
+}
+</style>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-67313880-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+</head>
+
+<body>
+
+<p><img src="images/concordia_logo.png" style="width:512px;height:128px;"/></p>
+<hr />
+<h1>Data</h1>
+<h2>Topic-based Defect Explanation</h2>
+<h3>Tse-Hsun Chen, Stephen W. Thomas, Meiyappan Nagappan, and Ahmed E. Hassan.<br/>
+</h3>
+<br />
+<h3>Abstract</h3>
+<p class="abstract"> 
+
+Researchers continue to propose metrics using measurable aspects of a software system to understand code quality. However, these metrics largely ignore the functionality, i.e., the <i>conceptual concerns</i>, of a software system. Such concerns are the main technical concepts that reflect the business logic of the system. For instance, while lines of code may be a good general measure for defects, a large file responsible for simple I/O tasks is likely to have fewer defects than a small file responsible for complicated compiler implementation details.
+In this paper, we study the effect of concerns on code quality. We use a statistical topic modeling approach to approximate software concerns as <i> topics</i>. We propose various metrics on these topics to help explain the file defect-proneness (i.e., quality). Case studies on multiple versions of Firefox, Eclipse, Mylyn, and NetBeans show that (i) some topics are more defect-prone than others; (ii) defect-prone topics tend to remain so over time; (iii) our topic-based metrics provide additional explanatory power for code quality over existing structural and historical metrics; and (iv) our topic-based cohesion metric outperforms state-of-the-art topic-based cohesion and coupling metrics in terms of defect explanatory power, while being simpler to implement and more intuitive to interpret.
+
+</p>
+
+<h3>BibTeX</h3>
+
+@article{topicExplain,
+ author = {Chen, Tse-Hsun and Shang, Weiyi and Nagappan, Meiyappan and Hassan, Ahmed E. and Thomas, Stephen W.},
+ title = {Topic-based Software Defect Explanation},
+ journal = {J. Syst. Softw.},
+ issue_date = {July 2017},
+ volume = {129},
+ number = {C},
+ month = jul,
+ year = {2017},
+ pages = {79--106},
+ numpages = {28},
+} 
+
+<h3>Data </h3>
+<p>
+
+<ul>
+
+<li>Topic Information Data (topic defect density and words etc.) </li>
+
+<ul>
+<li> <a href="data/topicExplain/topicInfo.tar.gz">Topic Information</a> (all systems) </li>
+<li><a href="data/topicExplain/readme.txt">Read Me</a></li>
+</ul>
+</ul>
+
+</p>
+
+<br/>
+<br/>
+<br/>
+</body>
+</html>
+
+
+
