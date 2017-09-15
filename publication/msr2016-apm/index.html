@@ -52,11 +52,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="https://petertsehsun.github.io/publication/fse2016/">
+  <link rel="canonical" href="https://petertsehsun.github.io/publication/msr2016-apm/">
 
   
 
-  <title>CacheOptimizer: Helping Developers Configure Caching Frameworks for Hibernate-based Database-centric Web Applications | Tse-Hsun (Peter) Chen&#39;s website</title>
+  <title>Studying the Effectiveness of Application Performance Management (APM) Tools for Detecting Performance Regressions for Web Applications: An Experience Report | Tse-Hsun (Peter) Chen&#39;s website</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -144,10 +144,10 @@
 
 
   <div class="container pub-title">
-    <h1 itemprop="name">CacheOptimizer: Helping Developers Configure Caching Frameworks for Hibernate-based Database-centric Web Applications</h1>
+    <h1 itemprop="name">Studying the Effectiveness of Application Performance Management (APM) Tools for Detecting Performance Regressions for Web Applications: An Experience Report</h1>
     <span class="pub-authors" itemprop="author">
       
-      Tse-Hsun Chen, Weiyi Shang, Ahmed E. Hassan, Mohamed Nasser, Parminder Flora
+      Tarek M. Ahmed, Cor-Paul Bezemer, Tse-Hsun Chen, Ahmed E. Hassan, Weiyi Shang
       
     </span>
     <span class="pull-right">
@@ -156,35 +156,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fpetertsehsun.github.io%2fpublication%2ffse2016%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fpetertsehsun.github.io%2fpublication%2fmsr2016-apm%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=CacheOptimizer%3a%20Helping%20Developers%20Configure%20Caching%20Frameworks%20for%20Hibernate-based%20Database-centric%20Web%20Applications&amp;url=https%3a%2f%2fpetertsehsun.github.io%2fpublication%2ffse2016%2f"
+         href="https://twitter.com/intent/tweet?text=Studying%20the%20Effectiveness%20of%20Application%20Performance%20Management%20%28APM%29%20Tools%20for%20Detecting%20Performance%20Regressions%20for%20Web%20Applications%3a%20An%20Experience%20Report&amp;url=https%3a%2f%2fpetertsehsun.github.io%2fpublication%2fmsr2016-apm%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fpetertsehsun.github.io%2fpublication%2ffse2016%2f&amp;title=CacheOptimizer%3a%20Helping%20Developers%20Configure%20Caching%20Frameworks%20for%20Hibernate-based%20Database-centric%20Web%20Applications"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fpetertsehsun.github.io%2fpublication%2fmsr2016-apm%2f&amp;title=Studying%20the%20Effectiveness%20of%20Application%20Performance%20Management%20%28APM%29%20Tools%20for%20Detecting%20Performance%20Regressions%20for%20Web%20Applications%3a%20An%20Experience%20Report"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fpetertsehsun.github.io%2fpublication%2ffse2016%2f&amp;title=CacheOptimizer%3a%20Helping%20Developers%20Configure%20Caching%20Frameworks%20for%20Hibernate-based%20Database-centric%20Web%20Applications"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fpetertsehsun.github.io%2fpublication%2fmsr2016-apm%2f&amp;title=Studying%20the%20Effectiveness%20of%20Application%20Performance%20Management%20%28APM%29%20Tools%20for%20Detecting%20Performance%20Regressions%20for%20Web%20Applications%3a%20An%20Experience%20Report"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=CacheOptimizer%3a%20Helping%20Developers%20Configure%20Caching%20Frameworks%20for%20Hibernate-based%20Database-centric%20Web%20Applications&amp;body=https%3a%2f%2fpetertsehsun.github.io%2fpublication%2ffse2016%2f">
+         href="mailto:?subject=Studying%20the%20Effectiveness%20of%20Application%20Performance%20Management%20%28APM%29%20Tools%20for%20Detecting%20Performance%20Regressions%20for%20Web%20Applications%3a%20An%20Experience%20Report&amp;body=https%3a%2f%2fpetertsehsun.github.io%2fpublication%2fmsr2016-apm%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -201,7 +201,7 @@
   
 
   <h3>Abstract</h3>
-  <p class="pub-abstract" itemprop="text">To help improve the performance of database-centric cloud-based web applications, developers usually use caching frameworks to speed up database accesses. Such caching frameworks require extensive knowledge of the application to operate effectively. However, all too often developers have limited knowledge about the intricate details of their own application. Hence, most developers find configuring caching frameworks a challenging and time-consuming task that requires extensive and scattered code changes. Furthermore, developers may also need to frequently change such configurations to accommodate the ever changing workload. In this paper, we propose CacheOptimizer, a lightweight approach that helps developers optimize the configuration of caching frameworks for web applications that are implemented using Hibernate. CacheOptimizer leverages readily-available web logs to create mappings between a workload and database accesses. Given the mappings, CacheOptimizer discovers the optimal cache configuration using coloured Petri nets, and automatically adds the appropriate cache configurations to the application. We evaluate CacheOptimizer on three open-source web applications. We find that i) CacheOptimizer improves the throughput by 27-138%; and ii) after considering both the memory cost and throughput improvement, CacheOptimizer still brings statistically significant gains (with mostly large effect sizes) in comparison to the application&rsquo;s default cache configuration and to blindly enabling all possible caches.</p>
+  <p class="pub-abstract" itemprop="text">Performance regressions, such as a higher CPU utilization than in the previous version of an application, are caused by software application updates that negatively affect the performance of an application. Although a plethora of mining software repository research has been done to detect such regressions, research tools are generally not readily available to practitioners. Application Performance Management (APM) tools are commonly used in practice for detecting performance issues in the field by mining operational data. In contrast to performance regression detection tools that assume a changing code base and a stable workload, APM tools mine operational data to detect performance anomalies caused by a changing workload in an otherwise stable code base. Although APM tools are widely used in practice, no research has been done to understand 1) whether APM tools can identify performance regressions caused by code changes and 2) how well these APM tools support diagnosing the root-cause of these regressions. In this paper, we explore if the readily accessible APM tools can help practitioners detect performance regressions. We perform a case study using three commercial (AppDynamics, New Relic and Dynatrace) and one open source (Pinpoint) APM tools. In particular, we examine the effectiveness of leveraging these APM tools in detecting and diagnosing injected performance regressions (excessive memory usage, high CPU utilization and inefficient database queries) in three open source applications. We find that APM tools can detect most of the injected performance regressions, making them good candidates to detect performance regressions in practice. However, there is a gap between mining approaches that are proposed in state-of-the-art performance regression detection research and the ones used by APM tools. In addition, APM tools lack the ability to be extended, which makes it hard to enhance them when exploring novel mining approaches for detecting performance regressions.</p>
 
   
 
@@ -210,7 +210,7 @@
     <div class="col-sm-10">
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-        <div class="col-xs-12 col-sm-9">International Symposium on the Foundations of Software Engineering</div>
+        <div class="col-xs-12 col-sm-9">International Conference on Mining Software Repositories</div>
       </div>
     </div>
     <div class="col-sm-1"></div>
@@ -223,7 +223,7 @@
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
         <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-          November, 2016
+          June, 2016
         </div>
       </div>
     </div>
@@ -243,7 +243,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://petertsehsun.github.io/papers/peter_fse2016.pdf">
+<a class="btn btn-primary btn-outline" href="https://petertsehsun.github.io/papers/tarek_apm_msr2016.pdf">
   PDF
 </a>
 
@@ -272,12 +272,12 @@
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="https://petertsehsun.github.io/publication/tse2016/"><span
-      aria-hidden="true">&larr;</span> Finding and Evaluating the Performance Impact of Redundant Data Access for Applications that are Developed Using Object-Relational Mapping Frameworks</a></li>
+    <li class="previous"><a href="https://petertsehsun.github.io/publication/jss2016/"><span
+      aria-hidden="true">&larr;</span> Topic-based Software Defect Explanation</a></li>
     
 
     
-    <li class="next"><a href="https://petertsehsun.github.io/publication/emse2017-so/">Understanding the Factors for Fast Answers in Technical Q&amp;A Websites: An Empirical Study on Four Stack Exchange Websites <span
+    <li class="next"><a href="https://petertsehsun.github.io/publication/msr2016/">An Empirical Study on the Practice of Maintaining Object-Relational Mapping Code in Java Systems <span
       aria-hidden="true">&rarr;</span></a></li>
     
   </ul>

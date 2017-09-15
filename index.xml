@@ -39,6 +39,24 @@
     </item>
     
     <item>
+      <title>Studying Software Logging Using Topic Models</title>
+      <link>https://petertsehsun.github.io/publication/emse2017-log/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2017-log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the Factors for Fast Answers in Technical Q&amp;A Websites: An Empirical Study on Four Stack Exchange Websites</title>
+      <link>https://petertsehsun.github.io/publication/emse2017-so/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2017-so/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CacheOptimizer: Helping Developers Configure Caching Frameworks for Hibernate-based Database-centric Web Applications</title>
       <link>https://petertsehsun.github.io/publication/fse2016/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
@@ -71,6 +89,15 @@
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/msr2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studying the Effectiveness of Application Performance Management (APM) Tools for Detecting Performance Regressions for Web Applications: An Experience Report</title>
+      <link>https://petertsehsun.github.io/publication/msr2016-apm/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/msr2016-apm/</guid>
       <description></description>
     </item>
     
@@ -836,33 +863,6 @@ Here&#39;s some important information...
  &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>A Survey on the Use of Topic Models when Mining Software Repositories</title>
-      <link>https://petertsehsun.github.io/publication/emse2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/emse2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improving the Quality of Large-Scale Database-Centric Software Systems by Analyzing Database Access Code</title>
-      <link>https://petertsehsun.github.io/publication/icde2015/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/icde2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Detecting Performance Anti-patterns for Applications Developed using Object-relational Mapping</title>
-      <link>https://petertsehsun.github.io/publication/icse2014/</link>
-      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/icse2014/</guid>
-      <description></description>
     </item>
     
   </channel>
