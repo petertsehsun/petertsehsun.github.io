@@ -231,7 +231,27 @@
     <url>
     
       <loc>https://petertsehsun.github.io/publication_types/1/</loc>
-      <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-06-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/publication_types/2/</loc>
+      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/cache/</loc>
+      <lastmod>2016-11-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -241,6 +261,26 @@
     <url>
     
       <loc>https://petertsehsun.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/database/</loc>
+      <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/empirical/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -269,8 +309,48 @@
     
     <url>
     
+      <loc>https://petertsehsun.github.io/tags/log/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/orm/</loc>
+      <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/performance/</loc>
+      <lastmod>2017-06-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://petertsehsun.github.io/publication_types/</loc>
-      <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-06-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/stackoverflow/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -281,6 +361,46 @@
     
       <loc>https://petertsehsun.github.io/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/testing/</loc>
+      <lastmod>2017-06-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/topic-model/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/topicmodel/</loc>
+      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/topicmodels/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
