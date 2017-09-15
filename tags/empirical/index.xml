@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Empirical on Tse-Hsun (Peter) Chen&#39;s website</title>
+    <link>https://petertsehsun.github.io/tags/empirical/</link>
+    <description>Recent content in Empirical on Tse-Hsun (Peter) Chen&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Tse-Hsun (Peter) Chen</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/empirical/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Studying Software Logging Using Topic Models</title>
+      <link>https://petertsehsun.github.io/publication/emse2017-log/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2017-log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the Factors for Fast Answers in Technical Q&amp;A Websites: An Empirical Study on Four Stack Exchange Websites</title>
+      <link>https://petertsehsun.github.io/publication/emse2017-so/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2017-so/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study on the Practice of Maintaining Object-Relational Mapping Code in Java Systems</title>
+      <link>https://petertsehsun.github.io/publication/msr2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/msr2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study of Dormant Bug</title>
+      <link>https://petertsehsun.github.io/publication/msr2014/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/msr2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

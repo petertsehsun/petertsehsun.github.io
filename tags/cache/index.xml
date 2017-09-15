@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cache on Tse-Hsun (Peter) Chen&#39;s website</title>
+    <link>https://petertsehsun.github.io/tags/cache/</link>
+    <description>Recent content in Cache on Tse-Hsun (Peter) Chen&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Tse-Hsun (Peter) Chen</copyright>
+    <lastBuildDate>Wed, 02 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/cache/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CacheOptimizer: Helping Developers Configure Caching Frameworks for Hibernate-based Database-centric Web Applications</title>
+      <link>https://petertsehsun.github.io/publication/fse2016/</link>
+      <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/fse2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

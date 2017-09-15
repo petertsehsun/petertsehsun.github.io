@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Tse-Hsun (Peter) Chen&#39;s website</title>
+    <link>https://petertsehsun.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Tse-Hsun (Peter) Chen&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Tse-Hsun (Peter) Chen</copyright>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>An Empirical Study on the Effect of Testing on Code Quality Using Topic Models: A Case Study on Software Development Systems</title>
+      <link>https://petertsehsun.github.io/publication/tr2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tr2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studying Software Logging Using Topic Models</title>
+      <link>https://petertsehsun.github.io/publication/emse2017-log/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2017-log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the Factors for Fast Answers in Technical Q&amp;A Websites: An Empirical Study on Four Stack Exchange Websites</title>
+      <link>https://petertsehsun.github.io/publication/emse2017-so/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2017-so/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding and Evaluating the Performance Impact of Redundant Data Access for Applications that are Developed Using Object-Relational Mapping Frameworks</title>
+      <link>https://petertsehsun.github.io/publication/tse2016/</link>
+      <pubDate>Sat, 02 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topic-based Software Defect Explanation</title>
+      <link>https://petertsehsun.github.io/publication/jss2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/jss2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey on the Use of Topic Models when Mining Software Repositories</title>
+      <link>https://petertsehsun.github.io/publication/emse2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

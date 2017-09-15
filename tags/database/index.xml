@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database on Tse-Hsun (Peter) Chen&#39;s website</title>
+    <link>https://petertsehsun.github.io/tags/database/</link>
+    <description>Recent content in Database on Tse-Hsun (Peter) Chen&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Tse-Hsun (Peter) Chen</copyright>
+    <lastBuildDate>Wed, 02 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/database/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CacheOptimizer: Helping Developers Configure Caching Frameworks for Hibernate-based Database-centric Web Applications</title>
+      <link>https://petertsehsun.github.io/publication/fse2016/</link>
+      <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/fse2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding and Evaluating the Performance Impact of Redundant Data Access for Applications that are Developed Using Object-Relational Mapping Frameworks</title>
+      <link>https://petertsehsun.github.io/publication/tse2016/</link>
+      <pubDate>Sat, 02 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Problems in Database Access Code of Large Scale Systems - An Industrial Experience Report</title>
+      <link>https://petertsehsun.github.io/publication/icse2016-seip/</link>
+      <pubDate>Thu, 02 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2016-seip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the Quality of Large-Scale Database-Centric Software Systems by Analyzing Database Access Code</title>
+      <link>https://petertsehsun.github.io/publication/icde2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icde2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Performance Anti-patterns for Applications Developed using Object-relational Mapping</title>
+      <link>https://petertsehsun.github.io/publication/icse2014/</link>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
