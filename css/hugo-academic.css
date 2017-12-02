@@ -430,7 +430,7 @@ article {
 }
 
 .article-title {
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 .article-title a {
@@ -528,27 +528,27 @@ article {
 }
 
 .pub-list-item {
-  margin-bottom: 40px;
+  margin-bottom: 00px;
 }
 
 .pub-list-item .pub-abstract {
-  font-size: 1rem;
+  font-size: 0.8rem;
 }
 
 .pub-list-item .pub-authors {
   line-height: normal;
   font-style: normal;
-  font-size: 1rem;
+  font-size: 0.6rem;
   color: #3170A5;
 }
 
 .pub-list-item .pub-publication {
   color: #090;
-  font-size: 1rem;
+  font-size: 0.8rem;
 }
 
 .pub-list-item .pub-links {
-  padding-top: 10px;
+  padding-top: 5px;
 }
 
 #container-publications {
@@ -587,6 +587,8 @@ article {
   font-size: 0.9rem;
   margin-bottom: 0.4rem;
 }
+
+
 
 #projects.home-section .project-tags {
   font-size: 0.75rem;
