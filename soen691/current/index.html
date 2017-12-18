@@ -1,0 +1,136 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>SOEN 691:Mining Large Software System Data for DevOps (Fall 2016)</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1"><LINK 
+href="../../../resources/swag.css" type=text/css rel=stylesheet>
+<BODY class=page>
+<TABLE class=layoutTable align=center>
+  <TBODY><!-- header row starts -->
+<!-- header row ends -->
+  <TR>
+    <TD class=locationBar colSpan=2>
+<SPAN class=logo>
+<CENTER>
+<FONT face=Verdana color=#031e69 size=+1><B>
+SOEN 691:Mining Large Software System Data for DevOps (Fall 2016)
+</B>
+</FONT>
+</CENTER>
+</SPAN>
+</TD></TR>
+  <TR>
+    <TD class=page colSpan=2>
+<!-- main content starts -->
+      <P><FONT face=Verdana color=#031e69 size=+1><B>COURSE OVERVIEW</B></FONT>
+<BR>
+	Large software systems (e.g., Amazon.com and Google's GMail) pose new challenges for software engineers and operators. These systems require near-perfect up-time while supporting millions of concurrent connections and operations. Failures and errors in such systems may bring financial and reputational repercussions.
+	During the life cycle of such software systems, developers are focused on developing feature rich and bug-free software, while operators are focused on ensuring a failure-free and scalable operation of the software. In current practice, there is a gap between software developers and operators. Software developers are rarely given access to field knowledge (i.e., information about the real-field deployments), while operators are rarely aware of the development knowledge (e.g., internal details about new features). For instance, developers need field knowledge to understand whether their design and implementation perform well in the field, while operators need development knowledge to help them resolve operational problems. If development teams are aware that a particular piece of code is critical based on field executions, then they are more likely to improve the code and assign it to more senior developers. If operators have more in-depth knowledge about the design or the inner-meaning of error messages, they might be able to resolve problems in a timely fashion without needing to wait for the intervention of developers.
+	DevOps is a software development and operation method that share the concerns about the divide between these two worlds and have proposed the need to bridge these two worlds through better documentation and communication channels. DevOps particularly focuses on communication and collaboration software developers and operators and has been adopted by large software companies such as Google and Facebook. Large companies like Amazon even create new services to facilitate the work for DevOps. It is of great interest to learn how to effectively and efficiently perform DevOps (development and operation) for such systems.
+</p>
+
+      <P><FONT face=Verdana color=#031e69 size=+1><B>COURSE OBJECTIVES</B></FONT>
+<BR>
+	This course explores leading research in the development and operation of large software systems, discusses challenges associated with bridging the development and operation activities of such systems, highlights industrial engineering practice, and outlines future research directions. In particular, the course leverages the mining of data that is generated during the development and operation of large software systems in order to support DevOps. Students will acquire the advance knowledge about the development and operations in the field. Once completed, students should be able to conduct research in topics related to the DevOps and will be able to leverage the learnt techniques in other system and software engineering related research or practice.</P>
+
+      <P><FONT face=Verdana color=#031e69 size=+1><B>COURSE SCHEDULE</B></FONT>
+<BR>
+<BR>
+<b><font color="red">
+Classes are held on every Tuesday 1:30 PM to 4:00 PM at H 537 SGW.
+<br> 
+</font></b> 
+<BR>
+<BR>
+Each class, students will present and discuss around three papers. A detailed schedule is available <b><a href="schedule.html">here</a></b>. Each class will cover papers along one of the following themes:
+<ul>
+<li> Performance engineering
+<li> Performance counters and measurements
+<li> Log engineering
+<li> Debugging ultra-large-scale systems
+<li> System configuration
+<li> Empirical studies of large software data
+</ul>
+</P>
+
+
+      <P><FONT face=Verdana color=#031e69 size=+1><B>COURSE REQUIREMENTS</B></FONT>
+<BR>
+Students are expected to have some background in software development and software engineering. Knowledge of ultra-large-scale systems will be beneficial but not expected.
+<BR>
+<BR>
+Students will be evaluated using the following breakdown:
+<BR>
+
+<BR><BR><FONT face=Verdana color=#b22222><B>1. Paper presentation and discussion (10%+5%+5%):</B></FONT>
+<BR> Each paper will be assigned to one group of students who will act as a presenter, another one group of students who will act as discussant. The presentation will last 15 mins for presenter and 5 mins for the discussant <u><b><i>strict</i></b></u>. After the presentation from the presenter, one student will be picked randomly to use 1 minutes summarizing the paper. Afterwards the discussion will last 10-20 mins. Each student should upload the slides to easy chair before class.
+
+<UL>
+<LI><B>Role of presenter:</B> As a presenter you should not simply repeat the paper's content (remember you only have 15 mins), instead you should point out the main important findings of the work. You should highlight any novel contributions, any surprises, and other possible applications of the proposed techniques. You should check the authors' other work related to the presented paper. Finally you should place the work relative other papers covered in the course (especially the papers covered in that particular week).
+<LI><B>Role of discussant:</B> As a discussant, you should take an adversarial position by pointing out weak and controversial positions in the paper. You should present a short rebuttal of the paper. You should come prepared with problems and counterexamples for the presented work. 
+</UL>
+
+Your presentations should have
+<UL>
+<LI> one slide that lists the main contributions of the paper.
+<LI> one slide that places the paper relative to any recent work done by the authors of the paper. 
+<LI> one slide that links places the paper relative to other papers presented that week.
+<LI> as the <b><i><u>final</b></i></u> slide, a listing of at least three technical points that you liked and three areas that should be improved. 
+</UL>
+
+<FONT face=Verdana color=#b22222><B>2. Weekly critique (10%):</B></FONT>
+<BR>Each week, each student should pick one of the papers for that week and submit on easy chair a one page critique of the paper before the start of class. The critique should offer a brief summary of the paper, points in favor, points against, and comments for improvement. You do not need to submit a critique if you act as presenter in that week. Additional advice for critiquing papers is <a href="http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F14/papers/reviewing-smith.pdf">here</a>. 
+
+
+
+<BR><BR><FONT face=Verdana color=#b22222><B>3. Assignment (20%):</B></FONT>
+<BR>	One assignment done in a group of 3 or 4 students. More details in class.
+
+
+<!--
+<OL>
+<LI><B>Assignment 0:</B> Email a list of your group members and pick one open source projects to be used for Assignments 1 and 2. Explain your motivation for picking the project and give a brief overview of available repositories for that project. <i>Hand in a 1-2 page report</i>. 
+
+<LI><B>Assignment 1:</B> Pick ten hypotheses that you can conveniently test using data from the repositories of the project which you picked in Assignment 0. <i>Hand in a 10-12 page report</i>. The report should motivate why you picked these hypotheses. The report should also explain your plans for testing each one of your hypotheses and your expectations. Make sure you map each hypothesis to the project repositories which you presented in Assignment 0. You may want to refer to these two papers for possible hypotheses or derive others based on literature and your intuition.
+
+<UL>
+<LI><a href="http://ieeexplore.ieee.org/search/wrapper.jsp?arnumber=1463231">
+The FreeBSD Project: A Replication Case Study of Open Source Development
+</a>
+<BR>
+Trung T. Dinh-Trong and James M. Bieman
+
+<LI><a href="http://ieeexplore.ieee.org/search/wrapper.jsp?arnumber=1274044">
+An Empirical Study of Open-Source and Closed-Source Software Products
+</A>
+<BR>
+James Paulson, Giancarlo Succi, and Armin Eberlein
+</UL>
+
+<LI><B>Assignment 2:</B> Test your ten hypotheses. Make sure you explain how you collected your data and summarize your findings. Compare your findings against your expectations in Assignment 1 and other findings in literature. <i>Hand in a 10-12 page report.</i>
+</OL>
+-->
+<BR><BR>
+
+<FONT face=Verdana color=#b22222><B>4. Project (50%=10%+40%):</B></FONT>
+<BR>One original project (10 pages <a href="papers/IEEETemplate.zip">IEEE</a> format) done alone or in a group of 2 or 3 students. The project will explore one or more of the themes covered in the course. 
+
+<BR>You need to submit a project proposal (2 pages IEEE format). The proposal should provide a brief motivation of the project, a detailed discussion of the data and systems that will be used in the project, along with a timeline of milestones, and expected outcome. Make sure that you have cited at least 3 papers in your proposal. Additional advice for project proposals will be disused in class. The proposal does not worth any grade. The goal is to ensure the feasibility of the project.
+
+<BR>You need to present the update of the project in class. The presentation worths 10% of the final grade.
+	
+</P>
+
+
+
+
+</FONT></P><!-- main content ends --></TD></TR></TBODY></TABLE>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3154099-1";
+urchinTracker();
+</script>
+</BODY></HTML>
+
+
