@@ -4,6 +4,7 @@
 <META http-equiv=Content-Type content="text/html; charset=iso-8859-1"><LINK 
 href="../../../resources/swag.css" type=text/css rel=stylesheet>
 
+<!--
     <script>
       window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
       ga('create', 'UA-67313880-1', 'auto');
@@ -15,7 +16,7 @@ href="../../../resources/swag.css" type=text/css rel=stylesheet>
     <script async src="//www.google-analytics.com/analytics.js"></script>
     
     <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
-
+    -->
 </HEAD>
 <BODY class=page>
 <TABLE class=layoutTable align=center>
@@ -38,19 +39,21 @@ SOEN 691:Mining Large Software System Data for DevOps (Winter 2018)
       <P><FONT face=Verdana color=#031e69 size=+1><B>COURSE OVERVIEW</B></FONT>
 <BR>
 	Large software systems (e.g., Amazon.com and Google's GMail) pose new challenges for software engineers and operators. These systems require near-perfect up-time while supporting millions of concurrent connections and operations. Failures and errors in such systems may bring financial and reputational repercussions.
+	<p>
 	During the life cycle of such software systems, developers are focused on developing feature rich and bug-free software, while operators are focused on ensuring a failure-free and scalable operation of the software. In current practice, there is a gap between software developers and operators. Software developers are rarely given access to field knowledge (i.e., information about the real-field deployments), while operators are rarely aware of the development knowledge (e.g., internal details about new features). For instance, developers need field knowledge to understand whether their design and implementation perform well in the field, while operators need development knowledge to help them resolve operational problems. If development teams are aware that a particular piece of code is critical based on field executions, then they are more likely to improve the code and assign it to more senior developers. If operators have more in-depth knowledge about the design or the inner-meaning of error messages, they might be able to resolve problems in a timely fashion without needing to wait for the intervention of developers.
+	</p>
 	DevOps is a software development and operation method that share the concerns about the divide between these two worlds and have proposed the need to bridge these two worlds through better documentation and communication channels. DevOps particularly focuses on communication and collaboration software developers and operators and has been adopted by large software companies such as Google and Facebook. Large companies like Amazon even create new services to facilitate the work for DevOps. It is of great interest to learn how to effectively and efficiently perform DevOps (development and operation) for such systems.
 </p>
 
       <P><FONT face=Verdana color=#031e69 size=+1><B>COURSE OBJECTIVES</B></FONT>
 <BR>
-	This course explores leading research in the development and operation of large software systems, discusses challenges associated with bridging the development and operation activities of such systems, highlights industrial engineering practice, and outlines future research directions. In particular, the course leverages the mining of data that is generated during the development and operation of large software systems in order to support DevOps. Students will acquire the advance knowledge about the development and operations in the field. Once completed, students should be able to conduct research in topics related to the DevOps and will be able to leverage the learnt techniques in other system and software engineering related research or practice.</P>
+	This course explores leading research in the development and operation of large software systems, discusses challenges associated with bridging the development and operation activities of such systems, highlights industrial engineering practice, and outlines future research directions. In particular, the course leverages the mining and analyzing of data that is generated during the development and operation of large software systems in order to support DevOps. Students will acquire the advance knowledge about the development and operations in the field. Once completed, students should be able to conduct research in topics related to the DevOps and will be able to leverage the learned knowledge in other system and software engineering related research or practice.</P>
 
       <P><FONT face=Verdana color=#031e69 size=+1><B>COURSE SCHEDULE</B></FONT>
 <BR>
 <BR>
 <b><font color="red">
-Classes are held on every Tuesday 1:30 PM to 4:00 PM at H 537 SGW.
+Classes are held on every Friday 2:45 PM to 5:30 PM at H 429 SGW.
 <br> 
 </font></b> 
 <BR>
@@ -76,14 +79,14 @@ Students will be evaluated using the following breakdown:
 <BR>
 
 <BR><BR><FONT face=Verdana color=#b22222><B>1. Paper presentation and discussion (10%+5%+5%):</B></FONT>
-<BR> Each paper will be assigned to one group of students who will act as a presenter, another one group of students who will act as discussant. The presentation will last 20 mins for presenter and 5 mins for the discussant <u><b><i>strict</i></b></u>. After the presentation from the presenter, one student will be picked randomly to use 1 minutes summarizing the paper. Afterwards the discussion will last 10-20 mins. Each student should upload the slides to easy chair before class.
+<BR> Each paper will be assigned to one group of students who will act as a presenter (10%), another one group of students who will act as discussant (5%). The presentation will last 20 mins for presenter and 10 minutes for the discussant <u><b><i>strict</i></b></u>. After the presentation from the presenter, one student will be picked randomly to use 1 minutes summarizing the paper. Afterwards, the discussion will last 10-20 mins (5% for discussion participation). Each group should upload the slides to EasyChair before each class.
 
 <UL>
-<LI><B>Role of presenter:</B> As a presenter you should not simply repeat the paper's content (remember you only have 20 mins), instead you should point out the main important findings of the work. You should highlight any novel contributions, any surprises, and other possible applications of the proposed techniques. You should check the authors' other work related to the presented paper. Finally you should place the work relative other papers covered in the course (especially the papers covered in that particular week).
+<LI><B>Role of presenter:</B> As a presenter you should not simply repeat the paper's content (remember you only have 20 mins), instead you should point out the main important findings of the work. You should highlight any novel contributions, any surprises, and other possible applications of the proposed techniques. You should check the authors' other work related to the presented paper. Finally, you should discuss how the presented work relate to other papers covered in the course (especially the papers covered in that particular week).
 <LI><B>Role of discussant:</B> As a discussant, you should take an adversarial position by pointing out weak and controversial positions in the paper. You should present a short rebuttal of the paper. You should come prepared with problems and counterexamples for the presented work. 
 </UL>
 
-Your presentations should have
+Your presentations should have (at least): 
 <UL>
 <LI> one slide that describes the main technique that is used in the paper.
 <LI> one slide that lists the main contributions of the paper.
@@ -92,8 +95,10 @@ Your presentations should have
 <LI> as the <b><i><u>final</b></i></u> slide, a listing of at least three technical points that you liked and three areas that should be improved. 
 </UL>
 
-<FONT face=Verdana color=#b22222><B>2. Weekly critique (10%):</B></FONT>
+<FONT face=Verdana color=#b22222><B>2. Weekly critique and summary (10%):</B></FONT>
 <BR>Each week, each student should pick one of the papers for that week and submit on easy chair a one page critique of the paper before the start of class. The critique should offer a brief summary of the paper, points in favor, points against, and comments for improvement. You do not need to submit a critique if you act as presenter in that week. Additional advice for critiquing papers is <a href="http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F14/papers/reviewing-smith.pdf">here</a>. 
+
+In addition to the critique, each student should also submit summaries for all the papers that will be presented in that week. 
 
 
 
@@ -127,9 +132,9 @@ James Paulson, Giancarlo Succi, and Armin Eberlein
 <BR><BR>
 
 <FONT face=Verdana color=#b22222><B>4. Project (50%=10%+40%):</B></FONT>
-<BR>One original project (10 pages <a href="papers/IEEETemplate.zip">IEEE</a> format) done alone or in a group of 2 or 3 students. The project will explore one or more of the themes covered in the course. 
+<BR>One original project (10 pages <a href="https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-master.zip">ACM</a> format) done alone or in a group of 2 or 3 students. The project will explore one or more of the themes covered in the course. 
 
-<BR>You need to submit a project proposal (2 pages IEEE format). The proposal should provide a brief motivation of the project, a detailed discussion of the data and systems that will be used in the project, along with a timeline of milestones, and expected outcome. Make sure that you have cited at least 3 papers in your proposal. Additional advice for project proposals will be disused in class. The proposal does not worth any grade. The goal is to ensure the feasibility of the project.
+<BR>You need to submit a project proposal (2 pages ACM format). The proposal should provide a brief motivation of the project, a detailed discussion of the data and systems that will be used in the project, along with a timeline of milestones, and expected outcome. Make sure that you have cited at least 3 papers in your proposal. Additional advice for project proposals will be disscused in class. The proposal does not worth any grade. The goal is to ensure the feasibility of the project.
 
 <BR>You need to present the update of the project in class. The presentation worths 10% of the final grade.
 	
