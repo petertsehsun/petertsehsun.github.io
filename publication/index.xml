@@ -11,6 +11,15 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Adopting Autonomic Computing Capabilities in Existing Large-Scale Systems</title>
+      <link>https://petertsehsun.github.io/publication/icse2018-seip/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2018-seip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Analytics-Driven Load Testing: An Industrial Experience Report on Load Testing of Large-Scale Systems</title>
       <link>https://petertsehsun.github.io/publication/icse2017-seip/</link>
       <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/msr2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Explaining Software Defects Using Topic Models</title>
-      <link>https://petertsehsun.github.io/publication/msr2012/</link>
-      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/msr2012/</guid>
       <description></description>
     </item>
     
