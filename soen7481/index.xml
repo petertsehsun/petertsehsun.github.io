@@ -56,17 +56,17 @@
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://petertsehsun.github.io/soen7481/fall2018/PRMiner.pdf&#34; target=&#34;_blank&#34;&gt;PR-Miner: automatically extracting implicit programming rules and detecting violations in large software code&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://petertsehsun.github.io/soen7481/papers/PRMiner.pdf&#34; target=&#34;_blank&#34;&gt;PR-Miner: automatically extracting implicit programming rules and detecting violations in large software code&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Tricorder: Building a Program Analysis Ecosystem&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://petertsehsun.github.io/soen7481/papers/tricoder.pdf&#34; target=&#34;_blank&#34;&gt;Tricorder: Building a Program Analysis Ecosystem&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Why don&amp;rsquo;t software developers use static analysis tools to find bugs&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://petertsehsun.github.io/soen7481/papers/findBugs.pdf&#34; target=&#34;_blank&#34;&gt;Why don&amp;rsquo;t software developers use static analysis tools to find bugs&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -84,17 +84,17 @@
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;An Empirical Analysis of Flaky Tests&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://petertsehsun.github.io/soen7481/papers/flakyTests.pdf&#34; target=&#34;_blank&#34;&gt;An Empirical Analysis of Flaky Tests&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;What Causes My Test Alarm? Automatic Cause Analysis for Test Alarms in System and Integration Testing&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://petertsehsun.github.io/soen7481/papers/testAlarm.pdf&#34; target=&#34;_blank&#34;&gt;What Causes My Test Alarm? Automatic Cause Analysis for Test Alarms in System and Integration Testing&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;DeFlaker: Automatically Detecting Flaky Tests&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://petertsehsun.github.io/soen7481/papers/icse18-deflaker.pdf&#34; target=&#34;_blank&#34;&gt;DeFlaker: Automatically Detecting Flaky Tests&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -130,17 +130,17 @@
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Testing Database-Centric Applications For Causes of Database Deadlocks&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://petertsehsun.github.io/soen7481/papers/stepdad.pdf&#34; target=&#34;_blank&#34;&gt;Testing Database-Centric Applications For Causes of Database Deadlocks&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;How not to structure your database-backed web applications: a study of performance bugs in the wild&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://petertsehsun.github.io/soen7481/papers/220-HowNotStructure.pdf&#34; target=&#34;_blank&#34;&gt;How not to structure your database-backed web applications: a study of performance bugs in the wild&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Detecting Problems in Database Access Code of Large Scale Systems - An Industrial Experience Report&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://petertsehsun.github.io/papers/peter_icse_seip2016.pdf&#34; target=&#34;_blank&#34;&gt;Detecting Problems in Database Access Code of Large Scale Systems - An Industrial Experience Report&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -158,17 +158,17 @@
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Improving Bug Localization using Structured Information Retrieval&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://petertsehsun.github.io/soen7481/papers/saha-ase13.pdf&#34; target=&#34;_blank&#34;&gt;Improving Bug Localization using Structured Information Retrieval&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Evaluating and improving fault localization&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://petertsehsun.github.io/soen7481/papers/fault_localization_effectiveness_icse_2017.pdf&#34; target=&#34;_blank&#34;&gt;Evaluating and improving fault localization&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Locating Causes of Program Failures&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://petertsehsun.github.io/soen7481/papers/locating.pdf&#34; target=&#34;_blank&#34;&gt;Locating Causes of Program Failures&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -186,17 +186,17 @@
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Catch Me If You Can: Performance Bug Detection in the Wild&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://petertsehsun.github.io/soen7481/papers/catchme.pdf&#34; target=&#34;_blank&#34;&gt;Catch Me If You Can: Performance Bug Detection in the Wild&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Analytics-Driven Load Testing: An Industrial Experience Report on Load Testing of Large-Scale Systems&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://petertsehsun.github.io/papers/peter_icse_seip2017.pdf&#34; target=&#34;_blank&#34;&gt;Analytics-Driven Load Testing: An Industrial Experience Report on Load Testing of Large-Scale Systems&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Continuous Validation of Load Test Suites&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://petertsehsun.github.io/soen7481/papers/continuousValidation.pdf&#34; target=&#34;_blank&#34;&gt;Continuous Validation of Load Test Suites&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -232,17 +232,17 @@
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://petertsehsun.github.io/soen7481/papers/sosp09.pdf&#34; target=&#34;_blank&#34;&gt;Detecting large-scale system problems by mining console logs&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;SherLog: Error Diagnosis by Connecting Clues from Run-time Logs&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://petertsehsun.github.io/soen7481/papers/asplos10-sherlog.pdf&#34; target=&#34;_blank&#34;&gt;SherLog: Error Diagnosis by Connecting Clues from Run-time Logs&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Assisting Developers of Big Data Analytics Applications When Deploying on Hadoop Clouds&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://petertsehsun.github.io/soen7481/papers/icse13BigData.pdf&#34; target=&#34;_blank&#34;&gt;Assisting Developers of Big Data Analytics Applications When Deploying on Hadoop Clouds&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -260,17 +260,17 @@
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;DeepTest: Automated Testing of Deep-Neural-Network-driven Autonomous Cars&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://petertsehsun.github.io/soen7481/papers/deepTest.pdf&#34; target=&#34;_blank&#34;&gt;DeepTest: Automated Testing of Deep-Neural-Network-driven Autonomous Cars&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Billions and Billions of Constraints: Whitebox Fuzz Testing in Production&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://petertsehsun.github.io/soen7481/papers/msFuzz.pdf&#34; target=&#34;_blank&#34;&gt;Billions and Billions of Constraints: Whitebox Fuzz Testing in Production&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Better Test Cases for Better Automated Program Repair&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://jinqiuyang.github.io/papers/opad-fse17.pdf&#34; target=&#34;_blank&#34;&gt;Better Test Cases for Better Automated Program Repair&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
