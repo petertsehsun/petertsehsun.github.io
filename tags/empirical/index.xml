@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/empirical/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How Do Users Revise Answers on Technical Q&amp;A Websites? A Case Study on Stack Overflow</title>
+      <link>https://petertsehsun.github.io/publication/tse2018/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Studying Software Logging Using Topic Models</title>
