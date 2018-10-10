@@ -11,7 +11,7 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>How Do Users Revise Answers on Technical Q&amp;A Websites? A Case Study on Stack Overflow</title>
+      <title>[Journal] How Do Users Revise Answers on Technical Q&amp;A Websites? A Case Study on Stack Overflow</title>
       <link>https://petertsehsun.github.io/publication/tse2018/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>Adopting Autonomic Computing Capabilities in Existing Large-Scale Systems</title>
+      <title>[Conference] Adopting Autonomic Computing Capabilities in Existing Large-Scale Systems</title>
       <link>https://petertsehsun.github.io/publication/icse2018-seip/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>Analytics-Driven Load Testing: An Industrial Experience Report on Load Testing of Large-Scale Systems</title>
+      <title>[Conference] Analytics-Driven Load Testing: An Industrial Experience Report on Load Testing of Large-Scale Systems</title>
       <link>https://petertsehsun.github.io/publication/icse2017-seip/</link>
       <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
       
@@ -38,7 +38,7 @@
     </item>
     
     <item>
-      <title>An Empirical Study on the Effect of Testing on Code Quality Using Topic Models: A Case Study on Software Development Systems</title>
+      <title>[Journal] An Empirical Study on the Effect of Testing on Code Quality Using Topic Models: A Case Study on Software Development Systems</title>
       <link>https://petertsehsun.github.io/publication/tr2017/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
@@ -47,7 +47,7 @@
     </item>
     
     <item>
-      <title>Studying Software Logging Using Topic Models</title>
+      <title>[Journal] Studying Software Logging Using Topic Models</title>
       <link>https://petertsehsun.github.io/publication/emse2017-log/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
@@ -56,7 +56,7 @@
     </item>
     
     <item>
-      <title>Understanding the Factors for Fast Answers in Technical Q&amp;A Websites: An Empirical Study on Four Stack Exchange Websites</title>
+      <title>[Journal] Understanding the Factors for Fast Answers in Technical Q&amp;A Websites: An Empirical Study on Four Stack Exchange Websites</title>
       <link>https://petertsehsun.github.io/publication/emse2017-so/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
@@ -65,7 +65,7 @@
     </item>
     
     <item>
-      <title>CacheOptimizer: Helping Developers Configure Caching Frameworks for Hibernate-based Database-centric Web Applications</title>
+      <title>[Conference] CacheOptimizer: Helping Developers Configure Caching Frameworks for Hibernate-based Database-centric Web Applications</title>
       <link>https://petertsehsun.github.io/publication/fse2016/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
       
@@ -74,7 +74,7 @@
     </item>
     
     <item>
-      <title>Finding and Evaluating the Performance Impact of Redundant Data Access for Applications that are Developed Using Object-Relational Mapping Frameworks</title>
+      <title>[Journal] Finding and Evaluating the Performance Impact of Redundant Data Access for Applications that are Developed Using Object-Relational Mapping Frameworks</title>
       <link>https://petertsehsun.github.io/publication/tse2016/</link>
       <pubDate>Sat, 02 Jul 2016 00:00:00 +0000</pubDate>
       
@@ -83,7 +83,7 @@
     </item>
     
     <item>
-      <title>Detecting Problems in Database Access Code of Large Scale Systems - An Industrial Experience Report</title>
+      <title>[Conference] Detecting Problems in Database Access Code of Large Scale Systems - An Industrial Experience Report</title>
       <link>https://petertsehsun.github.io/publication/icse2016-seip/</link>
       <pubDate>Thu, 02 Jun 2016 00:00:00 +0000</pubDate>
       
@@ -92,7 +92,7 @@
     </item>
     
     <item>
-      <title>An Empirical Study on the Practice of Maintaining Object-Relational Mapping Code in Java Systems</title>
+      <title>[Conference] An Empirical Study on the Practice of Maintaining Object-Relational Mapping Code in Java Systems</title>
       <link>https://petertsehsun.github.io/publication/msr2016/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
@@ -101,7 +101,7 @@
     </item>
     
     <item>
-      <title>Studying the Effectiveness of Application Performance Management (APM) Tools for Detecting Performance Regressions for Web Applications: An Experience Report</title>
+      <title>[Conference] Studying the Effectiveness of Application Performance Management (APM) Tools for Detecting Performance Regressions for Web Applications: An Experience Report</title>
       <link>https://petertsehsun.github.io/publication/msr2016-apm/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
@@ -110,7 +110,7 @@
     </item>
     
     <item>
-      <title>Topic-based Software Defect Explanation</title>
+      <title>[Journal] Topic-based Software Defect Explanation</title>
       <link>https://petertsehsun.github.io/publication/jss2016/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
@@ -119,7 +119,7 @@
     </item>
     
     <item>
-      <title>A Survey on the Use of Topic Models when Mining Software Repositories</title>
+      <title>[Journal] A Survey on the Use of Topic Models when Mining Software Repositories</title>
       <link>https://petertsehsun.github.io/publication/emse2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
@@ -128,7 +128,7 @@
     </item>
     
     <item>
-      <title>Improving the Quality of Large-Scale Database-Centric Software Systems by Analyzing Database Access Code</title>
+      <title>[Conference] Improving the Quality of Large-Scale Database-Centric Software Systems by Analyzing Database Access Code</title>
       <link>https://petertsehsun.github.io/publication/icde2015/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
@@ -137,7 +137,7 @@
     </item>
     
     <item>
-      <title>Detecting Performance Anti-patterns for Applications Developed using Object-relational Mapping</title>
+      <title>[Conference] Detecting Performance Anti-patterns for Applications Developed using Object-relational Mapping</title>
       <link>https://petertsehsun.github.io/publication/icse2014/</link>
       <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
       

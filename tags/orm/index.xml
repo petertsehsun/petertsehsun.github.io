@@ -11,7 +11,7 @@
     <atom:link href="/tags/orm/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>CacheOptimizer: Helping Developers Configure Caching Frameworks for Hibernate-based Database-centric Web Applications</title>
+      <title>[Conference] CacheOptimizer: Helping Developers Configure Caching Frameworks for Hibernate-based Database-centric Web Applications</title>
       <link>https://petertsehsun.github.io/publication/fse2016/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
       
@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>Finding and Evaluating the Performance Impact of Redundant Data Access for Applications that are Developed Using Object-Relational Mapping Frameworks</title>
+      <title>[Journal] Finding and Evaluating the Performance Impact of Redundant Data Access for Applications that are Developed Using Object-Relational Mapping Frameworks</title>
       <link>https://petertsehsun.github.io/publication/tse2016/</link>
       <pubDate>Sat, 02 Jul 2016 00:00:00 +0000</pubDate>
       
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>Detecting Problems in Database Access Code of Large Scale Systems - An Industrial Experience Report</title>
+      <title>[Conference] Detecting Problems in Database Access Code of Large Scale Systems - An Industrial Experience Report</title>
       <link>https://petertsehsun.github.io/publication/icse2016-seip/</link>
       <pubDate>Thu, 02 Jun 2016 00:00:00 +0000</pubDate>
       
@@ -38,7 +38,7 @@
     </item>
     
     <item>
-      <title>An Empirical Study on the Practice of Maintaining Object-Relational Mapping Code in Java Systems</title>
+      <title>[Conference] An Empirical Study on the Practice of Maintaining Object-Relational Mapping Code in Java Systems</title>
       <link>https://petertsehsun.github.io/publication/msr2016/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
@@ -47,7 +47,7 @@
     </item>
     
     <item>
-      <title>Improving the Quality of Large-Scale Database-Centric Software Systems by Analyzing Database Access Code</title>
+      <title>[Conference] Improving the Quality of Large-Scale Database-Centric Software Systems by Analyzing Database Access Code</title>
       <link>https://petertsehsun.github.io/publication/icde2015/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
@@ -56,7 +56,7 @@
     </item>
     
     <item>
-      <title>Detecting Performance Anti-patterns for Applications Developed using Object-relational Mapping</title>
+      <title>[Conference] Detecting Performance Anti-patterns for Applications Developed using Object-relational Mapping</title>
       <link>https://petertsehsun.github.io/publication/icse2014/</link>
       <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
       

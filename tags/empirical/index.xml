@@ -11,7 +11,7 @@
     <atom:link href="/tags/empirical/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>How Do Users Revise Answers on Technical Q&amp;A Websites? A Case Study on Stack Overflow</title>
+      <title>[Journal] How Do Users Revise Answers on Technical Q&amp;A Websites? A Case Study on Stack Overflow</title>
       <link>https://petertsehsun.github.io/publication/tse2018/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>Studying Software Logging Using Topic Models</title>
+      <title>[Journal] Studying Software Logging Using Topic Models</title>
       <link>https://petertsehsun.github.io/publication/emse2017-log/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>Understanding the Factors for Fast Answers in Technical Q&amp;A Websites: An Empirical Study on Four Stack Exchange Websites</title>
+      <title>[Journal] Understanding the Factors for Fast Answers in Technical Q&amp;A Websites: An Empirical Study on Four Stack Exchange Websites</title>
       <link>https://petertsehsun.github.io/publication/emse2017-so/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
@@ -38,7 +38,7 @@
     </item>
     
     <item>
-      <title>An Empirical Study on the Practice of Maintaining Object-Relational Mapping Code in Java Systems</title>
+      <title>[Conference] An Empirical Study on the Practice of Maintaining Object-Relational Mapping Code in Java Systems</title>
       <link>https://petertsehsun.github.io/publication/msr2016/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
@@ -47,7 +47,7 @@
     </item>
     
     <item>
-      <title>An Empirical Study of Dormant Bug</title>
+      <title>[Conference] An Empirical Study of Dormant Bug</title>
       <link>https://petertsehsun.github.io/publication/msr2014/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
