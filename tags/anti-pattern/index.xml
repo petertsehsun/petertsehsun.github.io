@@ -19,5 +19,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>[Journal] iPerfDetector: Characterizing and Detecting Performance Anti-patterns in iOS Applications</title>
+      <link>https://petertsehsun.github.io/publication/emse2019-ios/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2019-ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Conference] Detecting Performance Anti-patterns for Applications Developed using Object-relational Mapping</title>
+      <link>https://petertsehsun.github.io/publication/icse2014/</link>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2014/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

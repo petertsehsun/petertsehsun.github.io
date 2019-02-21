@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>[Journal] iPerfDetector: Characterizing and Detecting Performance Anti-patterns in iOS Applications</title>
+      <link>https://petertsehsun.github.io/publication/emse2019-ios/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2019-ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[Journal] Studying the Characteristics of Logging Practices in Mobile Apps: A Case Study on F-Droid</title>
       <link>https://petertsehsun.github.io/publication/emse2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/jss2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Journal] A Survey on the Use of Topic Models when Mining Software Repositories</title>
-      <link>https://petertsehsun.github.io/publication/emse2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/emse2016/</guid>
       <description></description>
     </item>
     
