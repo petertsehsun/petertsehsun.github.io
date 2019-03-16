@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>[Journal] An Empirical Study of Obsolete Answers on Stack Overflow</title>
+      <link>https://petertsehsun.github.io/publication/tse2019/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[Journal] iPerfDetector: Characterizing and Detecting Performance Anti-patterns in iOS Applications</title>
       <link>https://petertsehsun.github.io/publication/emse2019-ios/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/msr2016-apm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Journal] Topic-based Software Defect Explanation</title>
-      <link>https://petertsehsun.github.io/publication/jss2016/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/jss2016/</guid>
       <description></description>
     </item>
     

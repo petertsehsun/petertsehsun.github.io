@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/stackoverflow/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>[Journal] An Empirical Study of Obsolete Answers on Stack Overflow</title>
+      <link>https://petertsehsun.github.io/publication/tse2019/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[Journal] How Do Users Revise Answers on Technical Q&amp;A Websites? A Case Study on Stack Overflow</title>
