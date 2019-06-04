@@ -8,7 +8,67 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
     <lastBuildDate>Tue, 29 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://petertsehsun.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://petertsehsun.github.io/home/about/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/home/about/</guid>
+      <description>Queen&#39;s University in September 2016. I was a member of the Software Analysis and Intelligence Lab (SAIL) and I was supervised by an amazing supervisor Ahmed E. Hassan. Before that, I received my MSc from Queen&#39;s University (under the same supervisor), and BSc in Computer Science from the University of British Columbia. During my PhD, I worked as an embedded researcher in the Performance Engineering department at BlackBerry from January 2013 to December 2016.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://petertsehsun.github.io/home/publications/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://petertsehsun.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/home/teaching/</guid>
+      <description> SOEN 7481 (Fall 2018, 2019): Software Verification and Testing SOEN 691 (Winter 2018): Mining Large Software System Data for DevOps SOEN 341 (Winter 2018, 2019, 2020): Software Process SOEN 342 (Fall 2017): Software Requirements and Specifications  </description>
+    </item>
+    
+    <item>
+      <title>Students</title>
+      <link>https://petertsehsun.github.io/home/students/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/home/students/</guid>
+      <description>MSc Students
+ Zi Peng Md. Manik Hossain Steven Locke  PhD Students
+ Arthur Vitui Zhenhao Li An Ran Chen Wei Liu  Alumni
+ Sara Seif Afjehei, 2019 (MSc) Zhenhao Li, 2019 (MSc) An Ran Chen, 2019 (MSc)  </description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://petertsehsun.github.io/home/services/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/home/services/</guid>
+      <description>Program Committee Member
+ The 29th Annual International Conference on Computer Science and Software Engineering (CASCON), 2019. The 18th National Software Application Conference (NASAC), Intelligent SE Track, 2019.  The 34th International Conference on Automated Software Engineering (ASE), Tool Demo Track, 2019.  The 41th International Conference on Software Engineering (ICSE), Organizing Committee, 2019.  The 27th IEEE/ACM International Conference on Program Comprehension (ICPC), 2019. The 26th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), ERA Track, 2019.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://petertsehsun.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

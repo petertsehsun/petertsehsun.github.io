@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://petertsehsun.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>[Conference] DLFinder: Characterizing and Detecting Duplicate Logging Code Smells</title>
@@ -142,6 +144,60 @@
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/msr2016-apm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Journal] Topic-based Software Defect Explanation</title>
+      <link>https://petertsehsun.github.io/publication/jss2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/jss2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Journal] A Survey on the Use of Topic Models when Mining Software Repositories</title>
+      <link>https://petertsehsun.github.io/publication/emse2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Conference] Improving the Quality of Large-Scale Database-Centric Software Systems by Analyzing Database Access Code</title>
+      <link>https://petertsehsun.github.io/publication/icde2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icde2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Conference] Detecting Performance Anti-patterns for Applications Developed using Object-relational Mapping</title>
+      <link>https://petertsehsun.github.io/publication/icse2014/</link>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Conference] An Empirical Study of Dormant Bug</title>
+      <link>https://petertsehsun.github.io/publication/msr2014/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/msr2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Conference] Explaining Software Defects Using Topic Models</title>
+      <link>https://petertsehsun.github.io/publication/msr2012/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/msr2012/</guid>
       <description></description>
     </item>
     

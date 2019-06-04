@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.26" />
+  <meta name="generator" content="Hugo 0.55.6" />
   <meta name="author" content="Tse-Hsun (Peter) Chen">
   <meta name="description" content="Assistant Professor">
 
@@ -23,7 +23,7 @@
   
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.0/css/academicons.min.css" integrity="sha512-GGGNUPDhnG8LEAEDsjqYIQns+Gu8RBs4j5XGlxl7UfRaZBhCCm5jenJkeJL8uPuOXGqgl8/H1gjlWQDRjd3cUQ==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.1/css/academicons.min.css" integrity="sha512-NThgw3XKQ1absAahW6to7Ey42uycrVvfNfyjqcFNgCmOCQ5AR4AO0SiXrN+8ZtYeappp56lk1WtvjVmEa+VR6A==" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
   
   
@@ -234,7 +234,9 @@
 </div>
 
     <div class="article-style" itemprop="articleBody">
-      <p>Content can be written using <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown</a>, <a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank">LaTeX math</a>, and <a href="http://gohugo.io/extras/shortcodes/" target="_blank">Hugo Shortcodes</a>. Additionally, HTML may be used for advanced formatting. This article gives an overview of the most common formatting options.</p>
+      <p>Content can be written using <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown</a>, <a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank">LaTeX math</a>, and <a href="http://gohugo.io/extras/shortcodes/" target="_blank">Hugo Shortcodes</a>. Additionally, HTML may be used for advanced formatting.</p>
+
+<p>This article gives an overview of the most common formatting options.</p>
 
 <h2 id="sub-headings">Sub-headings</h2>
 
@@ -316,7 +318,7 @@ Strikethrough with ~~two tildes~~.
 [^1]: Footnote example.
 </code></pre>
 
-<p>I have more <sup class="footnote-ref" id="fnref:1"><a rel="footnote" href="#fn:1">1</a></sup> to say.</p>
+<p>I have more <sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup> to say.</p>
 
 <h2 id="code-highlighting">Code highlighting</h2>
 
@@ -449,16 +451,16 @@ print(&quot;You entered: {}&quot;.format(input_string_var))
 <p>See the <a href="https://highlightjs.org/static/demo/" target="_blank">highlight.js demo page</a> for examples of available styles.</p>
 
 <div class="alert alert-note">
-  <p>Not all styles listed on the <a href="https://highlightjs.org/static/demo/" target="_blank">highlight.js demo page</a> are available from the <a href="https://cdnjs.com/libraries/highlight.js/" target="_blank">cdnjs server</a>. If you want to use a style that is not served by cdnjs, just leave <code>highlight_style</code> unset, and place the corresponding css file in <code>/static/css/highlight.min.css</code>.</p>
+  
+Not all styles listed on the [highlight.js demo page](https://highlightjs.org/static/demo/) are available from the [cdnjs server](https://cdnjs.com/libraries/highlight.js/). If you want to use a style that is not served by cdnjs, just leave `highlight_style` unset, and place the corresponding css file in `/static/css/highlight.min.css`.
 
 </div>
-
 
 <div class="alert alert-note">
-  <p>If you don&rsquo;t want to change the default style that ships with Academic but you do want the style file served from the <a href="https://cdnjs.com/libraries/highlight.js/" target="_blank">cdnjs server</a>, set <code>highlight_style = &quot;github&quot;</code> in <code>config.toml</code>.</p>
+  
+If you don't want to change the default style that ships with Academic but you do want the style file served from the [cdnjs server](https://cdnjs.com/libraries/highlight.js/), set `highlight_style = "github"` in `config.toml`.
 
 </div>
-
 
 <p>The <code>highlight_style</code> option is only recognized when set in <code>config.toml</code>. Setting <code>highlight_style</code> in your page&rsquo;s preamble has no effect.</p>
 
@@ -552,10 +554,10 @@ Here's a tip or note...
 <p>This will display the following <em>note</em> block:</p>
 
 <div class="alert alert-note">
-  <p>Here&rsquo;s a tip or note&hellip;</p>
+  
+Here's a tip or note...
 
 </div>
-
 
 <pre><code>{{% alert warning %}}
 Here's some important information...
@@ -565,10 +567,10 @@ Here's some important information...
 <p>This will display the following <em>warning</em> block:</p>
 
 <div class="alert alert-warning">
-  <p>Here&rsquo;s some important information&hellip;</p>
+  
+Here's some important information...
 
 </div>
-
 <div class="footnotes">
 
 <hr />
