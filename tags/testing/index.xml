@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>[Conference] Adopting Autonomic Computing Capabilities in Existing Large-Scale Systems</title>
+      <title>[C10] Adopting Autonomic Computing Capabilities in Existing Large-Scale Systems</title>
       <link>https://petertsehsun.github.io/publication/icse2018-seip/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
@@ -22,16 +22,16 @@
     </item>
     
     <item>
-      <title>[Conference] Analytics-Driven Load Testing: An Industrial Experience Report on Load Testing of Large-Scale Systems</title>
+      <title>[C9] Analytics-Driven Load Testing: An Industrial Experience Report on Load Testing of Large-Scale Systems</title>
       <link>https://petertsehsun.github.io/publication/icse2017-seip/</link>
-      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/icse2017-seip/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[Journal] Finding and Evaluating the Performance Impact of Redundant Data Access for Applications that are Developed Using Object-Relational Mapping Frameworks</title>
+      <title>[J3] Finding and Evaluating the Performance Impact of Redundant Data Access for Applications that are Developed Using Object-Relational Mapping Frameworks</title>
       <link>https://petertsehsun.github.io/publication/tse2016/</link>
       <pubDate>Sat, 02 Jul 2016 00:00:00 +0000</pubDate>
       
@@ -40,9 +40,9 @@
     </item>
     
     <item>
-      <title>[Conference] Studying the Effectiveness of Application Performance Management (APM) Tools for Detecting Performance Regressions for Web Applications: An Experience Report</title>
+      <title>[C6] Studying the Effectiveness of Application Performance Management (APM) Tools for Detecting Performance Regressions for Web Applications: An Experience Report</title>
       <link>https://petertsehsun.github.io/publication/msr2016-apm/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/msr2016-apm/</guid>
       <description></description>

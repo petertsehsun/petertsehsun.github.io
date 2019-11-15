@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>[Journal] An Empirical Study on the Effect of Testing on Code Quality Using Topic Models: A Case Study on Software Development Systems</title>
+      <title>[J6] An Empirical Study on the Effect of Testing on Code Quality Using Topic Models: A Case Study on Software Development Systems</title>
       <link>https://petertsehsun.github.io/publication/tr2017/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
@@ -22,25 +22,25 @@
     </item>
     
     <item>
-      <title>[Journal] Studying Software Logging Using Topic Models</title>
+      <title>[J4] Studying Software Logging Using Topic Models</title>
       <link>https://petertsehsun.github.io/publication/emse2017-log/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/emse2017-log/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[Journal] Topic-based Software Defect Explanation</title>
+      <title>[J1] Topic-based Software Defect Explanation</title>
       <link>https://petertsehsun.github.io/publication/jss2016/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/jss2016/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[Conference] Explaining Software Defects Using Topic Models</title>
+      <title>[C1] Explaining Software Defects Using Topic Models</title>
       <link>https://petertsehsun.github.io/publication/msr2012/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
       

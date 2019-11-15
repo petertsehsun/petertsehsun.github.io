@@ -7,22 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Sun, 02 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>[Conference] DLFinder: Characterizing and Detecting Duplicate Logging Code Smells</title>
+      <title>[C11] DLFinder: Characterizing and Detecting Duplicate Logging Code Smells</title>
       <link>https://petertsehsun.github.io/publication/icse2019/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/icse2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[Conference] Adopting Autonomic Computing Capabilities in Existing Large-Scale Systems</title>
+      <title>[C10] Adopting Autonomic Computing Capabilities in Existing Large-Scale Systems</title>
       <link>https://petertsehsun.github.io/publication/icse2018-seip/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
@@ -31,52 +31,52 @@
     </item>
     
     <item>
-      <title>[Conference] Analytics-Driven Load Testing: An Industrial Experience Report on Load Testing of Large-Scale Systems</title>
+      <title>[C9] Analytics-Driven Load Testing: An Industrial Experience Report on Load Testing of Large-Scale Systems</title>
       <link>https://petertsehsun.github.io/publication/icse2017-seip/</link>
-      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/icse2017-seip/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[Conference] CacheOptimizer: Helping Developers Configure Caching Frameworks for Hibernate-based Database-centric Web Applications</title>
+      <title>[C8] CacheOptimizer: Helping Developers Configure Caching Frameworks for Hibernate-based Database-centric Web Applications</title>
       <link>https://petertsehsun.github.io/publication/fse2016/</link>
-      <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/fse2016/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[Conference] Detecting Problems in Database Access Code of Large Scale Systems - An Industrial Experience Report</title>
+      <title>[C7] Detecting Problems in Database Access Code of Large Scale Systems - An Industrial Experience Report</title>
       <link>https://petertsehsun.github.io/publication/icse2016-seip/</link>
-      <pubDate>Thu, 02 Jun 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/icse2016-seip/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[Conference] An Empirical Study on the Practice of Maintaining Object-Relational Mapping Code in Java Systems</title>
-      <link>https://petertsehsun.github.io/publication/msr2016/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/msr2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Conference] Studying the Effectiveness of Application Performance Management (APM) Tools for Detecting Performance Regressions for Web Applications: An Experience Report</title>
+      <title>[C6] Studying the Effectiveness of Application Performance Management (APM) Tools for Detecting Performance Regressions for Web Applications: An Experience Report</title>
       <link>https://petertsehsun.github.io/publication/msr2016-apm/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/msr2016-apm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[Conference] Improving the Quality of Large-Scale Database-Centric Software Systems by Analyzing Database Access Code</title>
+      <title>[C5] An Empirical Study on the Practice of Maintaining Object-Relational Mapping Code in Java Systems</title>
+      <link>https://petertsehsun.github.io/publication/msr2016/</link>
+      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/msr2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C4] Improving the Quality of Large-Scale Database-Centric Software Systems by Analyzing Database Access Code</title>
       <link>https://petertsehsun.github.io/publication/icde2015/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
@@ -85,7 +85,7 @@
     </item>
     
     <item>
-      <title>[Conference] Detecting Performance Anti-patterns for Applications Developed using Object-relational Mapping</title>
+      <title>[C3] Detecting Performance Anti-patterns for Applications Developed using Object-relational Mapping</title>
       <link>https://petertsehsun.github.io/publication/icse2014/</link>
       <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
       
@@ -94,7 +94,7 @@
     </item>
     
     <item>
-      <title>[Conference] An Empirical Study of Dormant Bug</title>
+      <title>[C2] An Empirical Study of Dormant Bug</title>
       <link>https://petertsehsun.github.io/publication/msr2014/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
@@ -103,7 +103,7 @@
     </item>
     
     <item>
-      <title>[Conference] Explaining Software Defects Using Topic Models</title>
+      <title>[C1] Explaining Software Defects Using Topic Models</title>
       <link>https://petertsehsun.github.io/publication/msr2012/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
       

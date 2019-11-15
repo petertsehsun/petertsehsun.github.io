@@ -73,45 +73,6 @@
     
     <url>
     
-      <loc>https://petertsehsun.github.io/publication_types/1/</loc>
-      <lastmod>2019-06-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/anti-pattern/</loc>
-      <lastmod>2019-06-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/log/</loc>
-      <lastmod>2019-06-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/publication/icse2019/</loc>
-      <lastmod>2019-06-02T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://petertsehsun.github.io/publication/tse2019/</loc>
       <lastmod>2019-03-16T00:00:00+00:00</lastmod>
     </url>
@@ -121,8 +82,8 @@
     
     <url>
     
-      <loc>https://petertsehsun.github.io/tags/mobile/</loc>
-      <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+      <loc>https://petertsehsun.github.io/tags/log/</loc>
+      <lastmod>2019-03-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -132,6 +93,35 @@
     <url>
     
       <loc>https://petertsehsun.github.io/tags/performance/</loc>
+      <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/publication/emse2019/</loc>
+      <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/anti-pattern/</loc>
+      <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/mobile/</loc>
       <lastmod>2019-02-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -150,7 +140,17 @@
     
     <url>
     
-      <loc>https://petertsehsun.github.io/publication/emse2019/</loc>
+      <loc>https://petertsehsun.github.io/publication_types/1/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/publication/icse2019/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -196,15 +196,6 @@
     
     <url>
     
-      <loc>https://petertsehsun.github.io/publication/icse2017-seip/</loc>
-      <lastmod>2017-06-02T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://petertsehsun.github.io/tags/topicmodel/</loc>
       <lastmod>2017-06-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -217,6 +208,33 @@
     
       <loc>https://petertsehsun.github.io/publication/tr2017/</loc>
       <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/publication/emse2017-so/</loc>
+      <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/publication/emse2017-log/</loc>
+      <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/publication/icse2017-seip/</loc>
+      <lastmod>2017-01-02T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -278,36 +296,8 @@
     
     <url>
     
-      <loc>https://petertsehsun.github.io/publication/emse2017-log/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/publication/emse2017-so/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/cache/</loc>
-      <lastmod>2016-11-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://petertsehsun.github.io/tags/database/</loc>
-      <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+      <lastmod>2016-07-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -317,17 +307,8 @@
     <url>
     
       <loc>https://petertsehsun.github.io/tags/orm/</loc>
-      <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+      <lastmod>2016-07-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/publication/fse2016/</loc>
-      <lastmod>2016-11-02T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -344,8 +325,9 @@
     
     <url>
     
-      <loc>https://petertsehsun.github.io/publication/icse2016-seip/</loc>
-      <lastmod>2016-06-02T00:00:00+00:00</lastmod>
+      <loc>https://petertsehsun.github.io/tags/topicmodels/</loc>
+      <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -353,17 +335,8 @@
     
     <url>
     
-      <loc>https://petertsehsun.github.io/publication/msr2016/</loc>
-      <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/publication/msr2016-apm/</loc>
-      <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+      <loc>https://petertsehsun.github.io/publication/emse2016/</loc>
+      <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -372,7 +345,53 @@
     <url>
     
       <loc>https://petertsehsun.github.io/publication/jss2016/</loc>
-      <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+      <lastmod>2016-06-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/cache/</loc>
+      <lastmod>2016-06-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/publication/fse2016/</loc>
+      <lastmod>2016-06-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/publication/icse2016-seip/</loc>
+      <lastmod>2016-05-31T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/publication/msr2016-apm/</loc>
+      <lastmod>2016-05-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/publication/msr2016/</loc>
+      <lastmod>2016-05-20T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -419,25 +438,6 @@
     
       <loc>https://petertsehsun.github.io/post/writing-markdown-latex/</loc>
       <lastmod>2016-04-20T10:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/topicmodels/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/publication/emse2016/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
   

@@ -7,42 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Sun, 02 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/tags/log/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>[Conference] DLFinder: Characterizing and Detecting Duplicate Logging Code Smells</title>
-      <link>https://petertsehsun.github.io/publication/icse2019/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/icse2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Journal] Studying the Characteristics of Logging Practices in Mobile Apps: A Case Study on F-Droid</title>
+      <title>[J9] Studying the Characteristics of Logging Practices in Mobile Apps: A Case Study on F-Droid</title>
       <link>https://petertsehsun.github.io/publication/emse2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/emse2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[Journal] Studying Software Logging Using Topic Models</title>
+      <title>[C11] DLFinder: Characterizing and Detecting Duplicate Logging Code Smells</title>
+      <link>https://petertsehsun.github.io/publication/icse2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J4] Studying Software Logging Using Topic Models</title>
       <link>https://petertsehsun.github.io/publication/emse2017-log/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/emse2017-log/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[Conference] CacheOptimizer: Helping Developers Configure Caching Frameworks for Hibernate-based Database-centric Web Applications</title>
+      <title>[C8] CacheOptimizer: Helping Developers Configure Caching Frameworks for Hibernate-based Database-centric Web Applications</title>
       <link>https://petertsehsun.github.io/publication/fse2016/</link>
-      <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/fse2016/</guid>
       <description></description>

@@ -7,15 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/tags/topicmodels/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>[Journal] A Survey on the Use of Topic Models when Mining Software Repositories</title>
+      <title>[J2] A Survey on the Use of Topic Models when Mining Software Repositories</title>
       <link>https://petertsehsun.github.io/publication/emse2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/emse2016/</guid>
       <description></description>

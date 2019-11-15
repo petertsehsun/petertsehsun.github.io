@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>[Journal] Reading Answers on Stack Overflow: Not Enough!</title>
+      <title>[J11] Reading Answers on Stack Overflow: Not Enough!</title>
       <link>https://petertsehsun.github.io/publication/tse2019-comment/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       
@@ -22,16 +22,7 @@
     </item>
     
     <item>
-      <title>[Conference] DLFinder: Characterizing and Detecting Duplicate Logging Code Smells</title>
-      <link>https://petertsehsun.github.io/publication/icse2019/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/icse2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Journal] An Empirical Study of Obsolete Answers on Stack Overflow</title>
+      <title>[J10] An Empirical Study of Obsolete Answers on Stack Overflow</title>
       <link>https://petertsehsun.github.io/publication/tse2019/</link>
       <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -40,7 +31,16 @@
     </item>
     
     <item>
-      <title>[Journal] iPerfDetector: Characterizing and Detecting Performance Anti-patterns in iOS Applications</title>
+      <title>[J9] Studying the Characteristics of Logging Practices in Mobile Apps: A Case Study on F-Droid</title>
+      <link>https://petertsehsun.github.io/publication/emse2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J8] iPerfDetector: Characterizing and Detecting Performance Anti-patterns in iOS Applications</title>
       <link>https://petertsehsun.github.io/publication/emse2019-ios/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
@@ -49,16 +49,16 @@
     </item>
     
     <item>
-      <title>[Journal] Studying the Characteristics of Logging Practices in Mobile Apps: A Case Study on F-Droid</title>
-      <link>https://petertsehsun.github.io/publication/emse2019/</link>
+      <title>[C11] DLFinder: Characterizing and Detecting Duplicate Logging Code Smells</title>
+      <link>https://petertsehsun.github.io/publication/icse2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://petertsehsun.github.io/publication/emse2019/</guid>
+      <guid>https://petertsehsun.github.io/publication/icse2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[Journal] How Do Users Revise Answers on Technical Q&amp;A Websites? A Case Study on Stack Overflow</title>
+      <title>[J7] How Do Users Revise Answers on Technical Q&amp;A Websites? A Case Study on Stack Overflow</title>
       <link>https://petertsehsun.github.io/publication/tse2018/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -67,34 +67,34 @@
     </item>
     
     <item>
-      <title>[Journal] Studying Software Logging Using Topic Models</title>
-      <link>https://petertsehsun.github.io/publication/emse2017-log/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/emse2017-log/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Journal] Understanding the Factors for Fast Answers in Technical Q&amp;A Websites: An Empirical Study on Four Stack Exchange Websites</title>
+      <title>[J5] Understanding the Factors for Fast Answers in Technical Q&amp;A Websites: An Empirical Study on Four Stack Exchange Websites</title>
       <link>https://petertsehsun.github.io/publication/emse2017-so/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/emse2017-so/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[Conference] An Empirical Study on the Practice of Maintaining Object-Relational Mapping Code in Java Systems</title>
+      <title>[J4] Studying Software Logging Using Topic Models</title>
+      <link>https://petertsehsun.github.io/publication/emse2017-log/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2017-log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C5] An Empirical Study on the Practice of Maintaining Object-Relational Mapping Code in Java Systems</title>
       <link>https://petertsehsun.github.io/publication/msr2016/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/msr2016/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[Conference] An Empirical Study of Dormant Bug</title>
+      <title>[C2] An Empirical Study of Dormant Bug</title>
       <link>https://petertsehsun.github.io/publication/msr2014/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
