@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Sun, 02 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Empirical</title>
+      <link>https://petertsehsun.github.io/tags/empirical/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/tags/empirical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StackOverflow</title>
+      <link>https://petertsehsun.github.io/tags/stackoverflow/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/tags/stackoverflow/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anti-pattern</title>
@@ -22,29 +40,11 @@
     </item>
     
     <item>
-      <title>Empirical</title>
-      <link>https://petertsehsun.github.io/tags/empirical/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/tags/empirical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Log</title>
       <link>https://petertsehsun.github.io/tags/log/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/tags/log/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>StackOverflow</title>
-      <link>https://petertsehsun.github.io/tags/stackoverflow/</link>
-      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/tags/stackoverflow/</guid>
       <description></description>
     </item>
     

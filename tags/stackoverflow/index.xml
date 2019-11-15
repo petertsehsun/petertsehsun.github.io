@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Sat, 16 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/tags/stackoverflow/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Journal] Reading Answers on Stack Overflow: Not Enough!</title>
+      <link>https://petertsehsun.github.io/publication/tse2019-comment/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2019-comment/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[Journal] An Empirical Study of Obsolete Answers on Stack Overflow</title>

@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Sun, 02 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>[Journal] Reading Answers on Stack Overflow: Not Enough!</title>
+      <link>https://petertsehsun.github.io/publication/tse2019-comment/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2019-comment/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[Conference] DLFinder: Characterizing and Detecting Duplicate Logging Code Smells</title>
@@ -432,15 +441,6 @@
       <pubDate>Sat, 02 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/tse2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Conference] Detecting Problems in Database Access Code of Large Scale Systems - An Industrial Experience Report</title>
-      <link>https://petertsehsun.github.io/publication/icse2016-seip/</link>
-      <pubDate>Thu, 02 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/icse2016-seip/</guid>
       <description></description>
     </item>
     
