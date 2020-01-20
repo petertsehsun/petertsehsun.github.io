@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>News</title>
+      <link>https://petertsehsun.github.io/home/news/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/home/news/</guid>
+      <description>[Jan 2020] I will serve on the program committee of ICSME 2020. [Nov 2019] Our paper Reading Answers on Stack Overflow: Not Enough! has been accepted by TSE! [Nov 2019] I will serve on the program committee of ICPC 2020. [Oct 2019] I am co-organizing LTB 2020. Please consider submitting papers to the workshop. [Aug 2019] Congratulations to An Ran Chen on defending his MSc. He is now a PhD student at SPEAR!</description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>https://petertsehsun.github.io/home/publications/</link>
       <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
@@ -58,7 +67,7 @@
       
       <guid>https://petertsehsun.github.io/home/services/</guid>
       <description>Organizing and Program Committee Member
- The 8th International Workshop on Load Testing and Benchmarking of Software Systems (LTB), Program Chair, 2020.  The 13th IEEE International Conference on Software Testing, Validation and Verification (ICST), Posters Track, 2020.  The 29th Annual International Conference on Computer Science and Software Engineering (CASCON), 2019. The 18th National Software Application Conference (NASAC), Intelligent SE Track, 2019.  The 34th International Conference on Automated Software Engineering (ASE), Tool Demo Track, 2019.</description>
+ The 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), 2020. The 8th International Workshop on Load Testing and Benchmarking of Software Systems (LTB), Program Chair, 2020.  The 13th IEEE International Conference on Software Testing, Validation and Verification (ICST), Posters Track, 2020.  The 29th Annual International Conference on Computer Science and Software Engineering (CASCON), 2019. The 18th National Software Application Conference (NASAC), Intelligent SE Track, 2019.</description>
     </item>
     
     <item>
