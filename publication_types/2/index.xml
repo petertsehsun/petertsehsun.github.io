@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Sat, 11 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[J13] Logram: Efficient Log Parsing Using n-Gram Dictionaries</title>
+      <link>https://petertsehsun.github.io/publication/tse2020hetong/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2020hetong/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[J12] A3: Assisting Android API Migrations Using Code Examples</title>
@@ -18,15 +27,6 @@
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/tse2020max/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[J13] Logram: Efficient Log Parsing Using n-Gram Dictionaries</title>
-      <link>https://petertsehsun.github.io/publication/tse2020hetong/</link>
-      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/tse2020hetong/</guid>
       <description></description>
     </item>
     

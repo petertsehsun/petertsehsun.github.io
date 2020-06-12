@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Sat, 11 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Mining</title>
+      <link>https://petertsehsun.github.io/tags/data-mining/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/tags/data-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Log</title>
+      <link>https://petertsehsun.github.io/tags/log/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/tags/log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>https://petertsehsun.github.io/tags/testing/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/tags/testing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>API</title>
@@ -22,38 +49,11 @@
     </item>
     
     <item>
-      <title>Data Mining</title>
-      <link>https://petertsehsun.github.io/tags/data-mining/</link>
-      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/tags/data-mining/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Log</title>
-      <link>https://petertsehsun.github.io/tags/log/</link>
-      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/tags/log/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mobile</title>
       <link>https://petertsehsun.github.io/tags/mobile/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/tags/mobile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Testing</title>
-      <link>https://petertsehsun.github.io/tags/testing/</link>
-      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/tags/testing/</guid>
       <description></description>
     </item>
     
