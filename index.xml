@@ -19,6 +19,15 @@
     </item>
     
     <item>
+      <title>[J13] Logram: Efficient Log Parsing Using n-Gram Dictionaries</title>
+      <link>https://petertsehsun.github.io/publication/tse2020hetong/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2020hetong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[J11] Reading Answers on Stack Overflow: Not Enough!</title>
       <link>https://petertsehsun.github.io/publication/tse2019-comment/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
@@ -433,15 +442,6 @@
       <guid>https://petertsehsun.github.io/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>[J3] Finding and Evaluating the Performance Impact of Redundant Data Access for Applications that are Developed Using Object-Relational Mapping Frameworks</title>
-      <link>https://petertsehsun.github.io/publication/tse2016/</link>
-      <pubDate>Sat, 02 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/tse2016/</guid>
-      <description></description>
     </item>
     
   </channel>
