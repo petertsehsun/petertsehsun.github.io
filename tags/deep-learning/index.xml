@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[C13] A First Look at the Integration of Machine Learning Models in Complex Autonomous Driving Systems - A Case Study on Apollo</title>
+      <link>https://petertsehsun.github.io/publication/fse2020/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/fse2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[C12] Where Shall We Log? Studying and Suggesting Logging Locations in Code Blocks</title>
@@ -18,15 +27,6 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/ase2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[C13] A First Look at the Integration of Machine Learning Models in Complex Autonomous Driving Systems - A Case Study on Apollo</title>
-      <link>https://petertsehsun.github.io/publication/fse2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/fse2020/</guid>
       <description></description>
     </item>
     
