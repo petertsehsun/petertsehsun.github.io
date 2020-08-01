@@ -46,6 +46,15 @@
     </item>
     
     <item>
+      <title>[C13] A First Look at the Integration of Machine Learning Models in Complex Autonomous Driving Systems - A Case Study on Apollo</title>
+      <link>https://petertsehsun.github.io/publication/fse2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/fse2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[J10] An Empirical Study of Obsolete Answers on Stack Overflow</title>
       <link>https://petertsehsun.github.io/publication/tse2019/</link>
       <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
@@ -431,15 +440,6 @@
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/emse2017-log/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[C9] Analytics-Driven Load Testing: An Industrial Experience Report on Load Testing of Large-Scale Systems</title>
-      <link>https://petertsehsun.github.io/publication/icse2017-seip/</link>
-      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/icse2017-seip/</guid>
       <description></description>
     </item>
     
