@@ -18,7 +18,13 @@
       <pubDate>Mon, 03 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>https://petertsehsun.github.io/soen7481/fall2018/</guid>
-      <description></description>
+      <description>Week1 : Course Overview (Sept4)       Intro to Testing and Verification
+   Week2 : Course Overview (Sept11)       Assignment
+Assignment-related paper: Simple testing
+Assignment-related paper: FindBugs
+Slides on static analysis and simple testing
+Slides on DBChecker
+   Week3 : Bug Detection (Sept18)      PR-Miner: automatically extracting implicit programming rules and detecting violations in large software code    Tricorder: Building a Program Analysis Ecosystem    Why don&amp;rsquo;t software developers use static analysis tools to find bugs        Week4 : Quality Assurance in Continuous Integration (Sept25)      An Empirical Analysis of Flaky Tests    What Causes My Test Alarm?</description>
     </item>
     
   </channel>
