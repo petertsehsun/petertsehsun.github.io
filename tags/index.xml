@@ -7,55 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://petertsehsun.github.io/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
-    </item>
-    
-    <item>
-      <title>Anti Pattern</title>
-      <link>https://petertsehsun.github.io/tags/anti-pattern/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/tags/anti-pattern/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Api</title>
-      <link>https://petertsehsun.github.io/tags/api/</link>
-      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/tags/api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Autonomous Driving</title>
-      <link>https://petertsehsun.github.io/tags/autonomous-driving/</link>
-      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/tags/autonomous-driving/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cache</title>
-      <link>https://petertsehsun.github.io/tags/cache/</link>
-      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/tags/cache/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Data Mining</title>
@@ -63,51 +18,6 @@
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/tags/data-mining/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Database</title>
-      <link>https://petertsehsun.github.io/tags/database/</link>
-      <pubDate>Sat, 02 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/tags/database/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://petertsehsun.github.io/tags/deep-learning/</link>
-      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Empirical</title>
-      <link>https://petertsehsun.github.io/tags/empirical/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/tags/empirical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://petertsehsun.github.io/tags/hugo/</link>
-      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jekyll</title>
-      <link>https://petertsehsun.github.io/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/tags/jekyll/</guid>
       <description></description>
     </item>
     
@@ -121,6 +31,24 @@
     </item>
     
     <item>
+      <title>Testing</title>
+      <link>https://petertsehsun.github.io/tags/testing/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/tags/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>API</title>
+      <link>https://petertsehsun.github.io/tags/api/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mobile</title>
       <link>https://petertsehsun.github.io/tags/mobile/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
@@ -130,11 +58,38 @@
     </item>
     
     <item>
-      <title>Orm</title>
-      <link>https://petertsehsun.github.io/tags/orm/</link>
-      <pubDate>Sat, 02 Jul 2016 00:00:00 +0000</pubDate>
+      <title>Empirical</title>
+      <link>https://petertsehsun.github.io/tags/empirical/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://petertsehsun.github.io/tags/orm/</guid>
+      <guid>https://petertsehsun.github.io/tags/empirical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StackOverflow</title>
+      <link>https://petertsehsun.github.io/tags/stackoverflow/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/tags/stackoverflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Driving</title>
+      <link>https://petertsehsun.github.io/tags/autonomous-driving/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/tags/autonomous-driving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://petertsehsun.github.io/tags/deep-learning/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
@@ -148,25 +103,16 @@
     </item>
     
     <item>
-      <title>Stackoverflow</title>
-      <link>https://petertsehsun.github.io/tags/stackoverflow/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <title>Anti-pattern</title>
+      <link>https://petertsehsun.github.io/tags/anti-pattern/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://petertsehsun.github.io/tags/stackoverflow/</guid>
+      <guid>https://petertsehsun.github.io/tags/anti-pattern/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Testing</title>
-      <link>https://petertsehsun.github.io/tags/testing/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/tags/testing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Topicmodel</title>
+      <title>TopicModel</title>
       <link>https://petertsehsun.github.io/tags/topicmodel/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
@@ -175,11 +121,65 @@
     </item>
     
     <item>
-      <title>Topicmodels</title>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>https://petertsehsun.github.io/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>https://petertsehsun.github.io/tags/database/</link>
+      <pubDate>Sat, 02 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ORM</title>
+      <link>https://petertsehsun.github.io/tags/orm/</link>
+      <pubDate>Sat, 02 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/tags/orm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TopicModels</title>
       <link>https://petertsehsun.github.io/tags/topicmodels/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/tags/topicmodels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cache</title>
+      <link>https://petertsehsun.github.io/tags/cache/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/tags/cache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://petertsehsun.github.io/tags/hugo/</link>
+      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jekyll</title>
+      <link>https://petertsehsun.github.io/tags/jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/tags/jekyll/</guid>
       <description></description>
     </item>
     

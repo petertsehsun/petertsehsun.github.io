@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on Tse-Hsun (Peter) Chen&#39;s website</title>
+    <title>hugo on Tse-Hsun (Peter) Chen&#39;s website</title>
     <link>https://petertsehsun.github.io/tags/hugo/</link>
-    <description>Recent content in Hugo on Tse-Hsun (Peter) Chen&#39;s website</description>
+    <description>Recent content in hugo on Tse-Hsun (Peter) Chen&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
@@ -18,9 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/post/getting-started/</guid>
-      <description>The Academic framework enables you to easily create a beautifully simple personal or academic website using the Hugo static site generator.
-Key features:
- Easily manage your homepage, blog posts, publications, talks, and projects Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact Need a different section? Just use the Custom widget! Write in Markdown for easy formatting and code highlighting, with LaTeX for mathematical expressions Social/academic network linking, Google Analytics, and Disqus comments Responsive and mobile friendly Simple and refreshing one page design Easy to customize  Installation  Install Hugo and create a new website by typing the following commands in your Terminal or Command Prompt app:</description>
+      <description>Create a beautifully simple personal or academic website in under 10 minutes.</description>
     </item>
     
     <item>
@@ -29,8 +27,7 @@ Key features:
       <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/post/widgets/</guid>
-      <description>Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:
- About/biography Selected publications Recent publications Recent news/blog posts Projects Selected talks Recent talks Contact Custom widget (demonstrated with the teaching example)  The example site that you copied to create your site uses all the different types of widget (except talks), so you can generally just delete the widgets you don&amp;rsquo;t need and customize the parameters of the widgets you wish to keep.</description>
+      <description>Enable/disable and configure widgets to customize your homepage.</description>
     </item>
     
     <item>
