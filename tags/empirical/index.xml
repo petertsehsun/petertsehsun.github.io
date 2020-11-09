@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/tags/empirical/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[J14] Are Comments on Stack Overflow Well Organized for Easy Retrieval by Developers?</title>
+      <link>https://petertsehsun.github.io/publication/tosem2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tosem2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[J11] Reading Answers on Stack Overflow: Not Enough!</title>
@@ -99,15 +108,6 @@
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/msr2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[J14] Are Comments on Stack Overflow Well Organized for Easy Retrieval by Developers?</title>
-      <link>https://petertsehsun.github.io/publication/tosem2020/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/tosem2020/</guid>
       <description></description>
     </item>
     

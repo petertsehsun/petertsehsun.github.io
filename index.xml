@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>[J14] Are Comments on Stack Overflow Well Organized for Easy Retrieval by Developers?</title>
+      <link>https://petertsehsun.github.io/publication/tosem2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tosem2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[J13] Logram: Efficient Log Parsing Using n-Gram Dictionaries</title>
@@ -431,15 +440,6 @@
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/emse2017-so/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[J4] Studying Software Logging Using Topic Models</title>
-      <link>https://petertsehsun.github.io/publication/emse2017-log/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/emse2017-log/</guid>
       <description></description>
     </item>
     
