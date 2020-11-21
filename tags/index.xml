@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,27 @@
     <item>
       <title>Empirical</title>
       <link>https://petertsehsun.github.io/tags/empirical/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/tags/empirical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Log</title>
+      <link>https://petertsehsun.github.io/tags/log/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/tags/log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance</title>
+      <link>https://petertsehsun.github.io/tags/performance/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/tags/performance/</guid>
       <description></description>
     </item>
     
@@ -36,15 +54,6 @@
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/tags/data-mining/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Log</title>
-      <link>https://petertsehsun.github.io/tags/log/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/tags/log/</guid>
       <description></description>
     </item>
     
@@ -90,15 +99,6 @@
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Performance</title>
-      <link>https://petertsehsun.github.io/tags/performance/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/tags/performance/</guid>
       <description></description>
     </item>
     
