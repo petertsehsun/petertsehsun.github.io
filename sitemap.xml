@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://petertsehsun.github.io/publication/tse2020max/</loc>
+      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://petertsehsun.github.io/publication/emse2020/</loc>
       <lastmod>2020-11-20T00:00:00+00:00</lastmod>
     </url>
@@ -32,7 +41,7 @@
     
     <url>
     
-      <loc>https://petertsehsun.github.io/publication/tse2020max/</loc>
+      <loc>https://petertsehsun.github.io/publication/tse2021peng/</loc>
       <lastmod>2020-04-11T00:00:00+00:00</lastmod>
     </url>
     
@@ -376,7 +385,7 @@
     <url>
     
       <loc>https://petertsehsun.github.io/publication_types/2/</loc>
-      <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -466,6 +475,16 @@
     
       <loc>https://petertsehsun.github.io/tags/empirical/</loc>
       <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/empirical-study/</loc>
+      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -564,8 +583,18 @@
     
     <url>
     
+      <loc>https://petertsehsun.github.io/tags/test-smell/</loc>
+      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://petertsehsun.github.io/tags/testing/</loc>
-      <lastmod>2020-06-11T00:00:00+00:00</lastmod>
+      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

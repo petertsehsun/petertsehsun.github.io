@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>[J16] Revisiting Test Impact Analysis in Continuous Testing From the Perspective of Code Dependencies</title>
+      <link>https://petertsehsun.github.io/publication/tse2020max/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2020max/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[J15] Demystifying the Challenges and Benefits of Analyzing User-Reported Logs in Bug Reports</title>
       <link>https://petertsehsun.github.io/publication/emse2020/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
@@ -39,10 +48,10 @@
     
     <item>
       <title>[J12] A3: Assisting Android API Migrations Using Code Examples</title>
-      <link>https://petertsehsun.github.io/publication/tse2020max/</link>
+      <link>https://petertsehsun.github.io/publication/tse2021peng/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://petertsehsun.github.io/publication/tse2020max/</guid>
+      <guid>https://petertsehsun.github.io/publication/tse2021peng/</guid>
       <description></description>
     </item>
     
@@ -432,15 +441,6 @@
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/icse2018-seip/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[J6] An Empirical Study on the Effect of Testing on Code Quality Using Topic Models: A Case Study on Software Development Systems</title>
-      <link>https://petertsehsun.github.io/publication/tr2017/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/tr2017/</guid>
       <description></description>
     </item>
     
