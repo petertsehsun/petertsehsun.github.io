@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/tags/anti-pattern/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[C15] Studying Test Annotation Maintenance in the Wild</title>
+      <link>https://petertsehsun.github.io/publication/icse2021-testing/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2021-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C14] DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks</title>
+      <link>https://petertsehsun.github.io/publication/icse2021-deeplv/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2021-deeplv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[J8] iPerfDetector: Characterizing and Detecting Performance Anti-patterns in iOS Applications</title>
