@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Sat, 05 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[J17] DLFinder: Characterizing and Detecting Duplicate Logging Code Smells</title>
+      <link>https://petertsehsun.github.io/publication/tse2021dup/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2021dup/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[J16] Revisiting Test Impact Analysis in Continuous Testing From the Perspective of Code Dependencies</title>
@@ -90,15 +99,6 @@
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/emse2019-ios/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[J17] DLFinder: Characterizing and Detecting Duplicate Logging Code Smells</title>
-      <link>https://petertsehsun.github.io/publication/tse2021dup/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/tse2021dup/</guid>
       <description></description>
     </item>
     

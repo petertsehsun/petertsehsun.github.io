@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>[J17] DLFinder: Characterizing and Detecting Duplicate Logging Code Smells</title>
+      <link>https://petertsehsun.github.io/publication/tse2021dup/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2021dup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[C15] Studying Test Annotation Maintenance in the Wild</title>
       <link>https://petertsehsun.github.io/publication/icse2021-testing/</link>
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
@@ -135,15 +144,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/icse2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[J17] DLFinder: Characterizing and Detecting Duplicate Logging Code Smells</title>
-      <link>https://petertsehsun.github.io/publication/tse2021dup/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/tse2021dup/</guid>
       <description></description>
     </item>
     
