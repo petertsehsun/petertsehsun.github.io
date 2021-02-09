@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/tags/empirical/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[J18] A Study of C/C&#43;&#43; Code Weaknesses on Stack Overﬂow</title>
+      <link>https://petertsehsun.github.io/publication/tse2021security/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2021security/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[J17] Studying Duplicate Logging Statements and Their Relationships with Code Clones</title>
