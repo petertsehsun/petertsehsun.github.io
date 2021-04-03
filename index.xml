@@ -11,6 +11,33 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>[J21] Pathidea: Improving Information Retrieval-Based Bug Localization by Re-Constructing Execution Paths Using Logs</title>
+      <link>https://petertsehsun.github.io/publication/tse2021pathidea/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2021pathidea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J20] The Secret Life of Test Smells - An Empirical Study on Test Smell Evolution and Maintenance</title>
+      <link>https://petertsehsun.github.io/publication/emse2021-bounty/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2021-bounty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J19] Studying Backers and Hunters in Bounty Issue Addressing Process of Open Source Projects</title>
+      <link>https://petertsehsun.github.io/publication/emse2021-testsmell/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2021-testsmell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[J18] A Study of C/C&#43;&#43; Code Weaknesses on Stack Overﬂow</title>
       <link>https://petertsehsun.github.io/publication/tse2021security/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
@@ -115,33 +142,6 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/ase2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[J10] An Empirical Study of Obsolete Answers on Stack Overflow</title>
-      <link>https://petertsehsun.github.io/publication/tse2019/</link>
-      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/tse2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[J9] Studying the Characteristics of Logging Practices in Mobile Apps: A Case Study on F-Droid</title>
-      <link>https://petertsehsun.github.io/publication/emse2019/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/emse2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[J8] iPerfDetector: Characterizing and Detecting Performance Anti-patterns in iOS Applications</title>
-      <link>https://petertsehsun.github.io/publication/emse2019-ios/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/emse2019-ios/</guid>
       <description></description>
     </item>
     

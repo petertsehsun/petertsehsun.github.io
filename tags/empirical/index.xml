@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/tags/empirical/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[J21] Pathidea: Improving Information Retrieval-Based Bug Localization by Re-Constructing Execution Paths Using Logs</title>
+      <link>https://petertsehsun.github.io/publication/tse2021pathidea/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2021pathidea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J20] The Secret Life of Test Smells - An Empirical Study on Test Smell Evolution and Maintenance</title>
+      <link>https://petertsehsun.github.io/publication/emse2021-bounty/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2021-bounty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J19] Studying Backers and Hunters in Bounty Issue Addressing Process of Open Source Projects</title>
+      <link>https://petertsehsun.github.io/publication/emse2021-testsmell/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2021-testsmell/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[J18] A Study of C/C&#43;&#43; Code Weaknesses on Stack Overﬂow</title>
