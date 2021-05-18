@@ -1,25 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jekyll on Tse-Hsun (Peter) Chen&#39;s website</title>
+    <title>jekyll on Tse-Hsun (Peter) Chen&#39;s website</title>
     <link>https://petertsehsun.github.io/tags/jekyll/</link>
-    <description>Recent content in Jekyll on Tse-Hsun (Peter) Chen&#39;s website</description>
+    <description>Recent content in jekyll on Tse-Hsun (Peter) Chen&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Mon, 10 Mar 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://petertsehsun.github.io/tags/jekyll/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 10 Mar 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://petertsehsun.github.io/tags/jekyll/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Migrate from Jekyll to Hugo</title>
       <link>https://petertsehsun.github.io/post/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/post/migrate-from-jekyll/</guid>
-      <description>Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s getting started guide.
-Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like</description>
+      <description>Learn how to migrate an existing website from Jekyll to Hugo.</description>
     </item>
     
   </channel>

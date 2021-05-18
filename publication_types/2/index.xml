@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Tse-Hsun (Peter) Chen&#39;s website</title>
@@ -7,10 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://petertsehsun.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 09 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://petertsehsun.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[J23] LogAssist: Assisting Log Analysis Through Log Summarization</title>
+      <link>https://petertsehsun.github.io/publication/tse2021logassist/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2021logassist/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[J22] MLASP: Machine Learning Assisted Capacity Planning - An industrial experience report</title>

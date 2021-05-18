@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Tse-Hsun (Peter) Chen&#39;s website</title>
@@ -7,18 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Tue, 29 Aug 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://petertsehsun.github.io/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 29 Aug 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://petertsehsun.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://petertsehsun.github.io/home/about/</link>
       <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/home/about/</guid>
-      <description>Queen&#39;s University in September 2016. I was a member of the Software Analysis and Intelligence Lab (SAIL) and I was supervised by an amazing supervisor Ahmed E. Hassan. Before that, I received my MSc from Queen&#39;s University (under the same supervisor), and BSc in Computer Science from the University of British Columbia. During my PhD, I worked as an embedded researcher in the Performance Engineering department at BlackBerry from January 2013 to December 2016.</description>
+      <description>I lead the Software PErformance, Analysis, and Reliability (SPEAR) lab at Concordia University. My research focuses on improving the quality of large-scale software systems. I work on bug detection, software performance analysis, cloud-based systems, database-centric systems, software testing, and mining software repositories. My research tools were integrated into industrial practice for ensuring the quality of large-scale enterprise systems.
+In particular, my research aims to solve challenges such as:
+ Can we quickly help developers debug production systems by utilizing rich software data?</description>
     </item>
     
     <item>
@@ -55,9 +53,9 @@
       
       <guid>https://petertsehsun.github.io/home/students/</guid>
       <description>MSc Students
- Steven Locke
- MohammadReza JebeliHajiAbadi
- Tarek Makkouk
+  Steven Locke
+  MohammadReza JebeliHajiAbadi
+  Tarek Makkouk
   PhD Students
  Zhenhao Li An Ran Chen Dong Jae Kim Arthur Vitui Wei Liu Zehao Wang  Alumni
  Zehao Wang, 2021 (MSc) Zi Peng, 2020 (MSc) Zhenhao Li, 2019 (MSc) An Ran Chen, 2019 (MSc) Sara Seif Afjehei, 2019 (MSc) Hugo Enrique Ochoa, 2019 (BSc) Jacqlyn Bender, 2019 (BSc)  </description>

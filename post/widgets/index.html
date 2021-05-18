@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.40.1" />
+  <meta name="generator" content="Hugo 0.83.1" />
   <meta name="author" content="Tse-Hsun (Peter) Chen">
   <meta name="description" content="Assistant Professor">
 
@@ -257,10 +257,7 @@
 </div>
 
     <div class="article-style" itemprop="articleBody">
-      
-
-<p>Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:</p>
-
+      <p>Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:</p>
 <ul>
 <li>About/biography</li>
 <li>Selected publications</li>
@@ -272,47 +269,28 @@
 <li>Contact</li>
 <li>Custom widget (demonstrated with the <em>teaching</em> example)</li>
 </ul>
-
 <p>The example site that you copied to create your site uses all the different types of widget (except talks), so you can generally just delete the widgets you don&rsquo;t need and customize the parameters of the widgets you wish to keep.</p>
-
 <p>The parameters for each widget vary. They can be found in the preamble/frontmatter (between the pair of <code>+++</code>) for each widget installed in the <code>content/home/</code> folder.</p>
-
-<div class="alert alert-note">
-  <p>By default, publications will be displayed in a simple list. If you prefer a more detailed list with abstract and image, you can enable the detailed publication list on the homepage by setting <code>detailed_list = true</code> in <code>content/home/publications.md</code>.</p>
-
-</div>
-
-
+<!-- raw HTML omitted -->
+<p>By default, publications will be displayed in a simple list. If you prefer a more detailed list with abstract and image, you can enable the detailed publication list on the homepage by setting <code>detailed_list = true</code> in <code>content/home/publications.md</code>.</p>
+<!-- raw HTML omitted -->
 <h2 id="add-a-widget-to-the-homepage">Add a widget to the homepage</h2>
-
 <p>To add a widget manually, copy the relevant widget from <code>themes/academic/exampleSite/content/home/</code> to your <code>content/home/</code> folder.</p>
-
 <p>Widget identifiers are set to their respective filenames, so a <code>content/home/about.md</code> widget can be linked from the navigation bar by setting the relevant URL as <code>&quot;#about&quot;</code> in <code>config.toml</code>.</p>
-
 <p>This means that if you want to use multiple instances of a widget, each widget will be assigned a unique ID based on the filename that you set. You can then use that ID for linking, like in the above example.</p>
-
 <h2 id="using-the-custom-widget">Using the custom widget</h2>
-
 <p>You can use the custom widget to create your own home page sections.</p>
-
 <p>Simply duplicate (copy/paste) and rename the example <em>teaching</em> file at <code>content/home/teaching.md</code>. Then edit the section title, weight (refer to <em>Ordering sections</em> below), and content as desired.</p>
-
 <p>You may also wish to add a navigation link to the top of the page that points to the new section. This can be achieved by adding something similar to the following lines to your <code>config.toml</code>, where the URL will consist of the first title word in lowercase:</p>
-
 <pre><code>[[menu.main]]
     name = &quot;Research&quot;
     url = &quot;#research&quot;
     weight = 10
 </code></pre>
-
 <h2 id="remove-a-widget-from-the-homepage">Remove a widget from the homepage</h2>
-
 <p>If you do not require a particular widget, you can simply delete any associated files from the <code>content/home/</code> folder.</p>
-
 <p>To remove a navigation link from the top of the page, remove the associated <code>[[menu.main]]</code> entry in <code>config.toml</code>.</p>
-
 <h2 id="ordering-widgets">Ordering widgets</h2>
-
 <p>The order that the homepage widgets are displayed in is defined by the <code>weight</code> parameter in each of the files in the <code>content/home/</code> directory. The widgets are displayed in ascending order of their <code>weight</code>, so you can simply edit the <code>weight</code> parameters as desired.</p>
 
     </div>
@@ -346,7 +324,7 @@
   <div class="container">
     <p class="powered-by">
 
-      &copy; 2018 Tse-Hsun (Peter) Chen &middot; 
+      © 2018 Tse-Hsun (Peter) Chen &middot; 
 
       Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic
       theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.

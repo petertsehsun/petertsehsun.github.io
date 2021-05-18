@@ -1,17 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Topicmodel on Tse-Hsun (Peter) Chen&#39;s website</title>
+    <title>TopicModel on Tse-Hsun (Peter) Chen&#39;s website</title>
     <link>https://petertsehsun.github.io/tags/topicmodel/</link>
-    <description>Recent content in Topicmodel on Tse-Hsun (Peter) Chen&#39;s website</description>
+    <description>Recent content in TopicModel on Tse-Hsun (Peter) Chen&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://petertsehsun.github.io/tags/topicmodel/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://petertsehsun.github.io/tags/topicmodel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[J6] An Empirical Study on the Effect of Testing on Code Quality Using Topic Models: A Case Study on Software Development Systems</title>
       <link>https://petertsehsun.github.io/publication/tr2017/</link>

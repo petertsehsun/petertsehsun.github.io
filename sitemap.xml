@@ -1,11 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     
     <url>
     
+      <loc>https://petertsehsun.github.io/publication_types/2/</loc>
+      <lastmod>2021-05-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/publication/tse2021logassist/</loc>
+      <lastmod>2021-05-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/empirical/</loc>
+      <lastmod>2021-05-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/publication_types/</loc>
+      <lastmod>2021-05-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/stackoverflow/</loc>
+      <lastmod>2021-05-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/</loc>
+      <lastmod>2021-05-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/</loc>
+      <lastmod>2021-05-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://petertsehsun.github.io/publication/emse2021-mlasp/</loc>
+      <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/log/</loc>
       <lastmod>2021-04-13T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,6 +130,24 @@
     
     <url>
     
+      <loc>https://petertsehsun.github.io/tags/anti-pattern/</loc>
+      <lastmod>2021-02-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/publication_types/1/</loc>
+      <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://petertsehsun.github.io/publication/icse2021-testing/</loc>
       <lastmod>2020-12-07T00:00:00+00:00</lastmod>
     </url>
@@ -78,6 +167,33 @@
     <url>
     
       <loc>https://petertsehsun.github.io/publication/tse2020max/</loc>
+      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/empirical-study/</loc>
+      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/test-smell/</loc>
+      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/testing/</loc>
       <lastmod>2020-12-05T00:00:00+00:00</lastmod>
     </url>
     
@@ -113,7 +229,34 @@
     
     <url>
     
+      <loc>https://petertsehsun.github.io/tags/data-mining/</loc>
+      <lastmod>2020-06-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://petertsehsun.github.io/publication/tse2021peng/</loc>
+      <lastmod>2020-04-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/api/</loc>
+      <lastmod>2020-04-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/mobile/</loc>
       <lastmod>2020-04-11T00:00:00+00:00</lastmod>
     </url>
     
@@ -132,6 +275,24 @@
     <url>
     
       <loc>https://petertsehsun.github.io/publication/fse2020/</loc>
+      <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/autonomous-driving/</loc>
+      <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/deep-learning/</loc>
       <lastmod>2020-01-03T00:00:00+00:00</lastmod>
     </url>
     
@@ -159,6 +320,15 @@
     <url>
     
       <loc>https://petertsehsun.github.io/publication/emse2019/</loc>
+      <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/performance/</loc>
       <lastmod>2019-03-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -213,6 +383,15 @@
     <url>
     
       <loc>https://petertsehsun.github.io/publication/tr2017/</loc>
+      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/topicmodel/</loc>
       <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -311,7 +490,34 @@
     
     <url>
     
+      <loc>https://petertsehsun.github.io/tags/database/</loc>
+      <lastmod>2016-07-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/orm/</loc>
+      <lastmod>2016-07-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://petertsehsun.github.io/publication/emse2016/</loc>
+      <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/topicmodels/</loc>
       <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -330,6 +536,15 @@
     <url>
     
       <loc>https://petertsehsun.github.io/publication/fse2016/</loc>
+      <lastmod>2016-06-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/cache/</loc>
       <lastmod>2016-06-20T00:00:00+00:00</lastmod>
     </url>
     
@@ -366,6 +581,15 @@
     <url>
     
       <loc>https://petertsehsun.github.io/post/getting-started/</loc>
+      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://petertsehsun.github.io/tags/hugo/</loc>
       <lastmod>2016-04-20T12:00:00+00:00</lastmod>
     </url>
     
@@ -428,6 +652,15 @@
     
     <url>
     
+      <loc>https://petertsehsun.github.io/tags/jekyll/</loc>
+      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://petertsehsun.github.io/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     </url>
@@ -446,258 +679,7 @@
     
     <url>
     
-      <loc>https://petertsehsun.github.io/publication_types/1/</loc>
-      <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/publication_types/2/</loc>
-      <lastmod>2021-04-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/anti-pattern/</loc>
-      <lastmod>2021-02-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/api/</loc>
-      <lastmod>2020-04-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/autonomous-driving/</loc>
-      <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/cache/</loc>
-      <lastmod>2016-06-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://petertsehsun.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/data-mining/</loc>
-      <lastmod>2020-06-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/database/</loc>
-      <lastmod>2016-07-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/deep-learning/</loc>
-      <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/empirical/</loc>
-      <lastmod>2021-04-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/empirical-study/</loc>
-      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/hugo/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/log/</loc>
-      <lastmod>2021-04-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/mobile/</loc>
-      <lastmod>2020-04-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/orm/</loc>
-      <lastmod>2016-07-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/performance/</loc>
-      <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/publication_types/</loc>
-      <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/stackoverflow/</loc>
-      <lastmod>2021-04-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/test-smell/</loc>
-      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/testing/</loc>
-      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/topicmodel/</loc>
-      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/tags/topicmodels/</loc>
-      <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://petertsehsun.github.io/</loc>
-      <lastmod>2017-08-29T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
