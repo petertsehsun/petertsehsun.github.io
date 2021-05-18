@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TopicModels on Tse-Hsun (Peter) Chen&#39;s website</title>
+    <title>Topicmodels on Tse-Hsun (Peter) Chen&#39;s website</title>
     <link>https://petertsehsun.github.io/tags/topicmodels/</link>
-    <description>Recent content in TopicModels on Tse-Hsun (Peter) Chen&#39;s website</description>
+    <description>Recent content in Topicmodels on Tse-Hsun (Peter) Chen&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://petertsehsun.github.io/tags/topicmodels/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://petertsehsun.github.io/tags/topicmodels/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>[J2] A Survey on the Use of Topic Models when Mining Software Repositories</title>
       <link>https://petertsehsun.github.io/publication/emse2016/</link>

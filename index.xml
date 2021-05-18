@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tse-Hsun (Peter) Chen&#39;s website on Tse-Hsun (Peter) Chen&#39;s website</title>
@@ -6,110 +7,141 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Sun, 09 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Aug 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>SOEN7481 - Software Verification and Testing</title>
-      <link>https://petertsehsun.github.io/soen7481/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <title>[J23] LogAssist: Assisting Log Analysis Through Log Summarization</title>
+      <link>https://petertsehsun.github.io/publication/tse2021logassist/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://petertsehsun.github.io/soen7481/</guid>
-      <description>&lt;h2 id=&#34;span-stylecolornavycourse-objective-span&#34;&gt;&lt;!-- raw HTML omitted --&gt;Course Objective &lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;
-&lt;p&gt;This course explores leading research in software testing and quality assurance, discusses state-of-the-art testing approaches, highlights industrial engineering practice, and outlines future research directions. In particular, the course covers topics such as leveraging data mining to analyze test results and detect bugs, how different companies leverage static analysis tools in their quality assurance process, and many more. Students will acquire the advance knowledge about the software testing and quality assurance in the field. Once completed, students should be able to conduct research in topics related to software quality and will be able to leverage the learned knowledge in other system and software engineering related research or practice.&lt;/p&gt;
-&lt;h2 id=&#34;span-stylecolornavycourse-schedulespan&#34;&gt;&lt;!-- raw HTML omitted --&gt;Course Schedule&lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;
-&lt;p&gt;Every Tuesday 5:45pm to 8:15pm in FG B030.&lt;/p&gt;
-&lt;h2 id=&#34;span-stylecolornavycourse-requirements-span&#34;&gt;&lt;!-- raw HTML omitted --&gt;Course Requirements &lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;
-&lt;p&gt;Prerequisites: SOEN 6461, SOEN 6481&lt;/p&gt;
-&lt;p&gt;Students are expected to have background knowledge in programming, fundamentals of computer science, software development, software systems, and software engineering.&lt;/p&gt;
-&lt;h2 id=&#34;span-stylecolornavycourse-format-and-grading-schemespan&#34;&gt;&lt;!-- raw HTML omitted --&gt;Course Format and Grading Scheme&lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;
-&lt;p&gt;Students are expected to present three papers each week. &lt;!-- raw HTML omitted --&gt;A detailed course schedule can be found at the bottom of the page.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;1. Paper presentation and discussion (20%)
-2. Weekly critique and summary (5%)
-3. Programming assignment (20%)
-4. Project (40%)
-5. In-class exam (15%)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Paper presentation and discussion (10% + 5% + 5% = 20%)&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Each paper will be assigned to one group of students who will act as a presenter (10%).&lt;/li&gt;
-&lt;li&gt;Another one group of students who will act as discussant (5%).&lt;/li&gt;
-&lt;li&gt;Students need to ask questions after the presentation (may be randomly picked). Afterwards, the discussion will last 10-20 minutes (5%).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;code&gt;Role of presenter&lt;/code&gt;: As a presenter you should not simply repeat the paper content (remember you only have 20 mins), instead you should point out the main important findings of the work. You should highlight any novel contributions, any surprises, and other possible applications of the proposed techniques. You should check the other work of the authors that is related to the presented paper. Finally, you should discuss how the presented work relate to other papers covered in the course (especially the papers covered in that particular week).&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;Role of discussant&lt;/code&gt;: As a discussant, you should take an adversarial position by pointing out weak and controversial positions in the paper. You should present a short rebuttal of the paper. You should come prepared with problems and counterexamples for the presented work.&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Your presentations should have (at least):&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;One slide that describes the main technique that is used in the paper.&lt;/li&gt;
-&lt;li&gt;One slide that lists the main contributions of the paper.&lt;/li&gt;
-&lt;li&gt;One slide that places the paper relative to any recent work done by the authors of the paper.&lt;/li&gt;
-&lt;li&gt;One slide that links places the paper relative to other papers presented that week.&lt;/li&gt;
-&lt;li&gt;As the final slide, a listing of at least three technical points that you liked and three areas that should be improved.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Your presentations as discussant should have:&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Points that you think should be improved/discussed.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;DO NOT&lt;/strong&gt; repeat what the paper is about.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;code&gt;Your presentations will be graded according to the above-mentioned points, the style (e.g., it is a bad style to have a lot of text in your slide), and time.&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Weekly critique and summary (5%)&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;Each week, each student should &lt;!-- raw HTML omitted --&gt;pick one of the papers&lt;!-- raw HTML omitted --&gt; for that week and submit a one page critique of the paper &lt;!-- raw HTML omitted --&gt;before Sunday midnight&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;The critique should offer a brief summary of the paper, points in favor, points against, and comments for improvement. &lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Additional advice for critiquing papers is &lt;a href=&#34;http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F14/papers/reviewing-smith.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You do not need to submit a critique if you act as presenter in that week. You still need to submit a critique if you act as discussant for that week. Note that you are required to read at least the abstract and introduction of the other papers that you did not write the critique on.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Assignment (20%)&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;One programming assignment done in a group of 3 to 5 students. More details in class.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Project (40%)&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;One original project (10 pages &lt;a href=&#34;https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-master.zip&#34;&gt;ACM conference format&lt;/a&gt;) done alone or in a group of 3 to 5 students. The project will explore one or more of the themes covered in the course.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Project update presentation (5%)&lt;/li&gt;
-&lt;li&gt;Final project presentation (10%)&lt;/li&gt;
-&lt;li&gt;Final project report (25%)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;code&gt;The project can be related to any topic as long as it is related to the course. You can also choose to replicate one of the papers that is covered in the course. &lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;Code for both assignments and course project must be stored on GitHub. We will need to see the development history of the work. There will also be a peer-evaluation for both assignment and course project at the end of the term. &lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;In-class Exam (15%)&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;We will have a in-class exam in the second last week. The exam coverage will be based on the assignment and a few papers that are covered in the course. More details will be announced.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;span-stylecolornavyweekly-schedulespan&#34;&gt;&lt;!-- raw HTML omitted --&gt;Weekly Schedule&lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://petertsehsun.github.io/post/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/post/</guid>
+      <guid>https://petertsehsun.github.io/publication/tse2021logassist/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://petertsehsun.github.io/publication/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>[J22] MLASP: Machine Learning Assisted Capacity Planning - An industrial experience report</title>
+      <link>https://petertsehsun.github.io/publication/emse2021-mlasp/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://petertsehsun.github.io/publication/</guid>
+      <guid>https://petertsehsun.github.io/publication/emse2021-mlasp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://petertsehsun.github.io/talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>[J21] Pathidea: Improving Information Retrieval-Based Bug Localization by Re-Constructing Execution Paths Using Logs</title>
+      <link>https://petertsehsun.github.io/publication/tse2021pathidea/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://petertsehsun.github.io/talk/</guid>
+      <guid>https://petertsehsun.github.io/publication/tse2021pathidea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J20] The Secret Life of Test Smells - An Empirical Study on Test Smell Evolution and Maintenance</title>
+      <link>https://petertsehsun.github.io/publication/emse2021-testsmell/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2021-testsmell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J19] Studying Backers and Hunters in Bounty Issue Addressing Process of Open Source Projects</title>
+      <link>https://petertsehsun.github.io/publication/emse2021-bounty/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2021-bounty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J18] A Study of C/C&#43;&#43; Code Weaknesses on Stack Overﬂow</title>
+      <link>https://petertsehsun.github.io/publication/tse2021security/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2021security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J17] Studying Duplicate Logging Statements and Their Relationships with Code Clones</title>
+      <link>https://petertsehsun.github.io/publication/tse2021dup/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2021dup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C15] Studying Test Annotation Maintenance in the Wild</title>
+      <link>https://petertsehsun.github.io/publication/icse2021-testing/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2021-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C14] DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks</title>
+      <link>https://petertsehsun.github.io/publication/icse2021-deeplv/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2021-deeplv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J16] Revisiting Test Impact Analysis in Continuous Testing From the Perspective of Code Dependencies</title>
+      <link>https://petertsehsun.github.io/publication/tse2020max/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2020max/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J15] Demystifying the Challenges and Benefits of Analyzing User-Reported Logs in Bug Reports</title>
+      <link>https://petertsehsun.github.io/publication/emse2020/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J14] Are Comments on Stack Overflow Well Organized for Easy Retrieval by Developers?</title>
+      <link>https://petertsehsun.github.io/publication/tosem2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tosem2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J13] Logram: Efficient Log Parsing Using n-Gram Dictionaries</title>
+      <link>https://petertsehsun.github.io/publication/tse2020hetong/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2020hetong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J12] A3: Assisting Android API Migrations Using Code Examples</title>
+      <link>https://petertsehsun.github.io/publication/tse2021peng/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2021peng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J11] Reading Answers on Stack Overflow: Not Enough!</title>
+      <link>https://petertsehsun.github.io/publication/tse2019-comment/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2019-comment/</guid>
       <description></description>
     </item>
     

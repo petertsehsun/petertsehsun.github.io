@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.83.1" />
+  <meta name="generator" content="Hugo 0.40.1" />
   <meta name="author" content="Tse-Hsun (Peter) Chen">
   <meta name="description" content="Assistant Professor">
 
@@ -257,22 +257,35 @@
 </div>
 
     <div class="article-style" itemprop="articleBody">
-      <p>This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about <a href="https://petertsehsun.github.io/post/writing-markdown-latex/">writing content with Markdown, LaTeX, and Shortcodes</a>.</p>
-<p>To enable LaTeX math rendering for a page, you should include <code>math = true</code> in the page&rsquo;s <code>+++</code> preamble, as demonstrated in the included example site. Otherwise, to enable math on the homepage or for all pages, you must globally set <code>math = true</code> in <code>config.toml</code>.</p>
-<p>To disable source code highlighting by default for all pages, set <code>highlight = false</code> in <code>config.toml</code>. You can then enable source code highlighting only on pages that need it by setting <code>highlight = true</code> in that page&rsquo;s preamble. See the <a href="https://petertsehsun.github.io/post/writing-markdown-latex/#code-highlighting">code-highlighting docs</a> for more details.</p>
-<p>To display a featured image in content page headers, the parameters below can be inserted towards the end of a page&rsquo;s <code>+++</code> preamble. It is assumed that the image is located in your <code>static/img/</code> folder, so the full path in the example below will be <code>static/img/headers/getting-started.png</code>. The <code>caption</code> parameter can be used to write an image caption or credit.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml">[<span style="color:#a6e22e">header</span>]
-<span style="color:#a6e22e">image</span> = <span style="color:#e6db74">&#34;headers/getting-started.png&#34;</span>
-<span style="color:#a6e22e">caption</span> = <span style="color:#e6db74">&#34;Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)&#34;</span>
+      <p>This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about <a href="https://petertsehsun.github.io/post/writing-markdown-latex/" target="_blank">writing content with Markdown, LaTeX, and Shortcodes</a>.</p>
 
-</code></pre></div><!-- raw HTML omitted -->
-<p>If you wish to prevent a featured image automatically being used for a post&rsquo;s thumbnail on the homepage, the <code>preview = false</code> parameter can be added to <code>[header]</code>.</p>
-<!-- raw HTML omitted -->
+<p>To enable LaTeX math rendering for a page, you should include <code>math = true</code> in the page&rsquo;s <code>+++</code> preamble, as demonstrated in the included example site. Otherwise, to enable math on the homepage or for all pages, you must globally set <code>math = true</code> in <code>config.toml</code>.</p>
+
+<p>To disable source code highlighting by default for all pages, set <code>highlight = false</code> in <code>config.toml</code>. You can then enable source code highlighting only on pages that need it by setting <code>highlight = true</code> in that page&rsquo;s preamble. See the <a href="https://petertsehsun.github.io/post/writing-markdown-latex/#code-highlighting" target="_blank">code-highlighting docs</a> for more details.</p>
+
+<p>To display a featured image in content page headers, the parameters below can be inserted towards the end of a page&rsquo;s <code>+++</code> preamble. It is assumed that the image is located in your <code>static/img/</code> folder, so the full path in the example below will be <code>static/img/headers/getting-started.png</code>. The <code>caption</code> parameter can be used to write an image caption or credit.</p>
+
+<pre><code class="language-toml">[header]
+image = &quot;headers/getting-started.png&quot;
+caption = &quot;Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)&quot;
+
+</code></pre>
+
+<div class="alert alert-note">
+  <p>If you wish to prevent a featured image automatically being used for a post&rsquo;s thumbnail on the homepage, the <code>preview = false</code> parameter can be added to <code>[header]</code>.</p>
+
+</div>
+
+
 <h2 id="create-a-publication">Create a publication</h2>
+
 <p>To create a new publication:</p>
+
 <pre><code>hugo new publication/my-paper-name.md
 </code></pre>
+
 <p>Then edit the default variables at the top of <code>content/publication/my-paper-name.md</code> to include the details of your publication. The <code>url_</code> variables are used to generate links associated with your publication, such as for viewing PDFs of papers. Here is an example:</p>
+
 <pre><code>+++
 abstract = &quot;An abstract...&quot;
 authors = [&quot;First author's name&quot;, &quot;Second author's name&quot;]
@@ -291,58 +304,97 @@ url_video = &quot;&quot;
 +++
 
 Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
-</code></pre><p>The <code>url_</code> links can either point to local or web content. Associated local publication content, such as PDFs, may be copied to a <code>static/pdf/</code> folder and referenced like <code>url_pdf = &quot;pdf/my-paper-name.pdf&quot;</code>.</p>
+</code></pre>
+
+<p>The <code>url_</code> links can either point to local or web content. Associated local publication content, such as PDFs, may be copied to a <code>static/pdf/</code> folder and referenced like <code>url_pdf = &quot;pdf/my-paper-name.pdf&quot;</code>.</p>
+
 <p>You can also associate custom link buttons with the publication by adding the following block(s) within the variable preamble above, which is denoted by <code>+++</code>:</p>
+
 <pre><code>[[url_custom]]
     name = &quot;Custom Link&quot;
     url = &quot;http://www.example.org&quot;
-</code></pre><p>If you enabled <code>detailed_list</code> for publications in <code>config.toml</code>, then there are a few more optional variables that you can include in the publication page preamble. You may use <code>abstract_short = &quot;friendly summary of abstract&quot;</code> and <code>publication_short = &quot;abbreviated publication details&quot;</code> to display a friendly summary of the abstract and abbreviate the publication details, respectively. Furthermore, there is the option to display a different image on the homepage to the publication detail page by setting <code>image_preview = &quot;my-image.jpg&quot;</code>. This can be useful if you wish to scale down the image for the homepage or simply if you just wish to show a different image for the preview.</p>
-<!-- raw HTML omitted -->
-<p>Any double quotes (<code>&quot;</code>) or backslashes (e.g. LaTeX <code>\times</code>) occurring within the value of any frontmatter parameter (such as the <em>abstract</em>) should be escaped with a backslash (<code>\</code>). For example, the symbol <code>&quot;</code> and LaTeX text <code>\times</code> become <code>\&quot;</code> and <code>\\times</code>, respectively. Refer to the <a href="https://github.com/toml-lang/toml#user-content-string">TOML documentation</a> for more info.</p>
-<!-- raw HTML omitted -->
+</code></pre>
+
+<p>If you enabled <code>detailed_list</code> for publications in <code>config.toml</code>, then there are a few more optional variables that you can include in the publication page preamble. You may use <code>abstract_short = &quot;friendly summary of abstract&quot;</code> and <code>publication_short = &quot;abbreviated publication details&quot;</code> to display a friendly summary of the abstract and abbreviate the publication details, respectively. Furthermore, there is the option to display a different image on the homepage to the publication detail page by setting <code>image_preview = &quot;my-image.jpg&quot;</code>. This can be useful if you wish to scale down the image for the homepage or simply if you just wish to show a different image for the preview.</p>
+
+<div class="alert alert-warning">
+  <p>Any double quotes (<code>&quot;</code>) or backslashes (e.g. LaTeX <code>\times</code>) occurring within the value of any frontmatter parameter (such as the <em>abstract</em>) should be escaped with a backslash (<code>\</code>). For example, the symbol <code>&quot;</code> and LaTeX text <code>\times</code> become <code>\&quot;</code> and <code>\\times</code>, respectively. Refer to the <a href="https://github.com/toml-lang/toml#user-content-string" target="_blank">TOML documentation</a> for more info.</p>
+
+</div>
+
+
 <h2 id="post-an-article">Post an article</h2>
+
 <p>To create a blog/news article:</p>
+
 <pre><code>hugo new post/my-article-name.md
 </code></pre>
+
 <p>Then edit the newly created file <code>content/post/my-article-name.md</code> with your full title and content.</p>
-<p>Hugo will automatically generate summaries of posts that appear on the homepage. If you are dissatisfied with an automated summary, you can either limit the summary length by appropriately placing <!-- raw HTML omitted -->&lt;!--more--&gt;<!-- raw HTML omitted --> in the article body, or completely override the automated summary by adding a <code>summary</code> parameter to the <code>+++</code> preamble such that:</p>
+
+<p>Hugo will automatically generate summaries of posts that appear on the homepage. If you are dissatisfied with an automated summary, you can either limit the summary length by appropriately placing <code>&#60;&#33;&#45;&#45;more&#45;&#45;&#62;</code> in the article body, or completely override the automated summary by adding a <code>summary</code> parameter to the <code>+++</code> preamble such that:</p>
+
 <pre><code>summary = &quot;Summary of my post.&quot;
 </code></pre>
+
 <p>To disable commenting for a specific post, you can add <code>disable_comments = true</code> to the post <code>+++</code> preamble. Or to disable commenting for all posts, you can either set <code>disqusShortname = &quot;&quot;</code> or <code>disable_comments = true</code> in <code>config.toml</code>.</p>
+
 <h2 id="create-a-project">Create a project</h2>
+
 <p>To create a project:</p>
+
 <pre><code>hugo new project/my-project-name.md
 </code></pre>
+
 <p>Then edit the newly created file <code>content/project/my-project-name.md</code>. Either you can link the project to an external project website by setting the <code>external_link = &quot;http://external-project.com&quot;</code> variable at the top of the file, or you can add content (below the final <code>+++</code>) in order to render a project page on your website.</p>
+
 <h2 id="create-a-talk">Create a talk</h2>
+
 <p>To create a talk:</p>
+
 <pre><code>hugo new talk/my-talk-name.md
 </code></pre>
+
 <p>Then edit the newly created file <code>content/talk/my-talk-name.md</code> with your full talk title and details. Note that many of the talk parameters are similar to the publication parameters.</p>
+
 <h2 id="manage-node-index-pages">Manage node index pages</h2>
+
 <p>The node index pages (e.g. <code>/post/</code>) are the special pages which list all of your content. They can exist for blog posts, publications, and talks. The homepage widgets will automatically link to the node index pages when you have more items of content than can be displayed in the widget. Therefore, if you don&rsquo;t have much content, you may not see the automatic links yet - but you can also manually link to them using a normal Markdown formatted link in your content.</p>
+
 <p>You can edit the title and add your own content, such as an introduction, by creating and editing the following content files for the node indexes:</p>
+
 <pre><code>hugo new post/_index.md
 hugo new publication/_index.md
 hugo new talk/_index.md
 </code></pre>
+
 <p>Then remove all parameters except for <code>title</code>, <code>math</code>, <code>highlight</code>, and <code>date</code>. Edit the <code>title</code> parameter as desired and add any content after the <code>+++</code> preamble/frontmatter ends. For example, you should have something similar to:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml"><span style="color:#960050;background-color:#1e0010">+++</span>
-<span style="color:#a6e22e">title</span> = <span style="color:#e6db74">&#34;List of my posts&#34;</span>
-<span style="color:#a6e22e">date</span> = <span style="color:#e6db74">&#34;2017-01-01T00:00:00Z&#34;</span>
-<span style="color:#a6e22e">math</span> = <span style="color:#66d9ef">false</span>
-<span style="color:#a6e22e">highlight</span> = <span style="color:#66d9ef">false</span>
-<span style="color:#960050;background-color:#1e0010">+++</span>
 
-<span style="color:#a6e22e">Below</span> <span style="color:#a6e22e">is</span> <span style="color:#a6e22e">an</span> <span style="color:#a6e22e">automatically</span> <span style="color:#a6e22e">generated</span> <span style="color:#a6e22e">list</span> <span style="color:#a6e22e">of</span> <span style="color:#a6e22e">all</span> <span style="color:#a6e22e">my</span> <span style="color:#a6e22e">blog</span> <span style="color:#a6e22e">posts</span><span style="color:#960050;background-color:#1e0010">!</span>
+<pre><code class="language-toml">+++
+title = &quot;List of my posts&quot;
+date = &quot;2017-01-01T00:00:00Z&quot;
+math = false
+highlight = false
++++
 
-</code></pre></div><h2 id="removing-content">Removing content</h2>
+Below is an automatically generated list of all my blog posts!
+
+</code></pre>
+
+<h2 id="removing-content">Removing content</h2>
+
 <p>Generally, to remove content, simply delete the relevant file from your <code>content/post</code>, <code>content/publication</code>, <code>content/project</code>, or <code>content/talk</code> folder.</p>
+
 <h2 id="view-your-updated-site">View your updated site</h2>
-<p>After you have made changes to your site, you can view it by running the <code>hugo server --watch</code> command and then opening <a href="http://localhost:1313">localhost:1313</a> in your web browser.</p>
+
+<p>After you have made changes to your site, you can view it by running the <code>hugo server --watch</code> command and then opening <a href="http://localhost:1313" target="_blank">localhost:1313</a> in your web browser.</p>
+
 <h2 id="deploy-your-site">Deploy your site</h2>
+
 <p>Finally, you can build the static website to a <code>public/</code> folder ready for deployment using the <code>hugo</code> command.</p>
+
 <p>You may then deploy your site by copying the <code>public/</code> directory (by FTP, SFTP, WebDAV, Rsync, git push, etc.) to your production web server.</p>
+
 <p>Note that running <code>hugo</code> does not remove any previously generated files before building. Therefore, it&rsquo;s best practice to delete your <code>public/</code> directory prior to running <code>hugo</code> to ensure no old or interim files are deployed to your server.</p>
     </div>
   </div>
@@ -375,7 +427,7 @@ hugo new talk/_index.md
   <div class="container">
     <p class="powered-by">
 
-      © 2018 Tse-Hsun (Peter) Chen &middot; 
+      &copy; 2018 Tse-Hsun (Peter) Chen &middot; 
 
       Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic
       theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.

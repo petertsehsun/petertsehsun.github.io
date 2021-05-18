@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SOEN7481 - Software Verification and Testing on Tse-Hsun (Peter) Chen&#39;s website</title>
@@ -7,14 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate><atom:link href="https://petertsehsun.github.io/soen7481/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://petertsehsun.github.io/soen7481/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>SOEN7481 Fall 2018</title>
       <link>https://petertsehsun.github.io/soen7481/fall2018/</link>
       <pubDate>Mon, 03 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>https://petertsehsun.github.io/soen7481/fall2018/</guid>
-      <description></description>
+      <description>Week1 : Course Overview (Sept4)       Intro to Testing and Verification
+   Week2 : Course Overview (Sept11)       Assignment
+Assignment-related paper: Simple testing
+Assignment-related paper: FindBugs
+Slides on static analysis and simple testing
+Slides on DBChecker
+   Week3 : Bug Detection (Sept18)      PR-Miner: automatically extracting implicit programming rules and detecting violations in large software code    Tricorder: Building a Program Analysis Ecosystem    Why don&amp;rsquo;t software developers use static analysis tools to find bugs        Week4 : Quality Assurance in Continuous Integration (Sept25)      An Empirical Analysis of Flaky Tests    What Causes My Test Alarm?</description>
     </item>
     
   </channel>

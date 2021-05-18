@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.83.1" />
+  <meta name="generator" content="Hugo 0.40.1" />
   <meta name="author" content="Tse-Hsun (Peter) Chen">
   <meta name="description" content="Assistant Professor">
 
@@ -254,27 +254,41 @@
 </div>
 
     <div class="article-style" itemprop="articleBody">
-      <p>Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&rsquo;s <a href="https://petertsehsun.github.io/post/getting-started/">getting started guide</a>.</p>
+      
+
+<p>Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&rsquo;s <a href="https://petertsehsun.github.io/post/getting-started/" target="_blank">getting started guide</a>.</p>
+
 <h2 id="move-static-content-to-static">Move static content to <code>static</code></h2>
+
 <p>Jekyll has a rule that any directory not starting with <code>_</code> will be copied as-is to the <code>_site</code> output. Hugo keeps all static content under <code>static</code>. You should therefore move it all there.
 With Jekyll, something that looked like</p>
+
 <pre><code>▾ &lt;root&gt;/
     ▾ images/
         logo.png
 </code></pre>
+
 <p>should become</p>
+
 <pre><code>▾ &lt;root&gt;/
     ▾ static/
         ▾ images/
             logo.png
 </code></pre>
+
 <p>Additionally, you&rsquo;ll want any files that should reside at the root (such as <code>CNAME</code>) to be moved to <code>static</code>.</p>
+
 <h2 id="fix-content">Fix content</h2>
+
 <p>Depending on the amount of customization that was done for each post in Jekyll, this step will require more or less effort. There are no hard and fast rules here except that <code>hugo server --watch</code> and the Hugo Academic example site are your friends. Test your changes and fix errors as needed.</p>
+
 <h2 id="publish">Publish</h2>
+
 <p>The default is for Jekyll to publish the website to a <code>_site</code> directory, whereas Hugo publishes to a <code>public</code> directory.</p>
+
 <h2 id="a-practical-example">A practical example</h2>
-<p>Alexandre Normand migrated his website from Jekyll to Hugo in less than a day. You can see all his changes by looking at this GitHub <a href="https://github.com/alexandre-normand/alexandre-normand/compare/869d69435bd2665c3fbf5b5c78d4c22759d7613a...b7f6605b1265e83b4b81495423294208cc74d610">diff</a>. However, bear in mind that this example is <strong>not specific to the Academic theme nor does it use the latest version of Hugo</strong>.</p>
+
+<p>Alexandre Normand migrated his website from Jekyll to Hugo in less than a day. You can see all his changes by looking at this GitHub <a href="https://github.com/alexandre-normand/alexandre-normand/compare/869d69435bd2665c3fbf5b5c78d4c22759d7613a...b7f6605b1265e83b4b81495423294208cc74d610" target="_blank">diff</a>. However, bear in mind that this example is <strong>not specific to the Academic theme nor does it use the latest version of Hugo</strong>.</p>
 
     </div>
   </div>
@@ -304,7 +318,7 @@ With Jekyll, something that looked like</p>
   <div class="container">
     <p class="powered-by">
 
-      © 2018 Tse-Hsun (Peter) Chen &middot; 
+      &copy; 2018 Tse-Hsun (Peter) Chen &middot; 
 
       Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic
       theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
