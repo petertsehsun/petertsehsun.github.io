@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>[C17] Would You Like a Quick Peek? Providing Logging Support to Monitor Data Processing in Big Data Application</title>
+      <link>https://petertsehsun.github.io/publication/fse2021-dplog/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/fse2021-dplog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C16] How Disabled Tests Manifest in Test Maintainability Challenges?</title>
+      <link>https://petertsehsun.github.io/publication/fse2021-disabled-test/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/fse2021-disabled-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[J23] LogAssist: Assisting Log Analysis Through Log Summarization</title>
       <link>https://petertsehsun.github.io/publication/tse2021logassist/</link>
       <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
