@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>[J25] Towards Learning Generalizable Code Embeddings using Task-agnostic Graph Convolutional Networks</title>
+      <link>https://petertsehsun.github.io/publication/tosem2022-dingzishuo/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tosem2022-dingzishuo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J24] Can Pre-trained Code Embeddings Improve Model Performance? Revisiting the Use of Code Embeddings in Software Engineering Tasks</title>
+      <link>https://petertsehsun.github.io/publication/emse2022-dingzishuo/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2022-dingzishuo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[C18] Is Reputation on Stack Overflow a Good Indicator for Users’ Expertise? No!</title>
       <link>https://petertsehsun.github.io/publication/icsme2021-nier/</link>
       <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/tse2020max/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[J15] Demystifying the Challenges and Benefits of Analyzing User-Reported Logs in Bug Reports</title>
-      <link>https://petertsehsun.github.io/publication/emse2020/</link>
-      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/emse2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[J14] Are Comments on Stack Overflow Well Organized for Easy Retrieval by Developers?</title>
-      <link>https://petertsehsun.github.io/publication/tosem2020/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/tosem2020/</guid>
       <description></description>
     </item>
     

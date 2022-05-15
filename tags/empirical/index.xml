@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Sun, 09 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 May 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/tags/empirical/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[J25] Towards Learning Generalizable Code Embeddings using Task-agnostic Graph Convolutional Networks</title>
+      <link>https://petertsehsun.github.io/publication/tosem2022-dingzishuo/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tosem2022-dingzishuo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J24] Can Pre-trained Code Embeddings Improve Model Performance? Revisiting the Use of Code Embeddings in Software Engineering Tasks</title>
+      <link>https://petertsehsun.github.io/publication/emse2022-dingzishuo/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2022-dingzishuo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[J23] LogAssist: Assisting Log Analysis Through Log Summarization</title>
