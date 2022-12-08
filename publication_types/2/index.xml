@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Fri, 12 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[J27] T-Evos: A Large Scale Longitudinal Study on CI Test Execution and Failure</title>
+      <link>https://petertsehsun.github.io/publication/tse2022tevos/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tse2022tevos/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[J26] An Empirical Study on the Challenges that Developers Encounter When Developing Apache Spark Applications</title>
