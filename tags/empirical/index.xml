@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Mon, 03 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/tags/empirical/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[C22] Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction</title>
+      <link>https://petertsehsun.github.io/publication/icse2023/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C23] Challenges in Adopting Artificial Intelligence Based User Input Verification Framework in Reporting Software Systems</title>
+      <link>https://petertsehsun.github.io/publication/icse-seip2023/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse-seip2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[J27] T-Evos: A Large Scale Longitudinal Study on CI Test Execution and Failure</title>
@@ -225,24 +243,6 @@
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/msr2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[C22] Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction</title>
-      <link>https://petertsehsun.github.io/publication/icse2023/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/icse2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[C23] Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction</title>
-      <link>https://petertsehsun.github.io/publication/icse-seip2023/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/icse-seip2023/</guid>
       <description></description>
     </item>
     
