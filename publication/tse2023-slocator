@@ -1,0 +1,17 @@
++++
+abstract = ""
+abstract_short = "Impact Factor: 4.778"
+authors = ["Wei Liu", "Tse-Hsun (Peter) Chen"]
+date = "2023-2-20"
+image = ""
+image_preview = ""
+math = false
+publication = "IEEE Transactions on Software Engineering"
+title = "[J28] SLocator: Localizing the Origin of SQL Queries in Database-Backed Web Applications"
+publication_short = "IEEE Transactions on Software Engineering (TSE 2023)"
+url_code = ""
+url_dataset = ""
+url_pdf = "papers/TBD"
+publication_types = ["2"]
+tags = ["StackOverflow", "Empirical"]
++++
