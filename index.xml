@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>[J29] Study the Correlation Between the readme File of GitHub Projects and Their Popularity</title>
+      <link>https://petertsehsun.github.io/publication/jss2023/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/jss2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[J28] SLocator: Localizing the Origin of SQL Queries in Database-Backed Web Applications</title>
       <link>https://petertsehsun.github.io/publication/tse2023slocator/</link>
       <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/tse2021logassist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[J22] MLASP: Machine Learning Assisted Capacity Planning - An industrial experience report</title>
-      <link>https://petertsehsun.github.io/publication/emse2021-mlasp/</link>
-      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/emse2021-mlasp/</guid>
       <description></description>
     </item>
     
