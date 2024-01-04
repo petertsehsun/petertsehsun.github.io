@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/tags/log/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[C24] A First Look at the Inheritance-Induced Redundant Test Execution</title>
+      <link>https://petertsehsun.github.io/publication/icse2024-redundanttest/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2024-redundanttest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C25]  LLMParser: An Exploratory Study on Using Large Language Models for Log Parsing</title>
+      <link>https://petertsehsun.github.io/publication/icse2024-llmparser/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2024-llmparser/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[C23] Are They All Good? Studying Practitioners&#39; Expectations on the Readability of Log Messages</title>
@@ -45,6 +63,15 @@
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/icse-seip2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J30] VulNet: Towards Improving Vulnerability Management in the Maven Ecosystem</title>
+      <link>https://petertsehsun.github.io/publication/emse2024vulnet/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2024vulnet/</guid>
       <description></description>
     </item>
     

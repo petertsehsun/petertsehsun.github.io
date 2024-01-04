@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>[C24] A First Look at the Inheritance-Induced Redundant Test Execution</title>
+      <link>https://petertsehsun.github.io/publication/icse2024-redundanttest/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2024-redundanttest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C25]  LLMParser: An Exploratory Study on Using Large Language Models for Log Parsing</title>
+      <link>https://petertsehsun.github.io/publication/icse2024-llmparser/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2024-llmparser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[C23] Are They All Good? Studying Practitioners&#39; Expectations on the Readability of Log Messages</title>
       <link>https://petertsehsun.github.io/publication/ase2023/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
@@ -52,6 +70,15 @@
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/icse-seip2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J30] VulNet: Towards Improving Vulnerability Management in the Maven Ecosystem</title>
+      <link>https://petertsehsun.github.io/publication/emse2024vulnet/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2024vulnet/</guid>
       <description></description>
     </item>
     
@@ -115,33 +142,6 @@
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/emse2022-dingzishuo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[C18] Is Reputation on Stack Overflow a Good Indicator for Users’ Expertise? No!</title>
-      <link>https://petertsehsun.github.io/publication/icsme2021-nier/</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/icsme2021-nier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[C17] Would You Like a Quick Peek? Providing Logging Support to Monitor Data Processing in Big Data Application</title>
-      <link>https://petertsehsun.github.io/publication/fse2021-dplog/</link>
-      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/fse2021-dplog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[C16] How Disabled Tests Manifest in Test Maintainability Challenges?</title>
-      <link>https://petertsehsun.github.io/publication/fse2021-disabled-test/</link>
-      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/fse2021-disabled-test/</guid>
       <description></description>
     </item>
     
