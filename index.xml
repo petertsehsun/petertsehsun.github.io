@@ -11,7 +11,34 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>[C25]  LLMParser: An Exploratory Study on Using Large Language Models for Log Parsing</title>
+      <title>[C29]  Towards Better Graph Neural Network-based Fault Localization Through Enhanced Code Representation</title>
+      <link>https://petertsehsun.github.io/publication/fse2024/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/fse2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C28] Decoding Anomalies! Unraveling Operational Challenges in Human-in-the-Loop Anomaly Validation</title>
+      <link>https://petertsehsun.github.io/publication/fse2024-seip/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/fse2024-seip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J31] Studying and recommending information highlighting in Stack Overflow answers</title>
+      <link>https://petertsehsun.github.io/publication/ist2024/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/ist2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C27]  LLMParser: An Exploratory Study on Using Large Language Models for Log Parsing</title>
       <link>https://petertsehsun.github.io/publication/icse2024-llmparser/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
       
@@ -20,7 +47,7 @@
     </item>
     
     <item>
-      <title>[C24] A First Look at the Inheritance-Induced Redundant Test Execution</title>
+      <title>[C26] A First Look at the Inheritance-Induced Redundant Test Execution</title>
       <link>https://petertsehsun.github.io/publication/icse2024-redundanttest/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       
@@ -29,7 +56,25 @@
     </item>
     
     <item>
-      <title>[C23] Are They All Good? Studying Practitioners&#39; Expectations on the Readability of Log Messages</title>
+      <title>[C25] DVC in Open Source AI-development: The Action and the Reaction</title>
+      <link>https://petertsehsun.github.io/publication/cain2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/cain2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J30] VulNet: Towards Improving Vulnerability Management in the Maven Ecosystem</title>
+      <link>https://petertsehsun.github.io/publication/emse2024vulnet/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2024vulnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C24] Are They All Good? Studying Practitioners&#39; Expectations on the Readability of Log Messages</title>
       <link>https://petertsehsun.github.io/publication/ase2023/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       
@@ -56,7 +101,7 @@
     </item>
     
     <item>
-      <title>[C22] Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction</title>
+      <title>[C23] Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction</title>
       <link>https://petertsehsun.github.io/publication/icse2023/</link>
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
       
@@ -65,20 +110,11 @@
     </item>
     
     <item>
-      <title>[C23] Challenges in Adopting Artificial Intelligence Based User Input Verification Framework in Reporting Software Systems</title>
+      <title>[C22] Challenges in Adopting Artificial Intelligence Based User Input Verification Framework in Reporting Software Systems</title>
       <link>https://petertsehsun.github.io/publication/icse-seip2023/</link>
-      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/icse-seip2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[J30] VulNet: Towards Improving Vulnerability Management in the Maven Ecosystem</title>
-      <link>https://petertsehsun.github.io/publication/emse2024vulnet/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/emse2024vulnet/</guid>
       <description></description>
     </item>
     
@@ -106,42 +142,6 @@
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/ase2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[C20] An Empirical Study on Performance Bugs in Deep Learning Frameworks</title>
-      <link>https://petertsehsun.github.io/publication/icsme2022/</link>
-      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/icsme2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[J25] Towards Learning Generalizable Code Embeddings using Task-agnostic Graph Convolutional Networks</title>
-      <link>https://petertsehsun.github.io/publication/tosem2022-dingzishuo/</link>
-      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/tosem2022-dingzishuo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[C19] A First Look at Information Highlighting in Stack Overflow Answers</title>
-      <link>https://petertsehsun.github.io/publication/icsme2022-nier/</link>
-      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/icsme2022-nier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[J24] Can Pre-trained Code Embeddings Improve Model Performance? Revisiting the Use of Code Embeddings in Software Engineering Tasks</title>
-      <link>https://petertsehsun.github.io/publication/emse2022-dingzishuo/</link>
-      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/emse2022-dingzishuo/</guid>
       <description></description>
     </item>
     
