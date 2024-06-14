@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/tags/autonomous-driving/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[C30] Blessing or Curse? Investigating Test Code Maintenance through Inheritance and Interface</title>
+      <link>https://petertsehsun.github.io/publication/icsme2024/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icsme2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[C20] An Empirical Study on Performance Bugs in Deep Learning Frameworks</title>

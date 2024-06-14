@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Thu, 04 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[C30] Blessing or Curse? Investigating Test Code Maintenance through Inheritance and Interface</title>
+      <link>https://petertsehsun.github.io/publication/icsme2024/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icsme2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[C29]  Towards Better Graph Neural Network-based Fault Localization Through Enhanced Code Representation</title>
