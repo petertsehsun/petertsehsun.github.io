@@ -11,6 +11,33 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>[C32] SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents</title>
+      <link>https://petertsehsun.github.io/publication/icse2025-soen101/</link>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2025-soen101/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C33] LibreLog: Accurate and Efficient Unsupervised Log Parsing Using Open-Source Large Language Models</title>
+      <link>https://petertsehsun.github.io/publication/icse2025-log/</link>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2025-log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C31] MLOLET-Machine Learning Optimized Load and Endurance Testing: An industrial experience report</title>
+      <link>https://petertsehsun.github.io/publication/ase2024/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/ase2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[C30] Blessing or Curse? Investigating Test Code Maintenance through Inheritance and Interface</title>
       <link>https://petertsehsun.github.io/publication/icsme2024/</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
@@ -115,33 +142,6 @@
       <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/tse2023slocator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[C23] Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction</title>
-      <link>https://petertsehsun.github.io/publication/icse2023/</link>
-      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/icse2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[C22] Challenges in Adopting Artificial Intelligence Based User Input Verification Framework in Reporting Software Systems</title>
-      <link>https://petertsehsun.github.io/publication/icse-seip2023/</link>
-      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/icse-seip2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[J27] T-Evos: A Large Scale Longitudinal Study on CI Test Execution and Failure</title>
-      <link>https://petertsehsun.github.io/publication/tse2022tevos/</link>
-      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/tse2022tevos/</guid>
       <description></description>
     </item>
     
