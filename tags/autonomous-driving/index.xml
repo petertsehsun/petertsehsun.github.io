@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Sun, 03 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/tags/autonomous-driving/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[C33] LibreLog: Accurate and Efficient Unsupervised Log Parsing Using Open-Source Large Language Models</title>
+      <link>https://petertsehsun.github.io/publication/icse2025-log/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2025-log/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[C32] SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents</title>
@@ -18,15 +27,6 @@
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/icse2025-soen101/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[C33] LibreLog: Accurate and Efficient Unsupervised Log Parsing Using Open-Source Large Language Models</title>
-      <link>https://petertsehsun.github.io/publication/icse2025-log/</link>
-      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/icse2025-log/</guid>
       <description></description>
     </item>
     

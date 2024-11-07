@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>[C33] LibreLog: Accurate and Efficient Unsupervised Log Parsing Using Open-Source Large Language Models</title>
+      <link>https://petertsehsun.github.io/publication/icse2025-log/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2025-log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[C32] SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents</title>
       <link>https://petertsehsun.github.io/publication/icse2025-soen101/</link>
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
@@ -20,20 +29,20 @@
     </item>
     
     <item>
-      <title>[C33] LibreLog: Accurate and Efficient Unsupervised Log Parsing Using Open-Source Large Language Models</title>
-      <link>https://petertsehsun.github.io/publication/icse2025-log/</link>
-      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/icse2025-log/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>[C31] MLOLET-Machine Learning Optimized Load and Endurance Testing: An industrial experience report</title>
       <link>https://petertsehsun.github.io/publication/ase2024/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/ase2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[J33] ZS4C: Zero-Shot Synthesis of Compilable Code for Incomplete Code Snippets using ChatGPT</title>
+      <link>https://petertsehsun.github.io/publication/tosem2024llm/</link>
+      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/tosem2024llm/</guid>
       <description></description>
     </item>
     
@@ -133,15 +142,6 @@
       <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/jss2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[J28] SLocator: Localizing the Origin of SQL Queries in Database-Backed Web Applications</title>
-      <link>https://petertsehsun.github.io/publication/tse2023slocator/</link>
-      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://petertsehsun.github.io/publication/tse2023slocator/</guid>
       <description></description>
     </item>
     
