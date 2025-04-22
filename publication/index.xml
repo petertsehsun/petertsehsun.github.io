@@ -13,20 +13,47 @@
     
     
     <item>
-      <title>[C33] LibreLog: Accurate and Efficient Unsupervised Log Parsing Using Open-Source Large Language Models</title>
+      <title>[C36] LibreLog: Accurate and Efficient Unsupervised Log Parsing Using Open-Source Large Language Models</title>
       <link>https://petertsehsun.github.io/publication/icse2025-log/</link>
-      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/icse2025-log/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[C32] SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents</title>
+      <title>[C35] SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents</title>
       <link>https://petertsehsun.github.io/publication/icse2025-soen101/</link>
-      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>https://petertsehsun.github.io/publication/icse2025-soen101/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C34] GUIWatcher: Automatically Detecting GUI Lags by Analyzing Mobile Application Screencasts</title>
+      <link>https://petertsehsun.github.io/publication/icse2025-seip/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/icse2025-seip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C33] Revisiting Defects4J for Fault Localization in Diverse Development Scenarios</title>
+      <link>https://petertsehsun.github.io/publication/msr2025/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/msr2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[C32] Evaluating the Effectiveness and Efficiency of Demonstration Retrievers in RAG for Coding Tasks</title>
+      <link>https://petertsehsun.github.io/publication/saner2025/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/saner2025/</guid>
       <description></description>
     </item>
     
