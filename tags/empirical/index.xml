@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tse-Hsun (Peter) Chen</copyright>
-    <lastBuildDate>Sat, 13 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://petertsehsun.github.io/tags/empirical/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[J35] SBEST: Spectrum-Based Fault Localization Without Fault-Triggering Tests</title>
+      <link>https://petertsehsun.github.io/publication/emse2025/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://petertsehsun.github.io/publication/emse2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[J33] ZS4C: Zero-Shot Synthesis of Compilable Code for Incomplete Code Snippets using ChatGPT</title>
