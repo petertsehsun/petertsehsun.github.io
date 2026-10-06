@@ -13,7 +13,7 @@
   gtag('config', 'G-XSPC1JP6ZC');
 </script>
 <title>Tse-Hsun (Peter) Chen</title>
-<meta name="description" content="Tse-Hsun (Peter) Chen, Associate Professor at Concordia University and Academic Associate Member of Mila. The SPEAR lab works on reliable long-horizon LLM agents, AIOps, software performance, and testing.">
+<meta name="description" content="Tse-Hsun (Peter) Chen, Associate Professor at Concordia University and Academic Associate Member of Mila. The SPEAR lab works on reliable coding and long-horizon LLM agents, benchmarks for AI coding, AIOps, software performance, and testing.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
@@ -38,7 +38,7 @@
   /* masthead: large logo with the menu centered beside it */
   .masthead { border-bottom: 1px solid var(--rule); }
   .masthead .wrap { display: flex; align-items: center; gap: 1.5rem; padding-top: 1rem; padding-bottom: 1rem; }
-  .masthead img { display: block; width: 360px; max-width: 100%; height: auto; margin: -19px 0 -8px -13px; } /* negative margins offset the blank space inside the PNG */
+  .masthead img { display: block; width: 360px; max-width: 100%; height: auto; margin: -16px 0 -7px -11px; } /* negative margins offset the blank space inside the PNG */
   nav.menu { margin-left: auto; white-space: nowrap; }
   nav.menu a { color: var(--muted); margin-left: .9rem; font-size: 1rem; }
   nav.menu a:hover { color: var(--ink); text-decoration: none; }
@@ -69,7 +69,8 @@
   .lead { color: var(--muted); margin-bottom: 1.4rem; }
 
   /* research */
-  .focus { background: var(--soft); border-radius: 10px; padding: 1.6rem 1.8rem; display: grid; grid-template-columns: 1.2fr 1fr; gap: 2rem; margin-bottom: 2rem; }
+  .focus { background: var(--soft); border-radius: 10px; padding: 1.6rem 1.8rem; display: grid; grid-template-columns: 1.2fr 1fr; gap: 2rem; margin-bottom: 1.2rem; }
+  .focus + .lead { margin-top: 2rem; }
   .focus h3 { font-size: 1.3rem; margin: 0 0 .5rem; }
   .label { font-weight: 600; margin: 0 0 .3rem; }
   .focus ul { margin: 0 0 1rem; padding-left: 1.15rem; }
@@ -185,9 +186,9 @@
     </p>
     <div class="welcome">
       <p><b>Open to collaboration.</b> I welcome research and industry collaborations; please <a href="mailto:peterc@encs.concordia.ca?subject=Collaboration">reach out by email</a>.</p>
-      <p><b>Prospective students.</b> I am recruiting PhD and MSc students in LLM agents and software engineering. Former lab members now hold faculty positions in Canada, the US, and India. <a href="#join">See how to apply</a>.</p>
+      <p><b>Prospective students.</b> I am recruiting PhD and MSc students in coding agents, LLM agents, and software engineering. Former lab members now hold faculty positions in Canada, the US, and India. <a href="#join">See how to apply</a>.</p>
     </div>
-    <p>I direct the SPEAR lab in the Department of Computer Science and Software Engineering at Concordia, whose software engineering group ranked fifth in the world on <a href="https://csrankings.org/#/index?soft&amp;world">CSRankings</a> (2023). We work on making software systems, and the AI agents that increasingly build and operate them, reliable. The lab's main focus today is long-horizon LLM agents.</p>
+    <p>I direct the SPEAR lab in the Department of Computer Science and Software Engineering at Concordia, whose software engineering group ranked fifth in the world on <a href="https://csrankings.org/#/index?soft&amp;world">CSRankings</a> (2023). We work on making software systems, and the AI agents that increasingly build and operate them, reliable. The lab's main focus today is coding and long-horizon LLM agents, and the benchmarks used to evaluate them.</p>
     <p>Our research appears at leading software engineering venues, including ICSE, FSE, ASE, IEEE TSE, and ACM TOSEM, as well as AI venues such as ICML, ACL, and AAAI. Beyond publications, our work has been adopted in practice at companies including BlackBerry, Ericsson, Microsoft, Red Hat, and ERA Environmental. My research is also shaped by industry experience: before joining academia, I worked as a software performance engineer at BlackBerry. Our research contributions have been recognized with the 2024 CS-Can|Info-Can Outstanding Early Career Computer Science Researcher Award.</p>
   </div>
 </header>
@@ -197,17 +198,34 @@
 
   <div class="focus">
     <div>
-      <h3>Reliable long-horizon agents</h3>
-      <p>LLM agents now carry out tasks that span hundreds of steps, but they commit to wrong assumptions too early, lose track of what they have done, and fail in ways that are hard to diagnose. We build agents that check each step against execution evidence, keep an accurate record of their state, learn from past runs, and can explain where a run went wrong.</p>
+      <h3>Reliable coding and long-horizon agents</h3>
+      <p>LLM agents now fix bugs, repair CI failures, and carry out tasks that span hundreds of steps, but they commit to wrong assumptions too early, lose track of what they have done, and fail in ways that are hard to diagnose. We build agents that check each step against execution evidence, keep an accurate record of their state, learn from past runs, and can explain where a run went wrong.</p>
     </div>
     <div>
       <p class="label">Applications</p>
       <ul>
-        <li>Software engineering tasks such as program repair and CI repair</li>
+        <li>Repository-level program repair and CI repair</li>
+        <li>Reusing past repairs and independently verifying agent-generated patches</li>
         <li>Multi-step task automation on mobile devices</li>
         <li>Tracing and attributing failures in agent runs</li>
       </ul>
-      <p class="papers">Representative work: <a href="https://arxiv.org/abs/2607.28815">ECLoop</a> and <a href="https://arxiv.org/abs/2608.00808">Ledger</a> (2026), <a href="https://arxiv.org/abs/2505.23596">Agent-SAMA</a> (AAAI '26), <a href="https://arxiv.org/pdf/2601.23257">ConRAD</a> (ICML '26), <a href="https://arxiv.org/abs/2606.00765">FALAT</a> (2026)</p>
+      <p class="papers">Representative work: <a href="https://arxiv.org/abs/2607.28815">ECLoop</a>, <a href="https://arxiv.org/abs/2608.00808">Ledger</a>, <a href="https://arxiv.org/abs/2607.29658">STAIR</a>, and <a href="https://arxiv.org/abs/2608.08950">RETRACE</a> (2026), <a href="https://arxiv.org/pdf/2601.23257">ConRAD</a> (ICML '26), <a href="https://arxiv.org/abs/2505.23596">Agent-SAMA</a> (AAAI '26), <a href="https://arxiv.org/abs/2606.00765">FALAT</a> (2026)</p>
+    </div>
+  </div>
+
+  <div class="focus">
+    <div>
+      <h3>Benchmarks for AI coding agents</h3>
+      <p>Progress on coding agents is only as meaningful as the benchmarks used to measure it. We build repository-level benchmarks grounded in real development workflows, such as CI pipelines, refactoring, and performance work, and study where existing benchmarks overstate what agents can do.</p>
+    </div>
+    <div>
+      <p class="label">What we evaluate</p>
+      <ul>
+        <li>Patch validation through real CI workflows</li>
+        <li>Real-world, repository-level code refactoring</li>
+        <li>Code performance improvements by LLMs</li>
+      </ul>
+      <p class="papers">Representative work: <a href="https://arxiv.org/abs/2604.27148">CI-Repair-Bench</a>, <a href="https://arxiv.org/abs/2602.03712">SWE-Refactor</a>, <a href="https://arxiv.org/abs/2607.07619">code performance benchmarks</a> (2026), <a href="https://arxiv.org/abs/2604.01518">Probe to Generate</a> (ASE '26)</p>
     </div>
   </div>
 
@@ -217,7 +235,7 @@
       <h3>Logs and AIOps</h3>
       <p>Log analysis and operations support that are accurate and efficient enough for production, including LLM methods that run on open-source models on premise.</p>
       <p class="app"><b>Used for</b> incident diagnosis, Kubernetes operations with Red Hat OpenShift, and anomaly validation in industrial monitoring.</p>
-      <p class="papers"><a href="https://arxiv.org/abs/2408.01585">LibreLog</a> (ICSE '25), <a href="https://dl.acm.org/doi/pdf/10.1145/3803437.3805240">LLM agents for AIOps</a>(FSE '26 Industry), <a href="https://arxiv.org/pdf/2607.03599">Explainable anomaly detection</a>(2026)</p>
+      <p class="papers"><a href="https://arxiv.org/abs/2408.01585">LibreLog</a> (ICSE '25), <a href="https://dl.acm.org/doi/10.1145/3803437.3805240">LLM agents for AIOps</a> (FSE '26 Industry), <a href="https://arxiv.org/pdf/2607.03599">Explainable anomaly detection</a> (2026)</p>
     </div>
     <div>
       <h3>Software performance</h3>
@@ -229,7 +247,7 @@
       <h3>Testing and debugging</h3>
       <p>Locating faulty code automatically, now with LLM agents that navigate the codebase and reflect on their findings.</p>
       <p class="app"><b>Used for</b> shortening debugging time in CI pipelines.</p>
-      <p class="papers">Order Matters (ICSE '26), <a href="https://petertsehsun.github.io/papers/DepGraph.pdf">DepGraph</a> (FSE '24), <a href="https://arxiv.org/abs/2405.00565">SBEST</a> (EMSE '25)</p>
+      <p class="papers"><a href="https://arxiv.org/abs/2412.18750">Order Matters</a> (ICSE '26), <a href="https://petertsehsun.github.io/papers/DepGraph.pdf">DepGraph</a> (FSE '24), <a href="https://arxiv.org/abs/2405.00565">SBEST</a> (EMSE '25)</p>
     </div>
   </div>
 </section>
@@ -240,10 +258,13 @@
   <ul class="pubs">
     <li><span class="venue">ICML 2026</span><span><a class="t" href="https://arxiv.org/pdf/2601.23257">From Patches to Plans: Reasoning Distillation for Repository-Level Program Repair</a><span class="a">Chenglin Li, Yisen Xu, Zehao Wang, Shin Hwei Tan, Tse-Hsun (Peter) Chen</span></span></li>
     <li><span class="venue">AAAI 2026</span><span><a class="t" href="https://arxiv.org/abs/2505.23596">Agent-SAMA: State-Aware Mobile Assistant</a><span class="a">Linqiang Guo, Wei Liu, Yi Wen Heng, Tse-Hsun (Peter) Chen, Yang Wang</span></span></li>
-    <li><span class="venue">ICSE 2026</span><span><span class="t">Order Matters: Enhancing Fault Localization with LLM Agent-Driven Code Navigation and Self-Reflection</span><span class="a">Md Nakhla Rafi, Dong Jae Kim, Tse-Hsun (Peter) Chen, Shaowei Wang</span></span></li>
-    <li><span class="venue">FSE 2026</span><span><span class="t">LLM Agents for AIOps in Kubernetes: An Industrial Experience Report with Red Hat OpenShift</span><span class="a">Arthur Vitui, Tse-Hsun (Peter) Chen</span></span></li>
+    <li><span class="venue">ICSE 2026</span><span><a class="t" href="https://arxiv.org/abs/2412.18750">Order Matters: Enhancing Fault Localization with LLM Agent-Driven Code Navigation and Self-Reflection</a><span class="a">Md Nakhla Rafi, Dong Jae Kim, Tse-Hsun (Peter) Chen, Shaowei Wang</span></span></li>
+    <li><span class="venue">FSE 2026</span><span><a class="t" href="https://dl.acm.org/doi/10.1145/3803437.3805240">LLM Agents for AIOps in Kubernetes: An Industrial Experience Report with Red Hat OpenShift</a><span class="a">Arthur Vitui, Tse-Hsun (Peter) Chen</span></span></li>
+    <li><span class="venue">ASE 2026</span><span><a class="t" href="https://arxiv.org/abs/2604.01518">Probe to Generate: Program Variant-Guided Test Augmentation for Repository-Level Repair Benchmarks</a><span class="a">Chenglin Li, Yisen Xu, Zehao Wang, Shin Hwei Tan, Tse-Hsun (Peter) Chen</span></span></li>
     <li><span class="venue">arXiv 2026</span><span><a class="t" href="https://arxiv.org/abs/2607.28815">Preventing Premature Commitment in Coding Agents with an Evidence-Conditioned Execution Layer</a><span class="a">Yisen Xu, Chenglin Li, Zehao Wang, Jinqiu Yang, Tse-Hsun (Peter) Chen</span></span></li>
     <li><span class="venue">arXiv 2026</span><span><a class="t" href="https://arxiv.org/abs/2608.00808">Turning Interaction History into Execution State: A Runtime Layer for Long-Horizon Coding Agents</a><span class="a">Zehao Wang, Yisen Xu, Chenglin Li, Chao Peng, Bram Adams, Ahmed E. Hassan, Tse-Hsun (Peter) Chen</span></span></li>
+    <li><span class="venue">arXiv 2026</span><span><a class="t" href="https://arxiv.org/abs/2607.29658">STAIR: Reusing Past Repairs Through Hierarchical Trajectory Abstraction for Coding Agents</a><span class="a">Yisen Xu, Jiayuan Zhou, Ruiqi Pan, Tse-Hsun (Peter) Chen</span></span></li>
+    <li><span class="venue">arXiv 2026</span><span><a class="t" href="https://arxiv.org/abs/2608.08950">RETRACE: Independent Patch Verification for Coding Agents with a Bidirectional Reconstruct-and-Verify Framework</a></span></li>
     <li><span class="venue">ICSE 2025</span><span><a class="t" href="https://arxiv.org/abs/2408.01585">LibreLog: Accurate and Efficient Unsupervised Log Parsing Using Open-Source Large Language Models</a><span class="a">Zeyang Ma, Dong Jae Kim, Tse-Hsun (Peter) Chen</span></span></li>
     <li><span class="venue">ASE 2025</span><span><a class="t" href="https://arxiv.org/abs/2509.16864">MobileUPReg: Identifying User-Perceived Performance Regressions in Mobile OS Versions</a><span class="a">Wei Liu, Yi Wen Heng, Feng Lin, Tse-Hsun (Peter) Chen, Ahmed E. Hassan</span></span></li>
   </ul>
@@ -297,7 +318,7 @@
       <li>Lorena Barreto <span class="where">2024, Slalom Build</span></li>
       <li>Misheelt (Mia) Munkhjargal <span class="where">2024</span></li>
       <li>Md Nakhla Rafi <span class="where">2023, then PhD</span></li>
-      <li>Tarek Makkouk <span class="where">2023</span></li>
+      <li>Tarek Makkouk <span class="where">2023, Google</span></li>
       <li>Zeyang Ma <span class="where">2022, then PhD</span></li>
       <li>Yi Wen Heng <span class="where">2022, then PhD</span></li>
       <li>Steven Locke <span class="where">2021, Morgan Stanley</span></li>
@@ -306,7 +327,6 @@
       <li>Zi Peng <span class="where">2020, Tangerine</span></li>
       <li>Zhenhao Li <span class="where">2019, then PhD</span></li>
       <li>An Ran Chen <span class="where">2019, then PhD</span></li>
-      <li>Sara Seif Afjehei <span class="where">2019</span></li>
     </ul>
   </div>
 </section>
