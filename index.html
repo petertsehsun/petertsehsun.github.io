@@ -27,7 +27,7 @@
     --link: #1d4f91;
   }
   * { box-sizing: border-box; }
-  html { -webkit-text-size-adjust: 100%; scroll-padding-top: 5rem; scroll-behavior: smooth; }
+  html { -webkit-text-size-adjust: 100%; scroll-padding-top: 8.5rem; scroll-behavior: smooth; }
   body { margin: 0; background: #fff; color: var(--ink); font: 17px/1.6 "Source Sans 3", "Segoe UI", Helvetica, Arial, sans-serif; }
   a { color: var(--link); text-decoration: none; }
   a:hover { text-decoration: underline; }
@@ -37,8 +37,8 @@
 
   /* top bar */
   .bar { border-bottom: 1px solid var(--rule); position: sticky; top: 0; z-index: 10; background: rgba(255,255,255,.96); backdrop-filter: blur(6px); }
-  .bar .wrap { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding-top: .7rem; padding-bottom: .7rem; }
-  .bar img { height: 44px; width: auto; display: block; }
+  .bar .wrap { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding-top: .35rem; padding-bottom: .35rem; }
+  .bar img { height: 100px; width: auto; display: block; }
   .bar nav a { color: var(--muted); margin-left: 1.4rem; font-size: .95rem; }
   .bar nav a:hover { color: var(--ink); text-decoration: none; }
 
@@ -113,7 +113,7 @@
 
   @media (max-width: 46rem) {
     .bar .wrap { flex-direction: column; align-items: flex-start; gap: .4rem; }
-    .bar img { height: 34px; }
+    .bar img { height: 64px; }
     .bar nav { display: flex; overflow-x: auto; width: 100%; white-space: nowrap; gap: 1.1rem; padding-bottom: .1rem; }
     .bar nav a { margin-left: 0; }
     .intro { grid-template-columns: 1fr; gap: 1.2rem; padding-top: 2rem; }
@@ -129,7 +129,7 @@
 
 <div class="bar">
   <div class="wrap">
-    <a href="#"><img src="img/SPEAR2_title.png" alt="SPEAR Lab, Concordia University"></a>
+    <a href="#"><img src="img/spear-logo.png" alt="SPEAR Lab, Concordia University"></a>
     <nav aria-label="Sections">
       <a href="#research">Research</a>
       <a href="#publications">Publications</a>
