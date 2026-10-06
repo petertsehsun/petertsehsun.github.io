@@ -18,7 +18,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
 <style>
-  @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto !important; } .bar .mini { transition: none !important; } }
+  @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto !important; } .bar { transition: none !important; } }
   :root {
     --ink: #1f2328;
     --muted: #5c6370;
@@ -27,7 +27,7 @@
     --link: #1d4f91;
   }
   * { box-sizing: border-box; }
-  html { -webkit-text-size-adjust: 100%; scroll-padding-top: 5.5rem; scroll-behavior: smooth; }
+  html { -webkit-text-size-adjust: 100%; scroll-padding-top: 5rem; scroll-behavior: smooth; }
   body { margin: 0; background: #fff; color: var(--ink); font: 17px/1.6 "Source Sans 3", "Segoe UI", Helvetica, Arial, sans-serif; }
   a { color: var(--link); text-decoration: none; }
   a:hover { text-decoration: underline; }
@@ -35,19 +35,21 @@
   .wrap { max-width: 58rem; margin: 0 auto; padding: 0 1.5rem; }
   p { margin: 0 0 1rem; }
 
-  /* masthead: large logo when the page opens */
-  .masthead .wrap { padding-top: 1.2rem; }
-  .masthead img { display: block; width: 360px; max-width: 100%; height: auto; margin: -25px 0 -10px -17px; } /* negative margins offset the blank space inside the PNG */
+  /* masthead: large logo with the menu centered beside it */
+  .masthead { border-bottom: 1px solid var(--rule); }
+  .masthead .wrap { display: flex; align-items: center; gap: 1.5rem; padding-top: 1rem; padding-bottom: 1rem; }
+  .masthead img { display: block; width: 360px; max-width: 100%; height: auto; margin: -19px 0 -8px -13px; } /* negative margins offset the blank space inside the PNG */
+  nav.menu { margin-left: auto; white-space: nowrap; }
+  nav.menu a { color: var(--muted); margin-left: .9rem; font-size: 1rem; }
+  nav.menu a:hover { color: var(--ink); text-decoration: none; }
 
-  /* top bar: sticks to the top; a small logo appears once the large one scrolls away */
-  .bar { position: sticky; top: 0; z-index: 10; background: #fff; border-bottom: 1px solid var(--rule); }
-  .bar .wrap { display: flex; align-items: center; gap: 1rem; height: 64px; }
-  .bar .mini { opacity: 0; visibility: hidden; transition: opacity .2s; }
-  .bar.stuck .mini { opacity: 1; visibility: visible; }
+  /* compact bar: slides in at the top once the masthead has scrolled away */
+  .bar { position: fixed; top: 0; left: 0; right: 0; z-index: 10; background: #fff; border-bottom: 1px solid var(--rule);
+         transform: translateY(-100%); visibility: hidden; transition: transform .2s, visibility .2s; }
+  .bar.stuck { transform: none; visibility: visible; }
+  .bar .wrap { display: flex; align-items: center; gap: 1rem; height: 60px; }
   .bar .mini img { display: block; width: 150px; height: auto; margin: -7px 0 -3px -5px; }
-  .bar nav { margin-left: auto; white-space: nowrap; }
-  .bar nav a { color: var(--muted); margin-left: 1.1rem; font-size: .95rem; }
-  .bar nav a:hover { color: var(--ink); text-decoration: none; }
+  .bar nav.menu a { font-size: .95rem; }
 
   /* intro */
   .intro { display: grid; grid-template-columns: 180px 1fr; gap: 2.5rem; padding: 3rem 0 .5rem; }
@@ -119,11 +121,12 @@
   footer { margin-top: 3.5rem; padding: 1.2rem 0 2rem; border-top: 1px solid var(--rule); color: var(--muted); font-size: .88rem; }
 
   @media (max-width: 46rem) {
-    .masthead img { margin: -14px 0 -6px -10px; }
-    .bar .wrap { height: 52px; }
+    .masthead .wrap { flex-direction: column; align-items: flex-start; gap: .6rem; }
+    .masthead img { width: 100%; margin: -14px 0 -6px -10px; }
+    .bar .wrap { height: 50px; }
     .bar .mini { display: none; }
-    .bar nav { display: flex; overflow-x: auto; width: 100%; gap: 1.1rem; margin-left: 0; }
-    .bar nav a { margin-left: 0; }
+    nav.menu { display: flex; overflow-x: auto; width: 100%; gap: 1.1rem; margin-left: 0; }
+    nav.menu a { margin-left: 0; }
     .intro { grid-template-columns: 1fr; gap: 1.2rem; padding-top: 2rem; }
     .photo { width: 130px; height: 130px; }
     .focus, .others, .lab { grid-template-columns: 1fr; }
@@ -138,13 +141,21 @@
 <div class="masthead">
   <div class="wrap">
     <img src="img/SPEAR2_title.png" alt="SPEAR Lab: Software Performance, Analysis, and Reliability, Concordia University">
+    <nav class="menu" aria-label="Sections">
+      <a href="#research">Research</a>
+      <a href="#publications">Publications</a>
+      <a href="#news">News</a>
+      <a href="#lab">Lab</a>
+      <a href="#join">Join</a>
+      <a href="#background">Background</a>
+    </nav>
   </div>
 </div>
 
 <div class="bar">
   <div class="wrap">
     <a class="mini" href="#" aria-label="Back to top"><img src="img/SPEAR2_title.png" alt=""></a>
-    <nav aria-label="Sections">
+    <nav class="menu" aria-label="Sections (compact)">
       <a href="#research">Research</a>
       <a href="#publications">Publications</a>
       <a href="#news">News</a>
@@ -274,7 +285,6 @@
       <li><a href="https://anrchen.github.io/home/">An Ran Chen</a> <span class="where">(PhD), University of Alberta</span></li>
       <li><a href="https://djaekim.github.io/djae.io/">Dong Jae Kim</a> <span class="where">(PhD), DePaul University</span></li>
       <li><a href="https://sites.google.com/view/shouvick/shouvick-mondal">Shouvick Mondal</a> <span class="where">(Postdoc), IIT Gandhinagar</span></li>
-      <li>Heng Li <span class="where">(PhD trainee at Queen's), Polytechnique Montréal</span></li>
       <li><a href="https://liuwei-tianshu.github.io/">Wei Liu</a> <span class="where">(PhD), Huawei Canada</span></li>
       <li><a href="https://www.redhat.com/en/authors/arthur-vitui">Arthur Vitui</a> <span class="where">(PhD), Red Hat</span></li>
       <li><a href="https://zehaowang00.github.io/">Zehao Wang</a> <span class="where">(PhD), Queen's University</span></li>
