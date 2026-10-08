@@ -76,6 +76,9 @@
   .focus ul { margin: 0 0 1rem; padding-left: 1.15rem; }
   .focus li { margin-bottom: .25rem; }
   .papers { font-size: .92rem; color: var(--muted); margin: 0; }
+  .fig { display: block; width: 100%; height: auto; margin: 0 0 1rem; font-family: inherit; }
+  .focus .fig.wide { grid-column: 1 / -1; max-width: 48rem; margin: 0 auto -.6rem; }
+  .others .fig { max-width: 210px; margin-bottom: .8rem; }
   .others { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; }
   .others h3 { font-size: 1.1rem; margin: 0 0 .4rem; }
   .others p { margin: 0 0 .6rem; }
@@ -185,7 +188,7 @@
       <a href="https://twitter.com/petertsehsun">Twitter</a>
     </p>
     <div class="welcome">
-      <p><b>Open to collaboration.</b> I welcome research and industry collaborations; please <a href="mailto:peterc@encs.concordia.ca?subject=Collaboration">reach out by email</a>.</p>
+      <p><b>Open to collaboration.</b> I am happy to discuss joint research and industry projects. Please <a href="mailto:peterc@encs.concordia.ca?subject=Collaboration">reach out by email</a>.</p>
       <p><b>Prospective students.</b> I am recruiting PhD and MSc students in coding agents, LLM agents, and software engineering. Former lab members now hold faculty positions in Canada, the US, and India. <a href="#join">See how to apply</a>.</p>
     </div>
     <p>I direct the SPEAR lab in the Department of Computer Science and Software Engineering at Concordia, whose software engineering group ranked fifth in the world on <a href="https://csrankings.org/#/index?soft&amp;world">CSRankings</a> (2023). We work on making software systems, and the AI agents that increasingly build and operate them, reliable. The lab's main focus today is coding and long-horizon LLM agents, and the benchmarks used to evaluate them.</p>
@@ -197,6 +200,27 @@
   <h2>Research</h2>
 
   <div class="focus">
+    <svg class="fig wide" viewBox="0 -20 800 170" role="img" aria-label="An agent works through steps; a failing test produces evidence, the agent revises, and every step is recorded in an execution state.">
+      <g font-size="13.5" fill="#5c6370" text-anchor="middle">
+        <line x1="70" y1="55" x2="730" y2="55" stroke="#c7cdd5" stroke-width="2"/>
+        <circle cx="70" cy="55" r="17" fill="#fff" stroke="#1d4f91" stroke-width="2"/>
+        <circle cx="180" cy="55" r="17" fill="#fff" stroke="#1d4f91" stroke-width="2"/>
+        <circle cx="290" cy="55" r="17" fill="#fbe9ea" stroke="#b4232c" stroke-width="2"/>
+        <path d="M283 48l14 14M297 48l-14 14" stroke="#b4232c" stroke-width="2.4" stroke-linecap="round"/>
+        <circle cx="400" cy="55" r="17" fill="#fff" stroke="#1d4f91" stroke-width="2"/>
+        <circle cx="510" cy="55" r="17" fill="#1d4f91"/>
+        <circle cx="620" cy="55" r="17" fill="#e7f4ec" stroke="#1f7a4d" stroke-width="2"/>
+        <path d="M611 55l6 6 12-12" fill="none" stroke="#1f7a4d" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="730" cy="55" r="17" fill="#fff" stroke="#1d4f91" stroke-width="2"/>
+        <path d="M296 36 C 330 4, 470 4, 504 36" fill="none" stroke="#b4232c" stroke-width="1.6" stroke-dasharray="4 4"/>
+        <text x="400" y="-6" fill="#b4232c">failure evidence guides the revision</text>
+        <text x="70" y="92">plan</text><text x="180" y="92">edit</text><text x="290" y="92">run tests</text>
+        <text x="400" y="92">inspect</text><text x="510" y="92">revise</text><text x="620" y="92">run tests</text><text x="730" y="92">done</text>
+        <g stroke="#9aa6b6" stroke-dasharray="3 3"><line x1="70" y1="98" x2="70" y2="112"/><line x1="180" y1="98" x2="180" y2="112"/><line x1="290" y1="98" x2="290" y2="112"/><line x1="400" y1="98" x2="400" y2="112"/><line x1="510" y1="98" x2="510" y2="112"/><line x1="620" y1="98" x2="620" y2="112"/><line x1="730" y1="98" x2="730" y2="112"/></g>
+        <rect x="40" y="112" width="720" height="28" rx="6" fill="#dbe6f4"/>
+        <text x="400" y="131" fill="#1d4f91" font-weight="600">execution state: what was tried, what the evidence showed, what is left</text>
+      </g>
+    </svg>
     <div>
       <h3>Reliable coding and long-horizon agents</h3>
       <p>LLM agents now fix bugs, repair CI failures, and carry out tasks that span hundreds of steps, but they commit to wrong assumptions too early, lose track of what they have done, and fail in ways that are hard to diagnose. We build agents that check each step against execution evidence, keep an accurate record of their state, learn from past runs, and can explain where a run went wrong.</p>
@@ -214,6 +238,37 @@
   </div>
 
   <div class="focus">
+    <svg class="fig wide" viewBox="0 0 800 150" role="img" aria-label="Tasks mined from real repositories are given to a coding agent, and its patches are validated through the project's CI workflow.">
+      <defs><marker id="ar2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#9aa6b6"/></marker></defs>
+      <g font-size="13.5" fill="#5c6370" text-anchor="middle">
+        <g fill="#fff" stroke="#1d4f91" stroke-width="1.6">
+          <rect x="30" y="40" width="96" height="62" rx="5"/><rect x="38" y="32" width="96" height="62" rx="5"/>
+        </g>
+        <path d="M38 40h30l6 8h60" fill="none" stroke="#1d4f91" stroke-width="1.6"/>
+        <text x="86" y="77" fill="#1d4f91" font-weight="600">repository</text>
+        <text x="86" y="128">real projects</text>
+        <line x1="146" y1="66" x2="186" y2="66" stroke="#9aa6b6" stroke-width="2" marker-end="url(#ar2)"/>
+        <g fill="#f5f7fa" stroke="#c7cdd5">
+          <rect x="196" y="22" width="120" height="24" rx="4"/><rect x="196" y="54" width="120" height="24" rx="4"/><rect x="196" y="86" width="120" height="24" rx="4"/>
+        </g>
+        <text x="256" y="39">CI failure</text><text x="256" y="71">refactoring</text><text x="256" y="103">performance</text>
+        <text x="256" y="128">tasks</text>
+        <line x1="326" y1="66" x2="366" y2="66" stroke="#9aa6b6" stroke-width="2" marker-end="url(#ar2)"/>
+        <rect x="376" y="40" width="100" height="52" rx="26" fill="#1d4f91"/>
+        <text x="426" y="71" fill="#fff" font-weight="600">agent</text>
+        <text x="426" y="128">writes a patch</text>
+        <line x1="486" y1="66" x2="526" y2="66" stroke="#9aa6b6" stroke-width="2" marker-end="url(#ar2)"/>
+        <g>
+          <rect x="536" y="48" width="58" height="36" rx="5" fill="#e7f4ec" stroke="#1f7a4d"/><text x="565" y="71" fill="#1f7a4d">build</text>
+          <rect x="602" y="48" width="58" height="36" rx="5" fill="#e7f4ec" stroke="#1f7a4d"/><text x="631" y="71" fill="#1f7a4d">lint</text>
+          <rect x="668" y="48" width="58" height="36" rx="5" fill="#fbe9ea" stroke="#b4232c"/><text x="697" y="71" fill="#b4232c">tests</text>
+        </g>
+        <text x="631" y="128">CI workflow</text>
+        <g fill="#dbe6f4"><rect x="742" y="70" width="12" height="32"/><rect x="758" y="52" width="12" height="50"/><rect x="774" y="80" width="12" height="22"/></g>
+        <line x1="738" y1="102" x2="790" y2="102" stroke="#9aa6b6"/>
+        <text x="764" y="128">results</text>
+      </g>
+    </svg>
     <div>
       <h3>Benchmarks for AI coding agents</h3>
       <p>Progress on coding agents is only as meaningful as the benchmarks used to measure it. We build repository-level benchmarks grounded in real development workflows, such as CI pipelines, refactoring, and performance work, and study where existing benchmarks overstate what agents can do.</p>
@@ -232,18 +287,56 @@
   <p class="lead">We also continue our long-standing work on the reliability of large production systems.</p>
   <div class="others">
     <div>
+      <svg class="fig" viewBox="0 0 280 110" role="img" aria-label="Raw log lines are parsed into templates and an anomalous line is flagged.">
+        <defs><marker id="ar3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#9aa6b6"/></marker></defs>
+        <rect x="2" y="4" width="128" height="102" rx="6" fill="#f5f7fa" stroke="#e3e6ea"/>
+        <g fill="#c7cdd5"><rect x="12" y="16" width="100" height="6" rx="3"/><rect x="12" y="30" width="78" height="6" rx="3"/><rect x="12" y="44" width="106" height="6" rx="3"/><rect x="12" y="72" width="86" height="6" rx="3"/><rect x="12" y="86" width="96" height="6" rx="3"/></g>
+        <rect x="12" y="58" width="92" height="6" rx="3" fill="#b4232c"/>
+        <line x1="138" y1="55" x2="166" y2="55" stroke="#9aa6b6" stroke-width="2" marker-end="url(#ar3)"/>
+        <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10.5">
+          <rect x="174" y="18" width="104" height="24" rx="4" fill="#dbe6f4"/><text x="182" y="34" fill="#1d4f91">conn &lt;*&gt; open</text>
+          <rect x="174" y="48" width="104" height="24" rx="4" fill="#fbe9ea" stroke="#b4232c"/><text x="182" y="64" fill="#b4232c">disk &lt;*&gt; failed</text>
+          <rect x="174" y="78" width="104" height="24" rx="4" fill="#dbe6f4"/><text x="182" y="94" fill="#1d4f91">req &lt;*&gt; done</text>
+        </g>
+      </svg>
       <h3>Logs and AIOps</h3>
       <p>Log analysis and operations support that are accurate and efficient enough for production, including LLM methods that run on open-source models on premise.</p>
       <p class="app"><b>Used for</b> incident diagnosis, Kubernetes operations with Red Hat OpenShift, and anomaly validation in industrial monitoring.</p>
       <p class="papers"><a href="https://arxiv.org/abs/2408.01585">LibreLog</a> (ICSE '25), <a href="https://dl.acm.org/doi/10.1145/3803437.3805240">LLM agents for AIOps</a> (FSE '26 Industry), <a href="https://arxiv.org/pdf/2607.03599">Explainable anomaly detection</a> (2026)</p>
     </div>
     <div>
+      <svg class="fig" viewBox="0 0 280 110" role="img" aria-label="Response time across releases, with a user-perceived regression flagged in one release.">
+        <line x1="24" y1="90" x2="272" y2="90" stroke="#c7cdd5"/>
+        <line x1="24" y1="10" x2="24" y2="90" stroke="#c7cdd5"/>
+        <line x1="24" y1="44" x2="272" y2="44" stroke="#b4232c" stroke-dasharray="4 4" stroke-width="1"/>
+        <polyline points="40,70 80,66 120,68 160,28 200,62 240,60" fill="none" stroke="#1d4f91" stroke-width="2.4" stroke-linejoin="round"/>
+        <g fill="#1d4f91"><circle cx="40" cy="70" r="3.5"/><circle cx="80" cy="66" r="3.5"/><circle cx="120" cy="68" r="3.5"/><circle cx="200" cy="62" r="3.5"/><circle cx="240" cy="60" r="3.5"/></g>
+        <circle cx="160" cy="28" r="6" fill="#b4232c"/>
+        <g font-size="11" fill="#5c6370" text-anchor="middle"><text x="40" y="104">v1</text><text x="80" y="104">v2</text><text x="120" y="104">v3</text><text x="160" y="104">v4</text><text x="200" y="104">v5</text><text x="240" y="104">v6</text>
+        <text x="160" y="16" fill="#b4232c">lag users notice</text></g>
+        <text x="12" y="50" font-size="10" fill="#5c6370" transform="rotate(-90 12 50)" text-anchor="middle">latency</text>
+      </svg>
       <h3>Software performance</h3>
       <p>Detecting performance problems the way users experience them, and focusing performance testing on real usage.</p>
       <p class="app"><b>Used for</b> catching slowdowns in mobile OS releases, detecting GUI lag, and load testing.</p>
       <p class="papers"><a href="https://arxiv.org/abs/2509.16864">MobileUPReg</a> (ASE '25), <a href="https://arxiv.org/pdf/2502.04202">GUIWatcher</a> (ICSE-SEIP '25), <a href="https://petertsehsun.github.io/papers/mlolet_ase_2024.pdf">MLOLET</a> (ASE '24)</p>
     </div>
     <div>
+      <svg class="fig" viewBox="0 0 280 110" role="img" aria-label="A failing test leads to a ranked list of suspicious code lines, with the faulty line ranked first.">
+        <rect x="2" y="4" width="150" height="102" rx="6" fill="#f5f7fa" stroke="#e3e6ea"/>
+        <g fill="#c7cdd5"><rect x="12" y="16" width="90" height="6" rx="3"/><rect x="24" y="30" width="96" height="6" rx="3"/><rect x="24" y="44" width="70" height="6" rx="3"/><rect x="36" y="72" width="80" height="6" rx="3"/><rect x="12" y="86" width="60" height="6" rx="3"/></g>
+        <rect x="8" y="54" width="138" height="14" rx="3" fill="#fde7c7"/>
+        <rect x="36" y="58" width="98" height="6" rx="3" fill="#c46a00"/>
+        <circle cx="132" cy="40" r="15" fill="none" stroke="#1d4f91" stroke-width="2.4"/>
+        <line x1="143" y1="51" x2="152" y2="60" stroke="#1d4f91" stroke-width="3" stroke-linecap="round"/>
+        <rect x="172" y="8" width="104" height="22" rx="11" fill="#fbe9ea"/>
+        <text x="224" y="23" font-size="11" fill="#b4232c" text-anchor="middle">failing test</text>
+        <g font-size="11.5" fill="#5c6370">
+          <text x="176" y="54" font-weight="700" fill="#c46a00">1. line 42</text>
+          <text x="176" y="74">2. line 17</text>
+          <text x="176" y="94">3. line 88</text>
+        </g>
+      </svg>
       <h3>Testing and debugging</h3>
       <p>Locating faulty code automatically, now with LLM agents that navigate the codebase and reflect on their findings.</p>
       <p class="app"><b>Used for</b> shortening debugging time in CI pipelines.</p>
