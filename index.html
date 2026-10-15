@@ -58,6 +58,8 @@
   .roles { margin: 0 0 .8rem; color: var(--muted); }
   .roles span { display: block; }
   .contact { margin: 0 0 .6rem; }
+  .contact.emails { margin-bottom: .15rem; }
+  .contact .lbl { color: var(--muted); margin-right: .6rem; }
   .welcome { margin: 0 0 1.4rem; padding: .6rem .9rem; border-left: 3px solid var(--link); background: var(--soft); border-radius: 0 6px 6px 0; }
   .welcome p { margin: 0; }
   .welcome p + p { margin-top: .4rem; }
@@ -76,6 +78,7 @@
   .focus ul { margin: 0 0 1rem; padding-left: 1.15rem; }
   .focus li { margin-bottom: .25rem; }
   .papers { font-size: .92rem; color: var(--muted); margin: 0; }
+  .papers.demo { margin-top: .6rem; color: var(--ink); }
   .fig { display: block; width: 100%; height: auto; margin: 0 0 1rem; font-family: inherit; }
   .focus .fig.wide { grid-column: 1 / -1; max-width: 48rem; margin: 0 auto -.6rem; }
   .others .fig { max-width: 210px; margin-bottom: .8rem; }
@@ -91,6 +94,9 @@
   .pubs .venue { font-weight: 600; font-size: .92rem; color: var(--muted); padding-top: .1rem; }
   .pubs .t { font-weight: 600; display: block; line-height: 1.4; }
   .pubs .a { display: block; color: var(--muted); font-size: .93rem; }
+  .pubs .x { display: block; font-size: .9rem; }
+  .pubs .x a { margin-right: .8rem; font-weight: 600; }
+  .pubs .x .note { color: var(--muted); }
 
   /* news */
   .news { list-style: none; padding: 0; margin: 0; }
@@ -181,8 +187,8 @@
       <span>Director, Software Performance, Analysis, and Reliability (SPEAR) Lab</span>
       <span>Academic Associate Member, <a href="https://mila.quebec/">Mila – Quebec AI Institute</a></span>
     </p>
+    <p class="contact emails"><span class="lbl">Email</span> <a href="mailto:peterc@encs.concordia.ca">peterc@encs.concordia.ca</a> <a href="mailto:peter.chen@mila.quebec">peter.chen@mila.quebec</a></p>
     <p class="contact">
-      <a href="mailto:peterc@encs.concordia.ca">peterc@encs.concordia.ca</a>
       <a href="https://scholar.google.ca/citations?user=gUBD7x0AAAAJ&amp;hl=en">Google Scholar</a>
       <a href="https://linkedin.com/in/tse-hsun-peter-chen/">LinkedIn</a>
       <a href="https://twitter.com/petertsehsun">Twitter</a>
@@ -252,7 +258,8 @@
         <li>Multi-step task automation on mobile devices</li>
         <li>Tracing and attributing failures in agent runs</li>
       </ul>
-      <p class="papers">Representative work: <a href="https://arxiv.org/abs/2607.28815">ECLoop</a>, <a href="https://arxiv.org/abs/2608.00808">Ledger</a>, <a href="https://arxiv.org/abs/2607.29658">STAIR</a>, and <a href="https://arxiv.org/abs/2608.08950">RETRACE</a> (2026), <a href="https://arxiv.org/pdf/2601.23257">ConRAD</a> (ICML '26), <a href="https://arxiv.org/abs/2505.23596">Agent-SAMA</a> (AAAI '26), <a href="https://arxiv.org/abs/2606.00765">FALAT</a> (2026)</p>
+      <p class="papers">Representative work: <a href="https://arxiv.org/abs/2607.28815">ECLoop</a>, <a href="https://arxiv.org/abs/2608.00808">Ledger</a>, <a href="https://arxiv.org/abs/2607.29658">STAIR</a>, and <a href="https://arxiv.org/abs/2608.08950">RETRACE</a> (2026), <a href="https://arxiv.org/pdf/2601.23257">ConRAD</a> (ICML '26), <a href="https://arxiv.org/abs/2505.23596">Agent-SAMA</a> (AAAI '26), <a href="https://arxiv.org/abs/2606.00765">FALAT</a> and <a href="https://arxiv.org/abs/2608.05587">Q-Reflector</a> (2026)</p>
+      <p class="papers demo"><b>Try it:</b> <a href="https://huggingface.co/spaces/pockyitachi/Q-Reflector">Q-Reflector demo</a> (<a href="https://github.com/pockyitachi/Q-Reflector">code</a>, <a href="https://arxiv.org/abs/2608.05587">paper</a>), a vision-language verifier that checks whether a mobile GUI agent's action worked and gives feedback for its next step.</p>
     </div>
   </div>
 
@@ -366,6 +373,7 @@
   <ul class="pubs">
     <li><span class="venue">ICML 2026</span><span><a class="t" href="https://arxiv.org/pdf/2601.23257">From Patches to Plans: Reasoning Distillation for Repository-Level Program Repair</a><span class="a">Chenglin Li, Yisen Xu, Zehao Wang, Shin Hwei Tan, Tse-Hsun (Peter) Chen</span></span></li>
     <li><span class="venue">AAAI 2026</span><span><a class="t" href="https://arxiv.org/abs/2505.23596">Agent-SAMA: State-Aware Mobile Assistant</a><span class="a">Linqiang Guo, Wei Liu, Yi Wen Heng, Tse-Hsun (Peter) Chen, Yang Wang</span></span></li>
+    <li><span class="venue">arXiv 2026</span><span><a class="t" href="https://arxiv.org/abs/2608.05587">Q-Reflector: Learning GUI Action Reflection with Generated Conditions</a><span class="a">Linqiang Guo, Wei Liu, Li Gu, Yang Wang, Tse-Hsun (Peter) Chen</span><span class="x"><a href="https://github.com/pockyitachi/Q-Reflector">Code</a> <a href="https://huggingface.co/spaces/pockyitachi/Q-Reflector">Demo</a> <span class="note">Earlier version at the ECCV 2026 Workshop on Multimodal Digital Agents</span></span></span></li>
     <li><span class="venue">ICSE 2026</span><span><a class="t" href="https://arxiv.org/abs/2412.18750">Order Matters: Enhancing Fault Localization with LLM Agent-Driven Code Navigation and Self-Reflection</a><span class="a">Md Nakhla Rafi, Dong Jae Kim, Tse-Hsun (Peter) Chen, Shaowei Wang</span></span></li>
     <li><span class="venue">FSE 2026</span><span><a class="t" href="https://dl.acm.org/doi/10.1145/3803437.3805240">LLM Agents for AIOps in Kubernetes: An Industrial Experience Report with Red Hat OpenShift</a><span class="a">Arthur Vitui, Tse-Hsun (Peter) Chen</span></span></li>
     <li><span class="venue">ASE 2026</span><span><a class="t" href="https://arxiv.org/abs/2604.01518">Probe to Generate: Program Variant-Guided Test Augmentation for Repository-Level Repair Benchmarks</a><span class="a">Chenglin Li, Yisen Xu, Zehao Wang, Shin Hwei Tan, Tse-Hsun (Peter) Chen</span></span></li>
@@ -382,7 +390,7 @@
   <h2>News</h2>
   <ul class="news">
     <li><span class="d">Oct 2026</span><span>Joined <a href="https://mila.quebec/">Mila</a> as an Academic Associate Member.</span></li>
-    <li><span class="d">2026</span><span>Papers accepted at ICML, ACL, AAAI, ICSE, FSE (Industry), and ASE. Congrats to all the students!</span></li>
+    <li><span class="d">2026</span><span>Papers accepted at ICML, ACL, AAAI, ICSE, FSE (Industry), and ASE, plus the ECCV Workshop on Multimodal Digital Agents. Congrats to all the students!</span></li>
     <li><span class="d">2026</span><span>Keynote at PROMISE 2026 in Montreal; serving as General Chair of AIware 2026.</span></li>
     <li><span class="d">Nov 2025</span><span>Received the <a href="https://www.concordia.ca/cunews/main/stories/2025/12/16/concordia-software-engineering-professor-earns-national-early-career-award.html">CS-Can|Info-Can Outstanding Early Career Computer Science Researcher Award</a>.</span></li>
   </ul>
@@ -395,7 +403,7 @@
       <h3>Current members</h3>
       <ul>
         <li><b>Postdoc:</b> Md Ahasanuzzaman</li>
-        <li><b>PhD:</b> Victor Guerra Veloso, <a href="https://zeyang919.github.io/">Zeyang Ma</a>, <a href="https://sunnyh404.github.io/">Yi Wen Heng</a>, <a href="https://nakhlarafi.github.io/">Md Nakhla Rafi</a>, Linqiang Guo, S M Farah Al Fahim, <a href="https://xuyisen.github.io/">Yisen Xu</a>, Chenglin Li, Yifei Zhang</li>
+        <li><b>PhD:</b> Victor Guerra Veloso, <a href="https://zeyang919.github.io/">Zeyang Ma</a>, <a href="https://sunnyh404.github.io/">Yi Wen Heng</a>, <a href="https://nakhlarafi.github.io/">Md Nakhla Rafi</a>, <a href="https://pockyitachi.github.io/linqiang-guo/">Linqiang Guo</a>, S M Farah Al Fahim, <a href="https://xuyisen.github.io/">Yisen Xu</a>, Chenglin Li, Yifei Zhang</li>
         <li><b>MSc:</b> Minh Le, Rabeya Khatun Muna, Hassan Jabri</li>
       </ul>
     </div>
